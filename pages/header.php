@@ -178,7 +178,7 @@
                             <a href="suivi-projet.php"><i class="fa fa-table fa-fw"></i> Suivi du projet<span class="fa arrow"></a>
                              <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="projet.php">Le projet</a>
+                                    <a href="backlog.php">Backlog</a>
                                 </li>
                                  <li>
                                     <a href="#">Sprints par membres <span class="fa arrow"></span></a>
