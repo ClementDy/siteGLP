@@ -29,7 +29,7 @@
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 0</p>
+                                        <p style="text-align:right"> Temps Sprint : 4 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -70,7 +70,7 @@
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 0</p>
+                                        <p style="text-align:right"> Temps Sprint : 4 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -89,8 +89,13 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>13/10/2016</td>
-                                                                <td></td>
+                                                                <td>2 heures</td>
                                                                 <td>Modifications pages php (header,backlog,sprint par membre)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>10/10/2016</td>
+                                                                <td>2 heures</td>
+                                                                <td>Documentation sur open stack et sur la configuration de serveur pour héberger des sites web.</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>

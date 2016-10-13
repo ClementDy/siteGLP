@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 0</p>
+                    <p style="text-align:right"> Temps Total : 14 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Cl&eacute;ment
@@ -71,7 +71,7 @@
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 0</p>
+                                        <p style="text-align:right"> Temps Sprint : 14 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -90,8 +90,28 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>13/10/2016</td>
-                                                                <td></td>
+                                                                <td>2 heures</td>
                                                                 <td>Modifications pages php (header,backlog,sprint par membre)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>11/10/2016</td>
+                                                                <td>3 heures</td>
+                                                                <td> Configuration du serveur (installation apache,mysql..) et hébergement du site</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>10/10/2016</td>
+                                                                <td>2 heures</td>
+                                                                <td>Documentation sur open stack et sur la configuration de serveur pour héberger des sites web.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>04/10/2016</td>
+                                                                <td>3 heures</td>
+                                                                <td>D&eacute;veloppement des pages php.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>01/10/2016</td>
+                                                                <td>4 heures</td>
+                                                                <td>Création du site et developpement des pages php.</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
