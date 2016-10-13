@@ -90,7 +90,16 @@
                             <a href="suivi-projet.php"><i class="fa fa-table fa-fw"></i> Suivi du projet<span class="fa arrow"></a>
                              <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="backlog.php">Backlog</a>
+                                    <a href="#">Backlog<span class="fa arrow"></a>
+                                    <ul class="nav nav-third-level">
+                                        <li>
+                                            <a href="backlogEntree.php">Entr&eacute;e</a>
+                                        </li>
+                                        <li>
+                                            <a href="backlogSprint.php">Sprint</a>
+                                        </li>
+                                        
+                                    </ul>
                                 </li>
                                  <li>
                                     <a href="#">Sprints par membres <span class="fa arrow"></span></a>

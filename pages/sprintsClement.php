@@ -82,7 +82,6 @@
                                                     <table class="table table-striped table-bordered table-hover">
                                                         <thead>
                                                             <tr>
-                                                                <th>n° Sprint</th>
                                                                 <th>Date</th>
                                                                 <th>Temps passé</th>
                                                                 <th>T&acirc;che</th>
@@ -90,7 +89,6 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td>0</td>
                                                                 <td>13/10/2016</td>
                                                                 <td></td>
                                                                 <td>Modifications pages php (header,backlog,sprint par membre)</td>
