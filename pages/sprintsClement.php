@@ -11,6 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
+                    <p style="text-align:right"> Temps Total : 0</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Cl&eacute;ment
@@ -28,38 +29,37 @@
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                            <!-- Nav tabs -->
-	                           				<ul class="nav nav-tabs">
-				                                <li class="active"><a href="#infos1" data-toggle="tab">Informations g&eacute;n&eacute;rales</a>
-				                                </li>
-				                                <li><a href="#confos1" data-toggle="tab">Conformit&eacute;</a>
-				                                </li>
-				                                <li><a href="#mods1" data-toggle="tab">Modifications</a>
-				                                </li>
-				                                <li><a href="#settings1" data-toggle="tab">Settings</a>
-				                                </li>
-	                           				</ul>
 
-					                            <!-- Tab panes -->
-					                            <div class="tab-content">
-					                                <div class="tab-pane fade in active" id="infos1">
-					                                		<p> Prochainement ... </p>
-
-					                                </div>
-					                                <div class="tab-pane fade" id="#confos1">
-					                                		<p> Prochainement ... </p>
-					                                </div>
-					                                <div class="tab-pane fade" id="mods1">
-					                                   	<p> Prochainement ... </p>
-					                                </div>
-					                                <div class="tab-pane fade" id="settings1">
-					                                    <p> Prochainement ... </p>
-					                         			</div>
-					                            </div>
-                        					</div>
-                        <!-- /.panel-body -->
-                        				</div>
+                                        <p style="text-align:right"> Temps Sprint : 0</p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                Relev&eacute; d'activit&eacute;s
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Date</th>
+                                                                <th>Temps passé</th>
+                                                                <th>T&acirc;che</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                        			</div>
                                 </div>
                                 
 
@@ -71,41 +71,38 @@
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                            <!-- Nav tabs -->
-	                           				<ul class="nav nav-tabs">
-				                                <li class="active"><a href="#infos0" data-toggle="tab">Informations g&eacute;n&eacute;rales</a>
-				                                </li>
-				                                <li><a href="#confos0" data-toggle="tab">Conformit&eacute;</a>
-				                                </li>
-				                                <li><a href="#mods0" data-toggle="tab">Modifications</a>
-				                                </li>
-				                                <li><a href="#settings0" data-toggle="tab">Settings</a>
-				                                </li>
-	                           				</ul>
-
-					                            <!-- Tab panes -->
-					                            <div class="tab-content">
-					                                <div class="tab-pane fade in active" id="infos0">
-					                                    <h5> Réalisation du site WEB.</h5>
-					                                    <p> Réalisé par : Clément Dilly		|		Durée : +/- 6 heures </p>
-
-					                                </div>
-					                                <div class="tab-pane fade" id="confos0">
-					                                		<h5> Conformités : </h5> 
-					                                		<p> Le site reprend les informations demandées dans le cahier des charges.</p>
-					                                </div>
-					                                <div class="tab-pane fade" id="mods0">
-					                                    <h4>Modifications</h4>
-					                                    <p> En attente de validation .. </p>
-					                                </div>
-					                                <div class="tab-pane fade" id="settings0">
-					                                    <h5>En attente ...</h5>
-					                                </div>
-					                            </div>
-                        					</div>
-                        <!-- /.panel-body -->
-                        				</div>
+                                        <p style="text-align:right"> Temps Sprint : 0</p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                Relev&eacute; d'activit&eacute;s
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>n° Sprint</th>
+                                                                <th>Date</th>
+                                                                <th>Temps passé</th>
+                                                                <th>T&acirc;che</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>0</td>
+                                                                <td>13/10/2016</td>
+                                                                <td></td>
+                                                                <td>Modifications pages php (header,backlog,sprint par membre)</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                        			</div>
                                 </div>
                             </div>
                         </div>
