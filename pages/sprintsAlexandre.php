@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 0</p>
+                    <p style="text-align:right"> Temps Total : 4</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints d'Alexandre
