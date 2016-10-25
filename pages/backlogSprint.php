@@ -24,7 +24,7 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">X - A venir</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Réalisation du dossier d'expression des besoins</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
