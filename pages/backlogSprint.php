@@ -46,14 +46,14 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td>Réaliser les cas utilisations</td>
-                                                                <td>2 heures</td>
+                                                                <td>Préparation des serveurs d'intégration continue et du site</td>
+                                                                <td>4 heures</td>
                                                                 <td></td>
                                                                 <td>Termin&eacute;</td>
                                                             </tr>
                                                             <tr>
-                                                                <td>Rédiger le dossier (Description des besoins techniques/ergonomiques..)</td>
-                                                                <td>4 heures</td>
+                                                                <td>Rédiger le dossier (Description des besoins techniques/ergonomiques..,cas d'utilisations,maquettes)</td>
+                                                                <td>6 heures</td>
                                                                 <td></td>
                                                                 <td>Termin&eacute;</td>
                                                             </tr>
