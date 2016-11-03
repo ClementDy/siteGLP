@@ -27,6 +27,11 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                                    <tr class="danger">
+                                            <td> Préparation des serveurs (Intégration continue et site)</td>
+                                            <td> Sprint n°1</td>
+                                            <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
+                                        </tr>
                                         <tr class="danger">
                                             <td> Réalisation du dossier d'expression des besoins</td>
                                             <td> Sprint n°1</td>
