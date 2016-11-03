@@ -24,14 +24,14 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - A venir</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Expression des besoins</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
                                         <div class="panel-body">
-                                            <h4> CV </h4>
-                                            <p><a href="../CVAlexSept2016.pdf" download="CV_Alexandre">Télécharger le CV d'Alexandre</a></p>
-                                            <p><a href="../CV_WillyPezant.pdf" download="CV_Alexandre">Télécharger le CV de Willy</a></p>
+                                            <h4> Dossier Expression des besoins. </h4>
+                                            <p><a href="../Expressiondesbesoins.pdf" download="ExpressionBesoins_DigiTeam_V1">Télécharger le dossier d'expression des besoins</a></p>
+                                            
                         <!-- /.panel-body -->
                                         </div>
                                 </div>
@@ -46,7 +46,10 @@
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">
                                         <div class="panel-body">
-                           
+                                            <h4> CV </h4>
+                                            <p><a href="../CVAlexSept2016.pdf" download="CV_Alexandre">Télécharger le CV d'Alexandre</a></p>
+                                            <p><a href="../CV_WillyPezant.pdf" download="CV_Alexandre">Télécharger le CV de Willy</a></p>
+                        <!-- /.panel-body -->
                                         </div>
                                     </div>
                                 </div>
