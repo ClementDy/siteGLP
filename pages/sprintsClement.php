@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 15 heures</p>
+                    <p style="text-align:right"> Temps Total : 21 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Cl&eacute;ment
@@ -30,7 +30,7 @@
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 1 heure</p>
+                                        <p style="text-align:right"> Temps Sprint : 7 heure</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -47,6 +47,16 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                            <tr>
+                                                                <td>31/10/2016 - 02/11/2016</td>
+                                                                <td>5 heure</td>
+                                                                <td>Réalisation du dossier d'expression des besoins.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>31/10/2016 - 02/11/2016</td>
+                                                                <td>1 heure</td>
+                                                                <td>Brain storming pour dossier d'expression des besoins.</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>21/10/2016</td>
                                                                 <td>1 heure</td>

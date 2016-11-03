@@ -38,16 +38,24 @@
                                                     <table class="table table-striped table-bordered table-hover">
                                                         <thead>
                                                             <tr>
-                                                                <th>Date</th>
-                                                                <th>Temps passé</th>
                                                                 <th>T&acirc;che</th>
+                                                                <th>Temps estim&eacute;</th>
+                                                                <th>Temps mis</th>
+                                                                <th>Avancement</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
+                                                                <td>Réaliser les cas utilisations</td>
+                                                                <td>2 heures</td>
                                                                 <td></td>
+                                                                <td>Termin&eacute;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Rédiger le dossier (Description des besoins techniques/ergonomiques..)</td>
+                                                                <td>4 heures</td>
                                                                 <td></td>
-                                                                <td></td>
+                                                                <td>Termin&eacute;</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
