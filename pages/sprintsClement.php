@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 14 heures</p>
+                    <p style="text-align:right"> Temps Total : 21 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Cl&eacute;ment
@@ -25,12 +25,12 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">X - A venir</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Réalisation du dossier d'expression des besoins</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 0</p>
+                                        <p style="text-align:right"> Temps Sprint : 7 heure</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -48,9 +48,19 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>31/10/2016 - 02/11/2016</td>
+                                                                <td>5 heure</td>
+                                                                <td>Réalisation du dossier d'expression des besoins.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>31/10/2016 - 02/11/2016</td>
+                                                                <td>1 heure</td>
+                                                                <td>Brain storming pour dossier d'expression des besoins.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>21/10/2016</td>
+                                                                <td>1 heure</td>
+                                                                <td>Cr&eacute;ation du serveur et installaion de JAVA, SQL et Jenkins</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -67,7 +77,7 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - Réalisation du site WEB</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - R&eacute;alisation du site WEB</a>
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">

@@ -28,9 +28,14 @@
                                     </thead>
                                     <tbody>
                                         <tr class="danger">
+                                            <td> Réalisation du dossier d'expression des besoins</td>
+                                            <td> Sprint n°1</td>
+                                            <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
+                                        </tr>
+                                        <tr class="danger">
                                             <td> Hébergement du site</td>
                                             <td> Sprint n°0</td>
-                                            <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
+                                            <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
                                         </tr>
                                         <tr class="danger">
                                             <td class="success"> Réalisation du site de suivi du projet</td>

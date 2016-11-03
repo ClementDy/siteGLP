@@ -24,7 +24,7 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">X - A venir</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Réalisation du dossier d'expression des besoins</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
@@ -38,16 +38,24 @@
                                                     <table class="table table-striped table-bordered table-hover">
                                                         <thead>
                                                             <tr>
-                                                                <th>Date</th>
-                                                                <th>Temps passé</th>
                                                                 <th>T&acirc;che</th>
+                                                                <th>Temps estim&eacute;</th>
+                                                                <th>Temps mis</th>
+                                                                <th>Avancement</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
+                                                                <td>Réaliser les cas utilisations</td>
+                                                                <td>2 heures</td>
                                                                 <td></td>
+                                                                <td>Termin&eacute;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Rédiger le dossier (Description des besoins techniques/ergonomiques..)</td>
+                                                                <td>4 heures</td>
                                                                 <td></td>
-                                                                <td></td>
+                                                                <td>Termin&eacute;</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -89,7 +97,7 @@
                                                                 <td>Codes des différentes pages php</td>
                                                                 <td>10 heures</td>
                                                                 <td></td>
-                                                                <td>En cours</td>
+                                                                <td>Termin&eacute;</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
