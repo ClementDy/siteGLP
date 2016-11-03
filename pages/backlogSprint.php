@@ -97,7 +97,7 @@
                                                                 <td>Codes des différentes pages php</td>
                                                                 <td>10 heures</td>
                                                                 <td></td>
-                                                                <td>En cours</td>
+                                                                <td>Termin&eacute;</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
