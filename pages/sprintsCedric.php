@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 0</p>
+                    <p style="text-align:right"> Temps Total : 9 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de C&eacute;dric
@@ -25,11 +25,12 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">X - A venir</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Réalisation du dossier d'expression des besoins</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 0</p>
+
+                                        <p style="text-align:right"> Temps Sprint : 9 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -47,9 +48,24 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>04/11/2016</td>
+                                                                <td>1 heure 30</td>
+                                                                <td>Review, en équipe et avec le client, du dossier d'expression des besoins</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>29/10/2016 - 02/11/2016</td>
+                                                                <td>4 heures</td>
+                                                                <td>Réalisation du dossier d'expression des besoins.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>24/10/2016 - 25/10/2016</td>
+                                                                <td>2 heures</td>
+                                                                <td>Brainstorming pour dossier d'expression des besoins.</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>21/10/2016</td>
+                                                                <td>1 heure 30</td>
+                                                                <td>Cr&eacute;ation du serveur et installaion de JAVA, SQL et Jenkins</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
