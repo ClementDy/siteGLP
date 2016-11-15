@@ -31,7 +31,7 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">1 - Modification du dossier d'expression des besoins (V1.2)</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">2 - Modification du dossier d'expression des besoins (V1.2)</a>
                                         </h4>
                                     </div>
                                     <div id="sprint2" class="panel-collapse collapse">
@@ -86,7 +86,7 @@
                                     </div>
                                 </div>
 
-                                
+
 
                                 <!-- Sprint 1 -->
                               <div class="panel panel-default">
