@@ -15,6 +15,71 @@
                         <div class="panel-heading">
                             Les sprints
                         </div>
+
+                        <div class="panel-body">
+                            <div class="panel-group" id="accordion">
+                                
+
+                                <!-- Sprint 2 -->
+                              <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">1 - Modification du dossier d'expression des besoins (V1.2)</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint2" class="panel-collapse collapse">
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>T&acirc;che</th>
+                                                                <th>Temps estim&eacute;</th>
+                                                                <th>Temps mis</th>
+                                                                <th>Avancement</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Faire le socle technique</td>
+                                                                <td>4 heures</td>
+                                                                <td></td>
+                                                                <td> </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Modifier les cas utilisations.</td>
+                                                                <td>4 heures</td>
+                                                                <td></td>
+                                                                <td> </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Réaliser les différents diagrammes et schémas (Activités, hierarchie..)</td>
+                                                                <td>4 heures</td>
+                                                                <td></td>
+                                                                <td> </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Appliquer les remarques de la première review (Texte)</td>
+                                                                <td>2 heures</td>
+                                                                <td></td>
+                                                                <td> </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                                
+
                         <!-- .panel-heading -->
                          <div class="panel-body">
                             <div class="panel-group" id="accordion">
