@@ -16,7 +16,14 @@
                             Les sprints
                         </div>
 
-                        <div class="panel-body">
+                        
+                                
+
+                        <!-- .panel-heading -->
+                         <div class="panel-body">
+                            <div class="panel-group" id="accordion">
+                                
+                                <div class="panel-body">
                             <div class="panel-group" id="accordion">
                                 
 
@@ -78,11 +85,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                
 
-                        <!-- .panel-heading -->
-                         <div class="panel-body">
-                            <div class="panel-group" id="accordion">
                                 
 
                                 <!-- Sprint 1 -->
@@ -98,6 +101,7 @@
                                             </div>
                                             <!-- /.panel-heading -->
                                             <div class="panel-body">
+
 
                                                 <div class="table-responsive">
                                                     <table class="table table-striped table-bordered table-hover">
