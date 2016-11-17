@@ -34,6 +34,8 @@
                                             
                         <!-- /.panel-body -->
                                         </div>
+                                    </div>
+                                </div>
 
 
                                 <!-- Sprint 1 -->
