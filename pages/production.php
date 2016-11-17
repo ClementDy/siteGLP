@@ -30,7 +30,7 @@
                                     <div id="sprint2" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <h4> Dossier Expression des besoins. </h4>
-                                            <p><a href="../Expressiondesbesoins_V1.2.pdf" download="ExpressionBesoins_DigiTeam_V1">Télécharger le dossier d'expression des besoins (V1.2)</a></p>
+                                            <p><a href="../Expressiondesbesoins_DigiTeam_v1.2.pdf" download="ExpressionBesoins_DigiTeam_V1.2">Télécharger le dossier d'expression des besoins (V1.2)</a></p>
                                             
                         <!-- /.panel-body -->
                                         </div>
