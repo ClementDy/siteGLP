@@ -19,38 +19,7 @@
                         <!-- .panel-heading -->
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
-
-                              <!-- Sprint 0 -->
-                              <div class="panel panel-default">
-                                  <div class="panel-heading">
-                                      <h4 class="panel-title">
-                                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - Réalisation du site WEB </a>
-                                      </h4>
-                                  </div>
-                                  <div id="sprint0" class="panel-collapse collapse">
-                                      <p style="text-align:right"> Temps Sprint : 0</p>
-                                      <div class="panel panel-default">
-                                          <div class="panel-heading">
-                                              Relev&eacute; d'activit&eacute;s
-                                          </div>
-                                          <!-- /.panel-heading -->
-                                          <div class="panel-body">
-                                              <div class="table-responsive">
-                                                  <table class="table table-striped table-bordered table-hover">
-                                                      <thead>
-                                                          <tr>
-                                                              <th>Date</th>
-                                                              <th>Temps passé</th>
-                                                              <th>T&acirc;che</th>
-                                                          </tr>
-                                                      </thead>
-                                                    </table>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                            	<!-- Sprint 1 -->
+                              <!-- Sprint 1 -->
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
@@ -153,6 +122,37 @@
                                                 </div>
                                               </div>
                                             </div>
+                              <!-- Sprint 0 -->
+                              <div class="panel panel-default">
+                                  <div class="panel-heading">
+                                      <h4 class="panel-title">
+                                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - Réalisation du site WEB </a>
+                                      </h4>
+                                  </div>
+                                  <div id="sprint0" class="panel-collapse collapse">
+                                      <p style="text-align:right"> Temps Sprint : 0</p>
+                                      <div class="panel panel-default">
+                                          <div class="panel-heading">
+                                              Relev&eacute; d'activit&eacute;s
+                                          </div>
+                                          <!-- /.panel-heading -->
+                                          <div class="panel-body">
+                                              <div class="table-responsive">
+                                                  <table class="table table-striped table-bordered table-hover">
+                                                      <thead>
+                                                          <tr>
+                                                              <th>Date</th>
+                                                              <th>Temps passé</th>
+                                                              <th>T&acirc;che</th>
+                                                          </tr>
+                                                      </thead>
+                                                    </table>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+
                             </div>
                         </div>
                         <!-- .panel-body -->
