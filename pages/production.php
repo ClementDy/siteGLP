@@ -20,6 +20,24 @@
                             <div class="panel-group" id="accordion">
                                 
 
+                                <!-- Sprint 2 -->
+                              <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">2 - Modification du dossier d'expression des besoins (V1.2)</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint2" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            <h4> Dossier Expression des besoins. </h4>
+                                            <p><a href="../Expressiondesbesoins_DigiTeam_v1.2.pdf" download="ExpressionBesoins_DigiTeam_V1.2">Télécharger le dossier d'expression des besoins (V1.2)</a></p>
+                                            
+                        <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
+
+
                                 <!-- Sprint 1 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">
