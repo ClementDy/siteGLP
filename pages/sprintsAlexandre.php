@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 11</p>
+                    <p style="text-align:right"> Temps Total : 21</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints d'Alexandre
@@ -19,13 +19,60 @@
                         <!-- .panel-heading -->
                          <div class="panel-body">
                             <div class="panel-group" id="accordion">
-                                
-
+				<!-- Sprint 2-->		      
+				<div class="panel panel-default">
+			    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">Sprint-2</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint2" class="panel-collapse collapse">
+                                        <p style="text-align:right"> Temps Sprint : 10 heures</p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                Relev&eacute; d'activit&eacute;s
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+							 <tr>
+                                                                <th>Date</th>
+                                                                <th>Temps passé</th>
+                                                                <th>T&acirc;che</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>16/11/2016</td>
+                                                                <td>5h</td>
+                                                                <td>Modification du site pour afficher les informations de la BDD </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>03/11/2016 - 16/11/2016</td>
+                                                                <td>4h</td>
+                                                                <td>Configuration Jenkins , Tomcat, Spring boot pour le site</td>
+                                                            </tr>
+                                                             <tr>
+                                                                <td>31/10/2016 - 03/11/2016</td>
+                                                                <td>1h</td>
+                                                                <td>Modification du dossier d'expression des besoins</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
                                 <!-- Sprint 1 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Réalisation du dossier d'expression des besoins</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">Sprint-1</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
@@ -76,7 +123,7 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - Réalisation du site WEB</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">Sprint-0</a>
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">

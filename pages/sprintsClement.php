@@ -23,7 +23,7 @@
 	                              <div class="panel panel-default">
 	                                    <div class="panel-heading">
 	                                        <h4 class="panel-title">
-	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">3 - </a>
+	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint3">3 - </a>
 	                                        </h4>
 	                                    </div>
 	                                    <div id="sprint2" class="panel-collapse collapse">
