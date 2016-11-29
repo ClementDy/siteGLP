@@ -23,7 +23,7 @@
 				<div class="panel panel-default">
 			    <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">Sprint-2</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">Sprint - 2</a>
                                         </h4>
                                     </div>
                                     <div id="sprint2" class="panel-collapse collapse">
@@ -72,7 +72,7 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">Sprint-1</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">Sprint - 1</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
@@ -123,7 +123,7 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">Sprint-0</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">Sprint - 0</a>
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">

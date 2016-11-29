@@ -23,10 +23,10 @@
 	                              <div class="panel panel-default">
 	                                    <div class="panel-heading">
 	                                        <h4 class="panel-title">
-	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint3">3 - </a>
+	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint3">Sprint - 3</a>
 	                                        </h4>
 	                                    </div>
-	                                    <div id="sprint2" class="panel-collapse collapse">
+	                                    <div id="sprint3" class="panel-collapse collapse">
 	
 	                                        <p style="text-align:right"> Temps Sprint : 1 heure</p>
 	                                        <div class="panel panel-default">
@@ -50,8 +50,6 @@
 	                                                                <td> 1 heures</td>
 	                                                                <td>Réalisation de maquettes sur balsamiq (Créer une candidature)</td>
 	                                                            </tr>
-
-	
 	                                                        </tbody>
 	                                                    </table>
 	                                                </div>
@@ -68,7 +66,7 @@
 	                              <div class="panel panel-default">
 	                                    <div class="panel-heading">
 	                                        <h4 class="panel-title">
-	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">2 - Modification du dossier d'expression des besoins (V1.2)</a>
+	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">Sprint - 2</a>
 	                                        </h4>
 	                                    </div>
 	                                    <div id="sprint2" class="panel-collapse collapse">
@@ -141,7 +139,7 @@
 	                              <div class="panel panel-default">
 	                                    <div class="panel-heading">
 	                                        <h4 class="panel-title">
-	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Réalisation du dossier d'expression des besoins</a>
+	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">Sprint - 1</a>
 	                                        </h4>
 	                                    </div>
 	                                    <div id="sprint1" class="panel-collapse collapse">
@@ -193,7 +191,7 @@
 	                                <div class="panel panel-default">
 	                                    <div class="panel-heading">
 	                                        <h4 class="panel-title">
-	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - R&eacute;alisation du site WEB</a>
+	                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">Sprint - 0</a>
 	                                        </h4>
 	                                    </div>
 	                                    <div id="sprint0" class="panel-collapse collapse">
