@@ -22,62 +22,146 @@
                                     <thead>
                                         <tr>
                                             <th>Cas Utilisation</th>
-                                            <th>Numéro de sprint</th>
+                                            <th>Tâche</th>
                                             <th>Etat</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-                                         <tr class="danger">
+                                        <tr>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.1 - Création du profil étudiant</td>
+                                            <td>1. Création du formulaire informations personnelles</td>
+                                            <td></td>
+                                        </tr>
+
+                                         <tr>
+                                            <td></td>
+                                            <td>2. Création du formulaire formations</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>3. Création du formulaire contrats</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>4. Création du formulaire divers</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>5. Création du formulaire motivations</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>6. Création du formulaire souhaits</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>7. Création du formulaire disponibilités</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>8. Création du formulaire dépôt de CV</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>9. Enregistrement des informations dans la base de donnée</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.2 - Mise à jour du profil étudiant</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.3 - Dépublication du profil étudiant</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.4 - Publication de la candidature</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.5 - Consultation des offres</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.6 - Abonnement à l'alerte par e-mail</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.7 - Actualiser sa candidature après une nouvelle année scolaire</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+
+
+
+                                         <!--<tr>
                                             <td> Réalisation du socle technique.</td>
                                             <td> Sprint n°2</td>
                                             <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
                                         </tr>
-                                        <tr class="danger">
+                                        <tr>
                                             <td> Modification du dossier d'expression des besoins (V1.2)</td>
                                             <td> Sprint n°2</td>
                                             <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
                                         </tr>
-                                    <tr class="danger">
+                                    <tr>
                                             <td> Préparation des serveurs (Intégration continue et site)</td>
                                             <td> Sprint n°1</td>
                                             <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
                                         </tr>
-                                        <tr class="danger">
+                                        <tr>
                                             <td> Réalisation du dossier d'expression des besoins</td>
                                             <td> Sprint n°1</td>
                                             <td><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></td>
                                         </tr>
-                                        <tr class="danger">
+                                        <tr>
                                             <td> Hébergement du site</td>
                                             <td> Sprint n°0</td>
                                             <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
                                         </tr>
-                                        <tr class="danger">
-                                            <td class="success"> Réalisation du site de suivi du projet</td>
+                                        <tr>
+                                            <td> Réalisation du site de suivi du projet</td>
                                             <td> Sprint n°0</td>
                                             <td><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></td>
-                                        </tr>
+                                        </tr>-->
                                     </tbody>
                                 </table>
                             </div>
                                                 <!-- /.table-responsive -->
                         </div>
                     </div>
-                        <div class="table-responsive">
-                                <table class="table table-striped table-bordered table-hover">
-                                    <tbody>
-                                        <tr class="success">
-                                            <td>Priorit&eacute; faible</td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>Priorit&eacute; moyenne</td>
-                                        </tr>
-                                        <tr class="danger">
-                                            <td>Priorit&eacute; importante</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
 
 
                             </div>
