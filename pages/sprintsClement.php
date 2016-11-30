@@ -11,7 +11,7 @@
 	               
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 34 heures</p>
+	                    <p style="text-align:right"> Temps Total : 37 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -28,7 +28,7 @@
 	                                    </div>
 	                                    <div id="sprint3" class="panel-collapse collapse">
 	
-	                                        <p style="text-align:right"> Temps Sprint : 1 heure</p>
+	                                        <p style="text-align:right"> Temps Sprint : 4 heure</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
 	                                                Relev&eacute; d'activit&eacute;s
@@ -47,11 +47,11 @@
 	                                                        <tbody>
 	                                                        	<tr>
 	                                                        		<td>30/11/2016</td>
-	                                                        		<td></td>
-	                                                        		<td></td>
+	                                                        		<td>2 heures</td>
+	                                                        		<td>Modification du site de communication, modification du dossier d'expression des besoins</td>
 	                                                        	<tr>
 	                                                        		<td>29/11/2016</td>
-	                                                        		<td>2 heures</td>
+	                                                        		<td>1 heures</td>
 	                                                        		<td>Modification des diagrammes et du dossier d'expression des besoins</td>
 																<tr>
 	                                                                <td>24/11/2016</td>

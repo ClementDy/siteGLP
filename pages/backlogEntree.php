@@ -22,7 +22,7 @@
                                     <thead>
                                         <tr>
                                             <th>Cas Utilisation</th>
-                                            <th>Tâche</th>
+                                            <th>User Story</th>
                                             <th>Etat</th>
                                         </tr>
                                     </thead>
@@ -32,55 +32,55 @@
                                         <tr>
                                             <td>1.1 - Création du profil étudiant</td>
                                             <td>1. Création du formulaire informations personnelles</td>
-                                            <td></td>
+                                            <td>Doing</td>
                                         </tr>
 
                                          <tr>
                                             <td></td>
                                             <td>2. Création du formulaire formations</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>3. Création du formulaire contrats</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>4. Création du formulaire divers</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>5. Création du formulaire motivations</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>6. Création du formulaire souhaits</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>7. Création du formulaire disponibilités</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>8. Création du formulaire dépôt de CV</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>9. Enregistrement des informations dans la base de donnée</td>
-                                            <td></td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr>
