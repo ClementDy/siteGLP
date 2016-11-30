@@ -45,6 +45,14 @@
 	                                                            </tr>
 	                                                        </thead>
 	                                                        <tbody>
+	                                                        	<tr>
+	                                                        		<td>30/11/2016</td>
+	                                                        		<td></td>
+	                                                        		<td></td>
+	                                                        	<tr>
+	                                                        		<td>29/11/2016</td>
+	                                                        		<td>2 heures</td>
+	                                                        		<td>Modification des diagrammes et du dossier d'expression des besoins</td>
 																<tr>
 	                                                                <td>24/11/2016</td>
 	                                                                <td> 1 heures</td>

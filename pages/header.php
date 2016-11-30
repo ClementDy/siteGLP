@@ -57,7 +57,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="home.php">Projet GLP 2017</a>
+                <a class="navbar-brand" href="home.php">DigiTeam</a>
             </div>
             <!-- /.navbar-header -->
 

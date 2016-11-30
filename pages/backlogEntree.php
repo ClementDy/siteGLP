@@ -26,12 +26,8 @@
                                             <th>Etat</th>
                                         </tr>
                                     </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                        </tr>
+                                    <tbody style="text-align:left">
+                                        
 
                                         <tr>
                                             <td>1.1 - Création du profil étudiant</td>
