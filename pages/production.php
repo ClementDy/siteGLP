@@ -20,11 +20,29 @@
                             <div class="panel-group" id="accordion">
                                 
 
+                            <!-- Sprint 3 -->
+                              <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint3">Sprint - 3</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint3" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            <h4> Dossier Expression des besoins. </h4>
+                                            <p><a href="../Expressiondesbesoins_DigiTeam_v1.3.pdf" download="ExpressionBesoins_DigiTeam_V1.2">Télécharger le dossier d'expression des besoins (V1.3)</a></p>
+                                            
+                        <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
+
+
                                 <!-- Sprint 2 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">2 - Modification du dossier d'expression des besoins (V1.2)</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint2">Sprint - 2</a>
                                         </h4>
                                     </div>
                                     <div id="sprint2" class="panel-collapse collapse">
@@ -42,7 +60,7 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">1 - Expression des besoins</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint1">Sprint - 1</a>
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
@@ -59,7 +77,7 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">0 - Réalisation du site WEB</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint0">Sprint - 0</a>
                                         </h4>
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">
