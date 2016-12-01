@@ -11,7 +11,7 @@
 	               
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 37 heures</p>
+	                    <p style="text-align:right"> Temps Total : 39 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -28,7 +28,7 @@
 	                                    </div>
 	                                    <div id="sprint3" class="panel-collapse collapse">
 	
-	                                        <p style="text-align:right"> Temps Sprint : 4 heure</p>
+	                                        <p style="text-align:right"> Temps Sprint : 6 heure</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
 	                                                Relev&eacute; d'activit&eacute;s
@@ -45,6 +45,11 @@
 	                                                            </tr>
 	                                                        </thead>
 	                                                        <tbody>
+	                                                        	<tr>
+	                                                        		<td>01/12/2016</td>
+	                                                        		<td>2 heures</td>
+	                                                        		<td>Réalisation d'une première partie du formulaire informations personnelles avec thymeleaf</td>
+	                                                        	</tr>
 	                                                        	<tr>
 	                                                        		<td>30/11/2016</td>
 	                                                        		<td>2 heures</td>
