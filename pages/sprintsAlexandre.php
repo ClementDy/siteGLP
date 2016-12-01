@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 21</p>
+                    <p style="text-align:right"> Temps Total : 26 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints d'Alexandre
@@ -19,6 +19,49 @@
                         <!-- .panel-heading -->
                          <div class="panel-body">
                             <div class="panel-group" id="accordion">
+                                <!-- Sprint 3-->              
+                <div class="panel panel-default">
+                <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint3">Sprint - 3</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint3" class="panel-collapse collapse">
+                                        <p style="text-align:right"> Temps Sprint : 5 heures</p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                Relev&eacute; d'activit&eacute;s
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                              <tr>
+                                                                    <th>Date</th>
+                                                                    <th>Temps passé</th>
+                                                                    <th>T&acirc;che</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td>24/11/2016 - 27/11/2016</td>
+                                                                    <td>4 heures</td>
+                                                                    <td>Modification du dossier d'expression des besoins</td>
+                                                                <tr>
+                                                                    <td>30/11/2016</td>
+                                                                    <td> 1 heure</td>
+                                                                    <td>Mise en place du template Thymeleaf sur le siteweb</td>
+                                                                </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
 				<!-- Sprint 2-->		      
 				<div class="panel panel-default">
 			    <div class="panel-heading">
