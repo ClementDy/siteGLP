@@ -39,7 +39,7 @@
                                             </div>
                                             <!-- /.panel-heading -->
                                             <div class="panel-body">
-                                                <h4><b> Creation des Formulaires</b></h4>
+                                                <h4><b>En tant qu'étudiant je peux insérer mes données personnelles</b></h4>
                                                 <div class="table-responsive">
                                                     <table class="table table-striped table-bordered table-hover">
                                                         <thead>
@@ -48,11 +48,12 @@
                                                                 <th>Temps estim&eacute;</th>
                                                                 <th>Temps mis</th>
                                                                 <th>Avancement</th>
+                                                                <th>Qui ?</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td>/td>
+                                                                <td></td>
                                                                 <td></td>
                                                                 <td></td>
                                                                 <td></td>
@@ -61,6 +62,131 @@
                                                     </table>
                                                 </div>
                                               </div>
+
+                                              <div class="panel-body">
+                                                  <h4><b>En tant qu'étudiant je peux insérer mes informations diverses</b></h4>
+                                                  <div class="table-responsive">
+                                                      <table class="table table-striped table-bordered table-hover">
+                                                          <thead>
+                                                              <tr>
+                                                                  <th>T&acirc;che</th>
+                                                                  <th>Temps estim&eacute;</th>
+                                                                  <th>Temps mis</th>
+                                                                  <th>Avancement</th>
+                                                                  <th>Qui ?</th>
+                                                              </tr>
+                                                          </thead>
+                                                          <tbody>
+                                                              <tr>
+                                                                  <td></td>
+                                                                  <td></td>
+                                                                  <td></td>
+                                                                  <td></td>
+                                                              </tr>
+                                                          </tbody>
+                                                      </table>
+                                                  </div>
+                                                </div>
+
+                                                <div class="panel-body">
+                                                    <h4><b>En tant qu'étudiant je peux insérer les motivations de ma candidature</b></h4>
+                                                    <div class="table-responsive">
+                                                        <table class="table table-striped table-bordered table-hover">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th>T&acirc;che</th>
+                                                                    <th>Temps estim&eacute;</th>
+                                                                    <th>Temps mis</th>
+                                                                    <th>Avancement</th>
+                                                                    <th>Qui ?</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                  </div>
+
+                                                  <div class="panel-body">
+                                                      <h4><b>En tant qu'étudiant je peux ajouter mes souhaits concernant les contrats</b></h4>
+                                                      <div class="table-responsive">
+                                                          <table class="table table-striped table-bordered table-hover">
+                                                              <thead>
+                                                                  <tr>
+                                                                      <th>T&acirc;che</th>
+                                                                      <th>Temps estim&eacute;</th>
+                                                                      <th>Temps mis</th>
+                                                                      <th>Avancement</th>
+                                                                      <th>Qui ?</th>
+                                                                  </tr>
+                                                              </thead>
+                                                              <tbody>
+                                                                  <tr>
+                                                                      <td></td>
+                                                                      <td></td>
+                                                                      <td></td>
+                                                                      <td></td>
+                                                                  </tr>
+                                                              </tbody>
+                                                          </table>
+                                                      </div>
+                                                    </div>
+
+                                                    <div class="panel-body">
+                                                        <h4><b>En tant qu'étudiant je peux insérer mes disponibilités</b></h4>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-striped table-bordered table-hover">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>T&acirc;che</th>
+                                                                        <th>Temps estim&eacute;</th>
+                                                                        <th>Temps mis</th>
+                                                                        <th>Avancement</th>
+                                                                        <th>Qui ?</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                      </div>
+
+                                                      <div class="panel-body">
+                                                          <h4><b>En tant qu'étudiant je peux déposer mon CV en ligne</b></h4>
+                                                          <div class="table-responsive">
+                                                              <table class="table table-striped table-bordered table-hover">
+                                                                  <thead>
+                                                                      <tr>
+                                                                          <th>T&acirc;che</th>
+                                                                          <th>Temps estim&eacute;</th>
+                                                                          <th>Temps mis</th>
+                                                                          <th>Avancement</th>
+                                                                          <th>Qui ?</th>
+                                                                      </tr>
+                                                                  </thead>
+                                                                  <tbody>
+                                                                      <tr>
+                                                                          <td></td>
+                                                                          <td></td>
+                                                                          <td></td>
+                                                                          <td></td>
+                                                                      </tr>
+                                                                  </tbody>
+                                                              </table>
+                                                          </div>
+                                                        </div>
                                             </div>
                                           </div>
                                         </div>
