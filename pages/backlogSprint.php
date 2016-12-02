@@ -60,6 +60,12 @@
                                                         </tbody>
                                                     </table>
                                                 </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+
+
                                  <!-- Sprint 3 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">
