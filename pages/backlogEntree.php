@@ -1,4 +1,4 @@
-<?php 
+<?php
 
     include("header.php");
 
@@ -8,14 +8,14 @@
             <div class="row">
                 <div class="col-lg-12" style="text-align:center">
                     <h1 class="page-header">Projet - GLP</h1>
-               
+
                     <div class="row">
                 <div class="col-lg-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             BackLog Entr&eacute;e
                         </div>
-                        
+
                         <div class="panel-body">
                             <div class="table-responsive">
                                 <table class="table table-striped table-bordered table-hover">
@@ -27,62 +27,56 @@
                                         </tr>
                                     </thead>
                                     <tbody style="text-align:left">
-                                        
+
 
                                         <tr>
                                             <td>1.1 - Création du profil étudiant</td>
-                                            <td>1. Création du formulaire informations personnelles</td>
+                                            <td>1. En tant qu'&eacute;tudiant je peux ins&eacute;rer mes informations personnelles</td>
                                             <td>Doing</td>
                                         </tr>
 
                                          <tr>
                                             <td></td>
-                                            <td>2. Création du formulaire formations</td>
+                                            <td>2. En tant qu'étudiant je peux insérer mes formations courantes et passées</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>3. Création du formulaire contrats</td>
+                                            <td>3. En tant qu'étudiant je peux insérer mes contrats courants et passés</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>4. Création du formulaire divers</td>
+                                            <td>4. En tant qu'étudiant je peux insérer mes informations diverses</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>5. Création du formulaire motivations</td>
+                                            <td>5. En tant qu'étudiant je peux insérer les motivations de ma candidature</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>6. Création du formulaire souhaits</td>
+                                            <td>6. En tant qu'étudiant je peux ajouter mes souhaits concernant les contrats</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>7. Création du formulaire disponibilités</td>
+                                            <td>7. En tant qu'étudiant je peux insérer mes disponibilités</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>8. Création du formulaire dépôt de CV</td>
+                                            <td>8. En tant qu'étudiant je peux déposer mon CV en ligne</td>
                                             <td>To Do</td>
                                         </tr>
-
-                                        <tr>
-                                            <td></td>
-                                            <td>9. Enregistrement des informations dans la base de donnée</td>
-                                            <td>To Do</td>
-                                        </tr>
-
+                                        
                                         <tr>
                                             <td>1.2 - Mise à jour du profil étudiant</td>
                                             <td></td>
