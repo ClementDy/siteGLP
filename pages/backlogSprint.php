@@ -53,10 +53,25 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr>
+                                                                <td>Faire la partie CSS/HTML</td>
+                                                                <td>30 minutes</td>
+                                                                <td>15 minutes</td>
+                                                                <td>Fini</td>
+                                                                <td>Clément Dilly</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Documentation sur Thymeleaf</td>
+                                                                <td>30 minutes</td>
+                                                                <td>30 minutes</td>
+                                                                <td>Fini</td>
+                                                                <td>Clément Dilly</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Développement controlleur Spring pour afficher les données saisies</td>
+                                                                <td>1 heure</td>
                                                                 <td></td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>En cours</td>
+                                                                <td>Clément Dilly</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -78,10 +93,25 @@
                                                           </thead>
                                                           <tbody>
                                                               <tr>
+                                                                  <td>Faire le HTML/CSS</td>
+                                                                  <td>2 heures</td>
                                                                   <td></td>
+                                                                  <td>En cours</td>
+                                                                  <td>Alexandre Lefebvre</td>
+                                                              </tr>
+                                                              <tr>
+                                                                  <td>Faire la connexion BDD</td>
+                                                                  <td>30 minutes</td>
                                                                   <td></td>
+                                                                  <td>En cours</td>
+                                                                  <td>Alexandre Lefebvre</td>
+                                                              </tr>
+                                                              <tr>
+                                                                  <td>Faire le controller</td>
+                                                                  <td>30 minutes</td>
                                                                   <td></td>
-                                                                  <td></td>
+                                                                  <td>En cours</td>
+                                                                  <td>Alexandre Lefebvre</td>
                                                               </tr>
                                                           </tbody>
                                                       </table>
@@ -103,10 +133,25 @@
                                                             </thead>
                                                             <tbody>
                                                                 <tr>
+                                                                    <td>Auto-Formation HTML/CSS</td>
+                                                                    <td>3 heures</td>
                                                                     <td></td>
                                                                     <td></td>
+                                                                    <td>Cedric Duhautois</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Faire HTML/CSS</td>
+                                                                    <td>1 heure</td>
                                                                     <td></td>
                                                                     <td></td>
+                                                                    <td>Cedric Duhautois</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Liaison avec la BD</td>
+                                                                    <td>30 minutes</td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td>Cedric Duhautois</td>
                                                                 </tr>
                                                             </tbody>
                                                         </table>
@@ -128,10 +173,18 @@
                                                               </thead>
                                                               <tbody>
                                                                   <tr>
+                                                                      <td>Faire HTML/CSS</td>
+                                                                      <td>1 heure</td>
                                                                       <td></td>
                                                                       <td></td>
+                                                                      <td>Willy Pezant</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                      <td>Faire la liaison avec la  BD (persistence)</td>
+                                                                      <td>1 heure</td>
                                                                       <td></td>
                                                                       <td></td>
+                                                                      <td>Willy Pezant</td>
                                                                   </tr>
                                                               </tbody>
                                                           </table>
@@ -153,10 +206,18 @@
                                                                 </thead>
                                                                 <tbody>
                                                                     <tr>
+                                                                        <td>Faire HTML/CSS</td>
+                                                                        <td>30 minutes</td>
                                                                         <td></td>
                                                                         <td></td>
+                                                                        <td>Clément Dilly</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Faire la liaison avec la BD</td>
+                                                                        <td>30 minutes</td>
                                                                         <td></td>
                                                                         <td></td>
+                                                                        <td>Clément Dilly</td>
                                                                     </tr>
                                                                 </tbody>
                                                             </table>
@@ -178,15 +239,142 @@
                                                                   </thead>
                                                                   <tbody>
                                                                       <tr>
+                                                                          <td>Faire HTML/CSS</td>
+                                                                          <td>1 heure</td>
                                                                           <td></td>
                                                                           <td></td>
+                                                                          <td>Sofiane Ouarab</td>
+                                                                      </tr>
+                                                                      <tr>
+                                                                          <td>Faire la liaison avec la BD (Chargement et téléchargement)</td>
+                                                                          <td>1 heure</td>
                                                                           <td></td>
                                                                           <td></td>
+                                                                          <td>Sofiane Ouarab</td>
                                                                       </tr>
                                                                   </tbody>
                                                               </table>
                                                           </div>
                                                         </div>
+
+
+                                                        <div class="panel-body">
+                                                            <h4><b>Réaliser la persistence des données</b></h4>
+                                                            <div class="table-responsive">
+                                                                <table class="table table-striped table-bordered table-hover">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th>T&acirc;che</th>
+                                                                            <th>Temps estim&eacute;</th>
+                                                                            <th>Temps mis</th>
+                                                                            <th>Avancement</th>
+                                                                            <th>Qui ?</th>
+                                                                        </tr>
+                                                                    </thead>
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td>Documentation sur les différentes technologies existantes</td>
+                                                                            <td>1 heure</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td>Toute l'équipe</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Mise en place de la persistence</td>
+                                                                            <td>1 heure</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td>Toute l'équipe</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                          </div>
+
+                                                          <div class="panel-body">
+                                                              <h4><b>Réaliser le dossier d'architecture</b></h4>
+                                                              <div class="table-responsive">
+                                                                  <table class="table table-striped table-bordered table-hover">
+                                                                      <thead>
+                                                                          <tr>
+                                                                              <th>T&acirc;che</th>
+                                                                              <th>Temps estim&eacute;</th>
+                                                                              <th>Temps mis</th>
+                                                                              <th>Avancement</th>
+                                                                              <th>Qui ?</th>
+                                                                          </tr>
+                                                                      </thead>
+                                                                      <tbody>
+                                                                          <tr>
+                                                                              <td>Apporter un plan global pour le dossier</td>
+                                                                              <td>1 heure</td>
+                                                                              <td></td>
+                                                                              <td>A faire</td>
+                                                                              <td>Willy Pezant</td>
+                                                                          </tr>
+                                                                      </tbody>
+                                                                  </table>
+                                                              </div>
+                                                            </div>
+
+                                                            <div class="panel-body">
+                                                                <h4><b>Réaliser la page d'accueil du site web</b></h4>
+                                                                <div class="table-responsive">
+                                                                    <table class="table table-striped table-bordered table-hover">
+                                                                        <thead>
+                                                                            <tr>
+                                                                                <th>T&acirc;che</th>
+                                                                                <th>Temps estim&eacute;</th>
+                                                                                <th>Temps mis</th>
+                                                                                <th>Avancement</th>
+                                                                                <th>Qui ?</th>
+                                                                            </tr>
+                                                                        </thead>
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td>Faire HTML/CSS</td>
+                                                                                <td>30 minutes</td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td>Clément Dilly</td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </div>
+                                                              </div>
+
+                                                              <div class="panel-body">
+                                                                  <h4><b>Modification du site de communication</b></h4>
+                                                                  <div class="table-responsive">
+                                                                      <table class="table table-striped table-bordered table-hover">
+                                                                          <thead>
+                                                                              <tr>
+                                                                                  <th>T&acirc;che</th>
+                                                                                  <th>Temps estim&eacute;</th>
+                                                                                  <th>Temps mis</th>
+                                                                                  <th>Avancement</th>
+                                                                                  <th>Qui ?</th>
+                                                                              </tr>
+                                                                          </thead>
+                                                                          <tbody>
+                                                                              <tr>
+                                                                                  <td>Modifier le backlog d'entrée</td>
+                                                                                  <td>30 minutes</td>
+                                                                                  <td>3O minutes</td>
+                                                                                  <td>Fini</td>
+                                                                                  <td>Clément Dilly et Sofiane Ouarab</td>
+                                                                              </tr>
+                                                                              <tr>
+                                                                                  <td>Modifier le backlog de Sprint</td>
+                                                                                  <td>1 heure</td>
+                                                                                  <td>1 heure</td>
+                                                                                  <td>Fini</td>
+                                                                                  <td>Clément Dilly et Sofiane Ouarab</td>
+                                                                              </tr>
+                                                                          </tbody>
+                                                                      </table>
+                                                                  </div>
+                                                                </div>
                                             </div>
                                           </div>
                                         </div>
