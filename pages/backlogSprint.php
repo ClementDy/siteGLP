@@ -360,7 +360,7 @@
                                                                               <tr>
                                                                                   <td>Modifier le backlog d'entrée</td>
                                                                                   <td>30 minutes</td>
-                                                                                  <td>3O minutes</td>
+                                                                                  <td>30 minutes</td>
                                                                                   <td>Fini</td>
                                                                                   <td>Clément Dilly et Sofiane Ouarab</td>
                                                                               </tr>
