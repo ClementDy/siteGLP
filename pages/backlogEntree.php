@@ -13,7 +13,7 @@
                 <div class="col-lg-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            BackLog Entr&eacute;e
+                            BackLog Produit
                         </div>
 
                         <div class="panel-body">
@@ -76,7 +76,7 @@
                                             <td>8. En tant qu'étudiant je peux déposer mon CV en ligne</td>
                                             <td>To Do</td>
                                         </tr>
-                                        
+
                                         <tr>
                                             <td>1.2 - Mise à jour du profil étudiant</td>
                                             <td></td>

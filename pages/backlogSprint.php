@@ -73,6 +73,13 @@
                                                                 <td>En cours</td>
                                                                 <td>Clément Dilly</td>
                                                             </tr>
+                                                            <tr>
+                                                                <td>Faire la connexion avec la BD et rendre les données persistentes</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td>Clément Dilly</td>
+                                                            </tr>
                                                         </tbody>
                                                     </table>
                                                 </div>
