@@ -69,8 +69,8 @@
                                                             <tr>
                                                                 <td>Développement controlleur Spring pour afficher les données saisies</td>
                                                                 <td>1 heure</td>
-                                                                <td></td>
-                                                                <td>En cours</td>
+                                                                <td>1 heure</td>
+                                                                <td>Fini</td>
                                                                 <td>Clément Dilly</td>
                                                             </tr>
                                                             <tr>
