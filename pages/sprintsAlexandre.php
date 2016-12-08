@@ -19,6 +19,54 @@
                         <!-- .panel-heading -->
                          <div class="panel-body">
                             <div class="panel-group" id="accordion">
+
+
+                            <!-- Sprint 4 -->
+                                                                <div class="panel panel-default">
+                                                                            <div class="panel-heading">
+                                                                                    <h4 class="panel-title">
+                                                                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint4">Sprint - 4</a>
+                                                                                    </h4>
+                                                                            </div>
+                                                                            <div id="sprint4" class="panel-collapse collapse">
+
+                                                                                    <p style="text-align:right"> Temps Sprint : 1 heure</p>
+                                                                                    <div class="panel panel-default">
+                                                                                            <div class="panel-heading">
+                                                                                                    Relev&eacute; d'activit&eacute;s
+                                                                                            </div>
+                                                                                            <!-- /.panel-heading -->
+                                                                                            <div class="panel-body">
+                                                                                                    <div class="table-responsive">
+                                                                                                            <table class="table table-striped table-bordered table-hover">
+                                                                                                                    <thead>
+                                                                                                                            <tr>
+                                                                                                                                    <th>Date</th>
+                                                                                                                                    <th>Temps passé</th>
+                                                                                                                                    <th>T&acirc;che</th>
+                                                                                                                            </tr>
+                                                                                                                    </thead>
+                                                                                                                    <tbody>
+                                                                                                                        <tr>
+                                                                                                                            <td>06/12/2016</td>
+                                                                                                                            <td>0.5 heure</td>
+                                                                                                                            <td>Développement controlleur Spring pour la page de formulaire divers</td>
+                                                                                                                        </tr>
+<tr>
+                                                                                                                            <td>06/12/2016</td>
+                                                                                                                            <td>0.5 heure</td>
+                                                                                                                            <td>Developpement HTML page formulaire divers</td>
+                                                                                                                        </tr>
+                                                                                                                    </tbody>
+                                                                                                            </table>
+                                                                                                    </div>
+                                                                                                    <!-- /.table-responsive -->
+                                                                                            </div>
+                                                                                            <!-- /.panel-body -->
+                                                                                    </div>
+                                                                            </div>
+                                                                    </div>
+
                                 <!-- Sprint 3-->              
                 <div class="panel panel-default">
                 <div class="panel-heading">
