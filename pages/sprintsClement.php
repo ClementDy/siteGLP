@@ -102,7 +102,7 @@
 	                                                        		<td>29/11/2016</td>
 	                                                        		<td>1 heure</td>
 	                                                        		<td>Modification des diagrammes et du dossier d'expression des besoins</td>
-																<tr>
+																															<tr>
 	                                                                <td>24/11/2016</td>
 	                                                                <td> 1 heures</td>
 	                                                                <td>Réalisation de maquettes sur balsamiq (Créer une candidature)</td>
@@ -150,17 +150,17 @@
 	                                                                <td> 2 heures</td>
 	                                                                <td>Finalisation du socle technique. </td>
 	                                                            </tr>
-																<tr>
+																															<tr>
 	                                                                <td>16/11/2016</td>
 	                                                                <td> 2 heures</td>
 	                                                                <td>Différents travaux sur le socle technique (Récuperation des données en base via springboot)</td>
 	                                                            </tr>
-																<tr>
+																															<tr>
 	                                                                <td>15/11/2016</td>
 	                                                                <td> 1.5 heures</td>
 	                                                                <td>Correction et finalisation du dossier d'expression des besoins V1.2</td>
 	                                                            </tr>
-																<tr>
+																															<tr>
 	                                                                <td>15/11/2016</td>
 	                                                                <td> 0.5 heures</td>
 	                                                                <td>Réalisation du diagramme d'activité "Déposer une candidature</td>
@@ -240,8 +240,8 @@
 	                                            </div>
 	                                            <!-- /.panel-body -->
 	                                        </div>
-	                        			</div>
-	                                </div>
+	                        					</div>
+	              									</div>
 
 
 	                                <!-- Sprint 0 -->
