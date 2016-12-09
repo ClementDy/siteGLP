@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 15 heures</p>
+                    <p style="text-align:right"> Temps Total : 20,5 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -19,7 +19,62 @@
                         <!-- .panel-heading -->
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
-                                
+                                <!-- Sprint 4 -->
+																<div class="panel panel-default">
+																			<div class="panel-heading">
+																					<h4 class="panel-title">
+																							<a data-toggle="collapse" data-parent="#accordion" href="#sprint4">Sprint - 4</a>
+																					</h4>
+																			</div>
+																			<div id="sprint4" class="panel-collapse collapse">
+
+																					<p style="text-align:right"> Temps Sprint : 5 heure</p>
+																					<div class="panel panel-default">
+																							<div class="panel-heading">
+																									Relev&eacute; d'activit&eacute;s
+																							</div>
+																							<!-- /.panel-heading -->
+																							<div class="panel-body">
+																									<div class="table-responsive">
+																											<table class="table table-striped table-bordered table-hover">
+																													<thead>
+																															<tr>
+																																	<th>Date</th>
+																																	<th>Temps passé</th>
+																																	<th>T&acirc;che</th>
+																															</tr>
+																													</thead>
+																													<tbody>
+																														<tr>
+																															<td>09/12/2016</td>
+																															<td>1 heure 30</td>
+																															<td>Développement des classes du domaine (Entity) </td>
+																														</tr>
+																														<tr>
+																															<td>09/12/2016</td>
+																															<td>1 heure</td>
+																															<td>Elaboration d'un diagramme pour les classes du domaine </td>
+																														</tr>
+																														<tr>
+																															<td>06/12/2016</td>
+																															<td>1 heure</td>
+																															<td>Rédaction du plan détaillé pour le dossier d'achitecture</td>
+																														</tr>
+																														<tr>
+																															<td>06/12/2016</td>
+																															<td>1 heure 30</td>
+																															<td>Réalisation du formulaire HTML pour la saisie des missions souhaitées</td>
+																														</tr>
+																													</tbody>
+																											</table>
+																									</div>
+																									<!-- /.table-responsive -->
+																							</div>
+																							<!-- /.panel-body -->
+																					</div>
+																			</div>
+																	</div>
+
 							 <!-- Sprint 3 -->
 	                              <div class="panel panel-default">
 	                                    <div class="panel-heading">
@@ -29,7 +84,7 @@
 	                                    </div>
 	                                    <div id="sprint3" class="panel-collapse collapse">
 	
-	                                        <p style="text-align:right"> Temps Sprint : 3 heures</p>
+	                                        <p style="text-align:right"> Temps Sprint : 3,5 heures</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
 	                                                Relev&eacute; d'activit&eacute;s
@@ -46,6 +101,12 @@
 	                                                            </tr>
 	                                                        </thead>
 	                                                        <tbody>
+																<tr>
+
+	                                                        		<td>30/11/2016</td>
+	                                                        		<td>0.5 heure</td>
+	                                                        		<td>Documentation sur Thymleaf</td>
+																</tr>
 	                                                        	<tr>
 
 	                                                        		<td>30/11/2016</td>

@@ -179,18 +179,25 @@
                                                                   </tr>
                                                               </thead>
                                                               <tbody>
+															       <tr>
+                                                                    <td>Auto-Formation Bootstrap/HTML/CSS</td>
+                                                                    <td>1 heure</td>
+                                                                    <td>1 heure</td>
+                                                                    <td>Fini</td>
+                                                                    <td>Willy Pezant</td>
+                                                                  </tr>
                                                                   <tr>
                                                                       <td>Faire HTML/CSS</td>
                                                                       <td>1 heure</td>
-                                                                      <td></td>
-                                                                      <td></td>
+                                                                      <td>1 heure 30</td>
+                                                                      <td>Fini</td>
                                                                       <td>Willy Pezant</td>
                                                                   </tr>
                                                                   <tr>
                                                                       <td>Faire la liaison avec la  BD (persistence)</td>
                                                                       <td>1 heure</td>
                                                                       <td></td>
-                                                                      <td></td>
+                                                                      <td>A faire</td>
                                                                       <td>Willy Pezant</td>
                                                                   </tr>
                                                               </tbody>
@@ -315,8 +322,8 @@
                                                                           <tr>
                                                                               <td>Apporter un plan global pour le dossier</td>
                                                                               <td>1 heure</td>
-                                                                              <td></td>
-                                                                              <td>A faire</td>
+                                                                              <td>1 heure</td>
+                                                                              <td>Fini</td>
                                                                               <td>Willy Pezant</td>
                                                                           </tr>
                                                                       </tbody>
