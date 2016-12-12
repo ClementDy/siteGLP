@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 21 heures</p>
+                    <p style="text-align:right"> Temps Total : 23 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint4" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 2 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 4 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,16 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                          <tr>
+                                                                <td>06/12/2016</td>
+                                                                <td>1 heure</td>
+                                                                <td>Suite du développement d'ajout de CV, possibilité de rechercher un fichier et de le déposer sur la plateforme</td>
+                                                            </tr>
+                                                          <tr>
+                                                                <td>06/12/2016</td>
+                                                                <td>1 heure</td>
+                                                                <td>Modification Trello, creation et développement du formulaire d'ajout de CV</td>
+                                                            </tr>
                                                           <tr>
                                                                 <td>02/12/2016</td>
                                                                 <td>2 heures</td>
@@ -112,7 +122,7 @@
                                       </h4>
                                   </div>
                                   <div id="sprint2" class="panel-collapse collapse">
-                                      <p style="text-align:right"> Temps Sprint : 6</p>
+                                      <p style="text-align:right"> Temps Sprint : 6 heures</p>
                                       <div class="panel panel-default">
                                           <div class="panel-heading">
                                               Relev&eacute; d'activit&eacute;s
@@ -160,7 +170,7 @@
                                         </h4>
                                     </div>
                                     <div id="sprint1" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 8</p>
+                                        <p style="text-align:right"> Temps Sprint : 8 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
