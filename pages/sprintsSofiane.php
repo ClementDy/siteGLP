@@ -47,7 +47,7 @@
                                                         </thead>
                                                         <tbody>
                                                           <tr>
-                                                                <td>06/12/2016</td>
+                                                                <td>09/12/2016</td>
                                                                 <td>1 heure</td>
                                                                 <td>Suite du développement d'ajout de CV, possibilité de rechercher un fichier et de le déposer sur la plateforme</td>
                                                             </tr>
