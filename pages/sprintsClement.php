@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 44 heures</p>
+	                    <p style="text-align:right"> Temps Total : 46 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -29,7 +29,7 @@
 																			</div>
 																			<div id="sprint4" class="panel-collapse collapse">
 
-																					<p style="text-align:right"> Temps Sprint : 5 heure</p>
+																					<p style="text-align:right"> Temps Sprint : 7 heure</p>
 																					<div class="panel panel-default">
 																							<div class="panel-heading">
 																									Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,11 @@
 																															</tr>
 																													</thead>
 																													<tbody>
+																														<tr>
+																															<td>13/12/2016</td>
+																															<td>2 heures</td>
+																															<td>Modification du service et du formulaire permettant d'ajouter les informations personnelles d'un &eacute;tudiant ainsi que son adresse. Modification de la classe Entity Student et Adress</td>
+																														</tr>
 																														<tr>
 																															<td>13/12/2016</td>
 																															<td>2 heures</td>
