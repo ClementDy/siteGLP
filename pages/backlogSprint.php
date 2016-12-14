@@ -75,9 +75,9 @@
                                                             </tr>
                                                             <tr>
                                                                 <td>Faire la connexion avec la BD et rendre les données persistentes</td>
-                                                                <td></td>
-                                                                <td></td>
-                                                                <td></td>
+                                                                <td>2 heures</td>
+                                                                <td>4 heures</td>
+                                                                <td>Fini</td>
                                                                 <td>Clément Dilly</td>
                                                             </tr>
                                                         </tbody>
