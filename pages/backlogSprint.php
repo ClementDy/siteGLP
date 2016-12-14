@@ -222,15 +222,15 @@
                                                                     <tr>
                                                                         <td>Faire HTML/CSS</td>
                                                                         <td>30 minutes</td>
-                                                                        <td></td>
-                                                                        <td></td>
+                                                                        <td>30 minutes</td>
+                                                                        <td>Fini</td>
                                                                         <td>Clément Dilly</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td>Faire la liaison avec la BD</td>
                                                                         <td>30 minutes</td>
-                                                                        <td></td>
-                                                                        <td></td>
+                                                                        <td>1 heure</td>
+                                                                        <td>En cours</td>
                                                                         <td>Clément Dilly</td>
                                                                     </tr>
                                                                 </tbody>
@@ -355,8 +355,8 @@
                                                                             <tr>
                                                                                 <td>Faire HTML/CSS</td>
                                                                                 <td>30 minutes</td>
-                                                                                <td></td>
-                                                                                <td></td>
+                                                                                <td>1 heure</td>
+                                                                                <td>Fini</td>
                                                                                 <td>Clément Dilly</td>
                                                                             </tr>
                                                                         </tbody>

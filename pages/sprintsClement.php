@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 46 heures</p>
+	                    <p style="text-align:right"> Temps Total : 52 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -29,7 +29,7 @@
 																			</div>
 																			<div id="sprint4" class="panel-collapse collapse">
 
-																					<p style="text-align:right"> Temps Sprint : 7 heure</p>
+																					<p style="text-align:right"> Temps Sprint : 13 heure</p>
 																					<div class="panel panel-default">
 																							<div class="panel-heading">
 																									Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,16 @@
 																															</tr>
 																													</thead>
 																													<tbody>
+																														<tr>
+																															<td>14/12/2016</td>
+																															<td>2 heures</td>
+																															<td>Tests pour l'enregistrement du formulaire complet en base de donnée (Un student avec ses autres "objets")</td>
+																														</tr>
+																														<tr>
+																															<td>14/12/2016</td>
+																															<td>4 heures</td>
+																															<td>Tests et développement pour l'enregistrement des informations des données informations personnelles en base de donnée</td>
+																														</tr>
 																														<tr>
 																															<td>13/12/2016</td>
 																															<td>2 heures</td>
