@@ -19,7 +19,22 @@
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
                                 
-
+						<!-- Sprint 4 -->
+                              <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint3">Sprint - 4</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint3" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            <h4> Dossier d'architecture </h4>
+                                            <p><a href="../DossierArchitecture.pdf" download="DossierArchitecture">Télécharger le dossier d'architecture V(1.0)</a></p>
+                                            
+                        <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
                             <!-- Sprint 3 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">

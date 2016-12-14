@@ -11,7 +11,7 @@
                
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 20,5 heures</p>
+                    <p style="text-align:right"> Temps Total : 23,5 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -28,7 +28,7 @@
 																			</div>
 																			<div id="sprint4" class="panel-collapse collapse">
 
-																					<p style="text-align:right"> Temps Sprint : 5 heure</p>
+																					<p style="text-align:right"> Temps Sprint : 8 heure</p>
 																					<div class="panel panel-default">
 																							<div class="panel-heading">
 																									Relev&eacute; d'activit&eacute;s
@@ -45,6 +45,11 @@
 																															</tr>
 																													</thead>
 																													<tbody>
+																														<tr>
+																															<td>14/12/2016</td>
+																															<td>3 heures</td>
+																															<td>Rédaction du dossier d'architecture </td>
+																														</tr>
 																														<tr>
 																															<td>09/12/2016</td>
 																															<td>1 heure 30</td>

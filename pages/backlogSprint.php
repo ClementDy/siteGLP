@@ -326,6 +326,13 @@
                                                                               <td>Fini</td>
                                                                               <td>Willy Pezant</td>
                                                                           </tr>
+																		   <tr>
+                                                                              <td>Travail sur le dossier d'architecture</td>
+                                                                              <td>3 heures</td>
+                                                                              <td>3 heures</td>
+                                                                              <td>Fini</td>
+                                                                              <td>Willy Pezant</td>
+                                                                          </tr>
                                                                       </tbody>
                                                                   </table>
                                                               </div>
