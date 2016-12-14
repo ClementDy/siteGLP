@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 23 heures</p>
+                    <p style="text-align:right"> Temps Total : 26 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint4" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 4 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 7 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,16 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                          <tr>
+                                                                <td>14/12/2016</td>
+                                                                <td>2 heures</td>
+                                                                <td>Rédaction du dossier d'architecture</td>
+                                                            </tr>
+                                                            <tr>
+                                                                  <td>13/12/2016</td>
+                                                                  <td>1 heure</td>
+                                                                  <td>Reflexion et discusson autour de la gestion des CV: rennomage, stockage</td>
+                                                              </tr>
                                                           <tr>
                                                                 <td>09/12/2016</td>
                                                                 <td>1 heure</td>
