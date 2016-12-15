@@ -147,23 +147,23 @@ include("header.php");
                                 <tr>
                                   <td>Auto-Formation HTML/CSS</td>
                                   <td>3 heures</td>
-                                  <td></td>
-                                  <td></td>
-                                  <td>Cedric Duhautois</td>
+                                  <td>3 heures</td>
+                                  <td>Fini</td>
+                                  <td>C&eacute;&eacute;&eacute;dric Duhautois</td>
                                 </tr>
                                 <tr>
                                   <td>Faire HTML/CSS</td>
                                   <td>1 heure</td>
-                                  <td></td>
-                                  <td></td>
-                                  <td>Cedric Duhautois</td>
+                                  <td>2 heures</td>
+                                  <td>Fini</td>
+                                  <td>C&eacute;&eacute;dric Duhautois</td>
                                 </tr>
                                 <tr>
                                   <td>Liaison avec la BD</td>
                                   <td>30 minutes</td>
-                                  <td></td>
-                                  <td></td>
-                                  <td>Cedric Duhautois</td>
+                                  <td>2 heures</td>
+                                  <td>Fini</td>
+                                  <td>C&eacute;dric Duhautois</td>
                                 </tr>
                               </tbody>
                             </table>
