@@ -149,14 +149,14 @@ include("header.php");
                                   <td>3 heures</td>
                                   <td>3 heures</td>
                                   <td>Fini</td>
-                                  <td>C&eacute;&eacute;&eacute;dric Duhautois</td>
+                                  <td>C&eacute;dric Duhautois</td>
                                 </tr>
                                 <tr>
                                   <td>Faire HTML/CSS</td>
                                   <td>1 heure</td>
                                   <td>2 heures</td>
                                   <td>Fini</td>
-                                  <td>C&eacute;&eacute;dric Duhautois</td>
+                                  <td>C&eacute;dric Duhautois</td>
                                 </tr>
                                 <tr>
                                   <td>Liaison avec la BD</td>
