@@ -1,4 +1,4 @@
-<?php 
+<?php
 
     include("header.php");
 
@@ -8,12 +8,12 @@
             <div class="row">
                 <div class="col-lg-12" style="text-align:center">
                     <h1 class="page-header">Welcome</h1>
-               
+
                     <div class="row">
                         <div class="col-lg-12" style="text-align:left">
                             <p> Bienvenue sur le portail de notre projet de GLP. </p>
                             <br>
-                            <p> Le lien de site est le suivant : 172.28.2.17:8585/home</p>
+                            <p> Le lien du site est le suivant : 172.28.2.17:8585/home</p>
                             <br>
 
                             <p> Sur ce site, diverses informations sont disponibles :</p>
