@@ -49,6 +49,11 @@
 																													</thead>
 																													<tbody>
 																														<tr>
+																															<td>27/12/2016</td>
+																															<td>1 heure</td>
+																															<td>Modification de la page html et des entity pour gérer les dates de disponibilités de l'étudiant.</td>
+																														</tr>
+																														<tr>
 																															<td>20/12/2016</td>
 																															<td>2 heures</td>
 																															<td>Tests de modification du style des formulaires et navbar.</td>
