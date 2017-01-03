@@ -25,6 +25,276 @@ include("header.php");
 
                 <div class="panel-body">
                   <div class="panel-group" id="accordion">
+                    <!-- Sprint 5 -->
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint4">Sprint - 4</a>
+                        </h4>
+                      </div>
+                      <div id="sprint4" class="panel-collapse collapse">
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                          </div>
+                          <!-- /.panel-heading -->
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux insérer mes données personnelles</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire la partie CSS/HTML</td>
+                                    <td>20 minutes</td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Clément Dilly</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Récupérer les informations via le WebService</td>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Clément Dilly</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux insérer mes formations</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                 <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Faire le HTML/CSS</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td>En cours</td>
+                                  <td>Alexandre Lefebvre</td>
+                                </tr>
+                                <tr>
+                                  <td>Faire la persistence des données</td>
+                                  <td></td>
+                                  <td></td>
+                                  <td>En cours</td>
+                                  <td>Alexandre Lefebvre</td>
+                                </tr>
+                                <td>Faire le controlleur</td>
+                                <td></td>
+                                <td></td>
+                                <td>En cours</td>
+                                <td>Alexandre Lefebvre</td>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+
+                        <div class="panel-body">
+                          <h4><b>En tant qu'étudiant je peux insérer mes contrats</b></h4>
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Faire HTML/CSS</td>
+                                  <td>1 heure</td>
+                                  <td></td>
+                                  <td>En cours</td>
+                                  <td>C&eacute;dric Duhautois</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+
+                        <div class="panel-body">
+                          <h4><b>En tant qu'étudiant je peux ajouter mes souhaits concernant les contrats</b></h4>
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Auto-Formation Bootstrap/HTML/CSS</td>
+                                  <td>1 heure</td>
+                                  <td>1 heure</td>
+                                  <td>Fini</td>
+                                  <td>Willy Pezant</td>
+                                </tr>
+                                <tr>
+                                  <td>Faire HTML/CSS</td>
+                                  <td>1 heure</td>
+                                  <td>1 heure 30</td>
+                                  <td>Fini</td>
+                                  <td>Willy Pezant</td>
+                                </tr>
+                                <tr>
+                                  <td>Faire la liaison avec la  BD (persistence)</td>
+                                  <td>1 heure</td>
+                                  <td></td>
+                                  <td>A faire</td>
+                                  <td>Willy Pezant</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+
+                        <div class="panel-body">
+                          <h4><b>En tant qu'étudiant je peux insérer mes disponibilités</b></h4>
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Faire HTML/CSS</td>
+                                  <td>30 minutes</td>
+                                  <td>30 minutes</td>
+                                  <td>Fini</td>
+                                  <td>Clément Dilly</td>
+                                </tr>
+                                <tr>
+                                  <td>Faire la liaison avec la BD</td>
+                                  <td>30 minutes</td>
+                                  <td>1 heure</td>
+                                  <td>En cours</td>
+                                  <td>Clément Dilly</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+
+                        <div class="panel-body">
+                          <h4><b>En tant qu'étudiant je peux déposer mon CV en ligne</b></h4>
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Stocker le CV dans un dossier sur le serveur</td>
+                                  <td>3 heures</td>
+                                  <td></td>
+                                  <td>En cours</td>
+                                  <td>Sofiane Ouarab</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+
+                        <div class="panel-body">
+                          <h4><b>Réaliser le dossier d'architecture</b></h4>
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Modifier le dossier selon les remarques du client/td>
+                                  <td>2 heures</td>
+                                  <td></td>
+                                  <td>En cours</td>
+                                  <td>Willy Pezant</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+
+                        <div class="panel-body">
+                          <h4><b>Modification du site de communication</b></h4>
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>T&acirc;che</th>
+                                  <th>Temps estim&eacute;</th>
+                                  <th>Temps mis</th>
+                                  <th>Avancement</th>
+                                  <th>Qui ?</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>Modifier le backlog d'entrée</td>
+                                  <td>1 heure</td>
+                                  <td>1 heure</td>
+                                  <td>Fini</td>
+                                  <td>Sofiane Ouarab</td>
+                                </tr>
+                                <tr>
+                                  <td>Modifier le backlog de Sprint</td>
+                                  <td>1 heure</td>
+                                  <td></td>
+                                  <td>En cours</td>
+                                  <td>Sofiane Ouarab</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
 
                     <!-- Sprint 4 -->
                     <div class="panel panel-default">
