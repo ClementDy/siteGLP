@@ -25,14 +25,15 @@ include("header.php");
 
                 <div class="panel-body">
                   <div class="panel-group" id="accordion">
+
                     <!-- Sprint 5 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint4">Sprint - 4</a>
+                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint5">Sprint - 5</a>
                         </h4>
                       </div>
-                      <div id="sprint4" class="panel-collapse collapse">
+                      <div id="sprint5" class="panel-collapse collapse">
                         <div class="panel panel-default">
                           <div class="panel-heading">
                           </div>
