@@ -51,6 +51,15 @@
                                                                 <td>2 heures</td>
                                                                 <td>Modification site de communication et du tableau Trello</td>
                                                             </tr>
+                                                          </tbody>
+                                                      </table>
+                                                  </div>
+                                                  <!-- /.table-responsive -->
+                                              </div>
+                                              <!-- /.panel-body -->
+                                          </div>
+                                      </div>
+                                  </div>
 
 
                               <!--Sprint 4 -->
