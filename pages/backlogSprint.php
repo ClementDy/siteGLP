@@ -62,8 +62,8 @@ include("header.php");
                                   <tr>
                                     <td>Récupérer les informations via le WebService</td>
                                     <td>3 heures</td>
-                                    <td></td>
-                                    <td>En cours</td>
+                                    <td>2 heures</td>
+                                    <td>Terminé</td>
                                     <td>Clément Dilly</td>
                                   </tr>
                                 </tbody>

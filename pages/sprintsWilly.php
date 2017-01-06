@@ -1,4 +1,4 @@
-<?php 
+<?php
 
     include("header.php");
 
@@ -8,10 +8,10 @@
             <div class="row">
                 <div class="col-lg-12" style="text-align:center">
                     <h1 class="page-header">Sprints - Willy</h1>
-               
+
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 28 heures</p>
+                    <p style="text-align:right"> Temps Total : 31 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -19,8 +19,8 @@
                         <!-- .panel-heading -->
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
-							
-                               
+
+
 							     <!-- Sprint 5 -->
 	                              <div class="panel panel-default">
 	                                    <div class="panel-heading">
@@ -29,8 +29,8 @@
 	                                        </h4>
 	                                    </div>
 	                                    <div id="sprint5" class="panel-collapse collapse">
-	
-	                                        <p style="text-align:right"> Temps Sprint : 4 heures 30</p>
+
+	                                        <p style="text-align:right"> Temps Sprint : 7 heures 30</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
 	                                                Relev&eacute; d'activit&eacute;s
@@ -47,25 +47,40 @@
 	                                                            </tr>
 	                                                        </thead>
 	                                                        <tbody>
-																<tr>
-																	<td>03/01/2016</td>
-																	<td>1 heure 30</td>
-																	<td>Travail sur la persistence pour la partie souhait</td>
-																</tr>
-																	<td>03/01/2016</td>
-																	<td>1 heure 30</td>
-																	<td>Refonte forumlaire souhaits, recuperation des missions en base</td>
-																</tr>
-																<tr>
-																	<td>02/01/2016</td>
-																	<td>1 heure</td>
-																	<td>Modèle de données - dossier architecture</td>
-																</tr>
-																<tr>
-																	<td>18/12/2016</td>
-																	<td>30 min</td>
-																	<td>Modification schéma  - dossier architecture</td>
-																</tr>
+                                                            <tr>
+                                                              <td>06/01/2016</td>
+                                                              <td>1 heure</td>
+                                                              <td>Travail sur le dossier d'architecture</td>
+                                                            </tr>
+                                                          <tr>
+                                                            <td>06/01/2016</td>
+                                                            <td>1 heure</td>
+                                                            <td>Dévelopemment JAVA pour effectuer le dépot du CV sur le serveur.</td>
+                                                          </tr>
+                                                            <tr>
+                                                            <td>06/01/2016</td>
+                                                            <td>1 heure</td>
+                                                            <td>Resolution d'un problème survenu sur la VM</td>
+                                                          </tr>
+                                  																<tr>
+                                  																	<td>03/01/2016</td>
+                                  																	<td>1 heure 30</td>
+                                  																	<td>Travail sur la persistence pour la partie souhait</td>
+                                  																</tr>
+                                  																	<td>03/01/2016</td>
+                                  																	<td>1 heure 30</td>
+                                  																	<td>Refonte forumlaire souhaits, recuperation des missions en base</td>
+                                  																</tr>
+                                  																<tr>
+                                  																	<td>02/01/2016</td>
+                                  																	<td>1 heure</td>
+                                  																	<td>Modèle de données - dossier architecture</td>
+                                  																</tr>
+                                  																<tr>
+                                  																	<td>18/12/2016</td>
+                                  																	<td>30 min</td>
+                                  																	<td>Modification schéma  - dossier architecture</td>
+                                  																</tr>
 	                                                        </tbody>
 	                                                    </table>
 	                                                </div>
@@ -74,8 +89,8 @@
 	                                            <!-- /.panel-body -->
 	                                        </div>
 	                                    </div>
-	                                </div>    
-	
+	                                </div>
+
                                 <!-- Sprint 4 -->
 																<div class="panel panel-default">
 																			<div class="panel-heading">
@@ -145,7 +160,7 @@
 	                                        </h4>
 	                                    </div>
 	                                    <div id="sprint3" class="panel-collapse collapse">
-	
+
 	                                        <p style="text-align:right"> Temps Sprint : 3,5 heures</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
@@ -188,8 +203,8 @@
 	                                            <!-- /.panel-body -->
 	                                        </div>
 	                                    </div>
-	                                </div>    
-	
+	                                </div>
+
                             <!-- Sprint 2 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">
@@ -235,7 +250,7 @@
                                             <!-- /.panel-body -->
                                         </div>
                                     </div>
-                                </div>    
+                                </div>
 
 
                             	<!-- Sprint 1 -->
@@ -321,7 +336,7 @@
                                                                 <th>T&acirc;che</th>
                                                             </tr>
                                                         </thead>
-                                                        
+
                                                     </table>
                                                 </div>
                                                 <!-- /.table-responsive -->
@@ -329,11 +344,11 @@
                                             <!-- /.panel-body -->
                                         </div>
                                     </div>
-                                </div>    
+                                </div>
 
 
 
-                                
+
                             </div>
                         </div>
                         <!-- .panel-body -->
