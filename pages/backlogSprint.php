@@ -249,7 +249,7 @@ include("header.php");
                               </thead>
                               <tbody>
                                 <tr>
-                                  <td>Modifier le dossier selon les remarques du client/td>
+                                  <td>Modifier le dossier d'architecture</td>
                                   <td>2 heures</td>
                                   <td></td>
                                   <td>En cours</td>
