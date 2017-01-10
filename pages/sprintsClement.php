@@ -49,6 +49,11 @@
 																													</thead>
 																													<tbody>
 																														<tr>
+																															<td>10/01/2017</td>
+																															<td>2 heures</td>
+																															<td>Modifications des entity pour enregister les dates et heures de disponibilités. Modification du style duformulaire dispos</td>
+																														</tr>
+																														<tr>
 																															<td>06/01/2017</td>
 																															<td>2 heures</td>
 																															<td>Développement pour effectuer la récupérer des informations grâce au LDAP.</td>
