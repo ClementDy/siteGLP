@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 60 heures</p>
+	                    <p style="text-align:right"> Temps Total : 62 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -31,7 +31,7 @@
 																			</div>
 																			<div id="sprint5" class="panel-collapse collapse">
 
-																					<p style="text-align:right"> Temps Sprint : 8 heure</p>
+																					<p style="text-align:right"> Temps Sprint : 10 heure</p>
 																					<div class="panel panel-default">
 																							<div class="panel-heading">
 																									Relev&eacute; d'activit&eacute;s
