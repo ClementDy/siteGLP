@@ -55,8 +55,8 @@ include("header.php");
                                   <tr>
                                     <td>Faire la partie CSS/HTML</td>
                                     <td>20 minutes</td>
-                                    <td></td>
-                                    <td>En cours</td>
+                                    <td>1 heure 30</td>
+                                    <td>Terminé</td>
                                     <td>Clément Dilly</td>
                                   </tr>
                                   <tr>
@@ -190,9 +190,9 @@ include("header.php");
                               </thead>
                               <tbody>
                                 <tr>
-                                  <td>Faire HTML/CSS</td>
+                                  <td>Modifier HTML/CSS</td>
                                   <td>30 minutes</td>
-                                  <td>30 minutes</td>
+                                  <td>1 heure 30</td>
                                   <td>Fini</td>
                                   <td>Clément Dilly</td>
                                 </tr>
