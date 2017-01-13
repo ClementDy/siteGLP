@@ -11,7 +11,7 @@
 
                 <div class="row">
                     <div class="col-lg-12">
-                        <p style="text-align:right"> Temps Total : 29 heures</p>
+                        <p style="text-align:right"> Temps Total : 35 heures</p>
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 Les sprints d'Alexandre
@@ -29,7 +29,7 @@
                                       </div>
                                       <div id="sprint5" class="panel-collapse collapse">
 
-                                          <p style="text-align:right"> Temps Sprint : 4 heures</p>
+                                          <p style="text-align:right"> Temps Sprint : 10 heures</p>
                                           <div class="panel panel-default">
                                               <div class="panel-heading">
                                                   Relev&eacute; d'activit&eacute;s
@@ -46,7 +46,7 @@
                                                               </tr>
                                                           </thead>
                                                           <tbody>
-                                                              <tr>
+								                                                              <tr>
                                                                   <td>02/01/2017</td>
                                                                   <td>1 heure</td>
                                                                   <td>Ecriture page HTML formations</td>
@@ -61,7 +61,21 @@
                                                                   <td>2 heures</td>
                                                                   <td>Résolution problème suite au redemarrage des VM</td>
                                                               </tr>
-
+<tr>
+                                                                  <td>10/01/2017</td>
+                                                                  <td>2 heures</td>
+                                                                  <td>Sauvegarde des formations précedentes en persistence</td>
+                                                              </tr>
+								<tr>
+                                                                  <td>13/01/2017</td>
+                                                                  <td>3 heures</td>
+                                                                  <td>Recuperation de la formation LDAP </td>
+                                                              </tr>
+<tr>
+                                                                  <td>13/01/2017</td>
+                                                                  <td>1 heure</td>
+                                                                  <td>Affichage de l'alerte en fin de formulaire puis retour sur home</td>
+                                                              </tr>
                                                           </tbody>
                                                       </table>
                                                   </div>
