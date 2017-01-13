@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 64 heures</p>
+	                    <p style="text-align:right"> Temps Total : 67 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -31,7 +31,7 @@
 																			</div>
 																			<div id="sprint5" class="panel-collapse collapse">
 
-																					<p style="text-align:right"> Temps Sprint : 12 heure</p>
+																					<p style="text-align:right"> Temps Sprint : 15 heure</p>
 																					<div class="panel panel-default">
 																							<div class="panel-heading">
 																									Relev&eacute; d'activit&eacute;s
@@ -48,6 +48,11 @@
 																															</tr>
 																													</thead>
 																													<tbody>
+																														<tr>
+																															<td>13/01/2017</td>
+																															<td>3 heures</td>
+																															<td>Modifications du controleur pour effectuer l'enregistrer du CV sur le serveur. Modifications du style des pages. Modifications des types dates pour l'enregistrement </td>
+																														</tr>
 																														<tr>
 																															<td>12/01/2017</td>
 																															<td>1 heure</td>
