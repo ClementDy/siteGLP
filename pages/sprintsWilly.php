@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 31 heures</p>
+                    <p style="text-align:right"> Temps Total : 35 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -30,7 +30,7 @@
 	                                    </div>
 	                                    <div id="sprint5" class="panel-collapse collapse">
 
-	                                        <p style="text-align:right"> Temps Sprint : 7 heures 30</p>
+	                                        <p style="text-align:right"> Temps Sprint : 11 heures 30</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
 	                                                Relev&eacute; d'activit&eacute;s
@@ -47,21 +47,31 @@
 	                                                            </tr>
 	                                                        </thead>
 	                                                        <tbody>
-                                                            <tr>
-                                                              <td>06/01/2016</td>
-                                                              <td>1 heure</td>
-                                                              <td>Travail sur le dossier d'architecture</td>
-                                                            </tr>
-                                                          <tr>
-                                                            <td>06/01/2016</td>
-                                                            <td>1 heure</td>
-                                                            <td>Dévelopemment JAVA pour effectuer le dépot du CV sur le serveur.</td>
-                                                          </tr>
-                                                            <tr>
-                                                            <td>06/01/2016</td>
-                                                            <td>1 heure</td>
-                                                            <td>Resolution d'un problème survenu sur la VM</td>
-                                                          </tr>
+																								 <tr>
+																								  <td>13/01/2016</td>
+																								  <td>2 heures</td>
+																								  <td>Modification CSS et JavaScript pour les missions souhaitées</td>
+																								</tr>
+																								 <tr>
+																								  <td>13/01/2016</td>
+																								  <td>2 heures</td>
+																								  <td>Modification du formulaire des souhaits<td>
+																								</tr>
+																								<tr>
+																								  <td>06/01/2016</td>
+																								  <td>1 heure</td>
+																								  <td>Travail sur le dossier d'architecture</td>
+																								</tr>
+																							  <tr>
+																								<td>06/01/2016</td>
+																								<td>1 heure</td>
+																								<td>Dévelopemment JAVA pour effectuer le dépot du CV sur le serveur.</td>
+																							  </tr>
+																								<tr>
+																								<td>06/01/2016</td>
+																								<td>1 heure</td>
+																								<td>Resolution d'un problème survenu sur la VM</td>
+																							  </tr>
                                   																<tr>
                                   																	<td>03/01/2016</td>
                                   																	<td>1 heure 30</td>
