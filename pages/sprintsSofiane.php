@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 33 heures</p>
+                    <p style="text-align:right"> Temps Total : 37 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint5" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 7 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 11 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -47,9 +47,14 @@
                                                         </thead>
                                                         <tbody>
                                                           <tr>
+                                                            <td>13/01/2017</td>
+                                                            <td>4 heures </td>
+                                                            <td>Finalisation du stockage du CV sur le serveur</td>
+                                                          </tr>
+                                                          <tr>
                                                             <td>10/01/2017</td>
                                                             <td>2 heures </td>
-                                                            <td>Erreur connexion refusée, non résolue pour le moment</td>
+                                                            <td>Recherche sur l'erreur "connexion refusée", non résolue pour le moment</td>
                                                           </tr>
                                                           <tr>
                                                             <td>06/01/2017</td>
@@ -57,10 +62,10 @@
                                                             <td>Gestion du stockage du cv sur le serveur</td>
                                                           </tr>
                                                           <tr>
-                                                                <td>03/01/2017</td>
-                                                                <td>2 heures</td>
-                                                                <td>Modification site de communication et du tableau Trello</td>
-                                                            </tr>
+                                                            <td>03/01/2017</td>
+                                                            <td>2 heures</td>
+                                                            <td>Modification site de communication et du tableau Trello</td>
+                                                          </tr>
                                                           </tbody>
                                                       </table>
                                                   </div>
