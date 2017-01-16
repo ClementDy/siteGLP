@@ -29,7 +29,12 @@
                                         <div class="panel-body">
                                             <h4> Dossier d'architecture </h4>
                                             <p><a href="../DossierArchitecture_v2.pdf" download="DossierArchitecture">Télécharger le dossier d'architecture V(2.0)</a></p>
-                                            
+                                              <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
+								
+								
                         <!-- /.panel-body -->
 						<!-- Sprint 4 -->
                               <div class="panel panel-default">
