@@ -160,15 +160,15 @@ include("header.php");
                                 </tr>
                                 <tr>
                                   <td>Faire HTML/CSS</td>
-                                  <td>1 heure</td>
-                                  <td>1 heure 30</td>
+                                  <td>3 heures</td>
+                                  <td>4 heures</td>
                                   <td>Fini</td>
                                   <td>Willy Pezant</td>
                                 </tr>
                                 <tr>
                                   <td>Faire la liaison avec la  BD (persistence)</td>
                                   <td>1 heure</td>
-                                  <td></td>
+                                  <td>2 heures</td>
                                   <td>A faire</td>
                                   <td>Willy Pezant</td>
                                 </tr>
@@ -253,8 +253,8 @@ include("header.php");
                                 <tr>
                                   <td>Modifier le dossier d'architecture</td>
                                   <td>2 heures</td>
-                                  <td></td>
-                                  <td>En cours</td>
+                                  <td>2 heures 30</td>
+                                  <td>Fini</td>
                                   <td>Willy Pezant</td>
                                 </tr>
                               </tbody>
