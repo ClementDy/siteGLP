@@ -22,10 +22,10 @@
                               <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint4">Sprint - 4</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint5">Sprint - 5</a>
                                         </h4>
                                     </div>
-                                    <div id="sprint4" class="panel-collapse collapse">
+                                    <div id="sprint5" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <h4> Dossier d'architecture </h4>
                                             <p><a href="../DossierArchitecture_v2.pdf" download="DossierArchitecture">Télécharger le dossier d'architecture V(2.0)</a></p>
