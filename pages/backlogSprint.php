@@ -225,8 +225,8 @@ include("header.php");
                                 <tr>
                                   <td>Stocker le CV dans un dossier sur le serveur</td>
                                   <td>3 heures</td>
-                                  <td></td>
-                                  <td>En cours</td>
+                                  <td>7 heures</td>
+                                  <td>Fini</td>
                                   <td>Sofiane Ouarab</td>
                                 </tr>
                               </tbody>
@@ -284,8 +284,8 @@ include("header.php");
                                 <tr>
                                   <td>Modifier le backlog de Sprint</td>
                                   <td>1 heure</td>
-                                  <td></td>
-                                  <td>En cours</td>
+                                  <td>2 heures</td>
+                                  <td>Fini</td>
                                   <td>Sofiane Ouarab</td>
                                 </tr>
                               </tbody>
