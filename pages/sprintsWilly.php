@@ -83,7 +83,7 @@
                                   																</tr>
                                   																<tr>
                                   																	<td>02/01/2016</td>
-                                  																	<td>1 heure <td>
+                                  																	<td>1 heure </td>
                                   																	<td>Modèle de données - dossier architecture</td>
                                   																</tr>
                                   																<tr>
