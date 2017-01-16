@@ -200,7 +200,7 @@ include("header.php");
                                   <td>Faire la liaison avec la BD</td>
                                   <td>30 minutes</td>
                                   <td>1 heure</td>
-                                  <td>En cours</td>
+                                  <td>Fini</td>
                                   <td>Clément Dilly</td>
                                 </tr>
                               </tbody>
