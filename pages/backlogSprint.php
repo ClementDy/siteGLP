@@ -87,23 +87,25 @@ include("header.php");
                               <tbody>
                                 <tr>
                                   <td>Faire le HTML/CSS</td>
-                                  <td></td>
-                                  <td></td>
+                                  <td>2 heures</td>
+                                  <td>1 heure</td>
                                   <td>En cours</td>
                                   <td>Alexandre Lefebvre</td>
                                 </tr>
                                 <tr>
-                                  <td>Faire la persistence des données</td>
-                                  <td></td>
-                                  <td></td>
+                                  <td>Sauvegarde des formations précedentes avec la persistance</td>
+                                  <td>3 heures</td>
+                                  <td>2 heures</td>
                                   <td>En cours</td>
                                   <td>Alexandre Lefebvre</td>
                                 </tr>
-                                <td>Faire le controlleur</td>
-                                <td></td>
-                                <td></td>
+                                <tr>
+                                <td>Recuperation des données de formation LDAP </td>
+                                <td>4 heures</td>
+                                <td>3 heures</td>
                                 <td>En cours</td>
                                 <td>Alexandre Lefebvre</td>
+                                </tr>
                               </tbody>
                             </table>
                           </div>

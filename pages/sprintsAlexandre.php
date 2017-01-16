@@ -64,7 +64,7 @@
 <tr>
                                                                   <td>10/01/2017</td>
                                                                   <td>2 heures</td>
-                                                                  <td>Sauvegarde des formations précedentes en persistence</td>
+                                                                  <td>Sauvegarde des formations précedentes en persistance</td>
                                                               </tr>
 								<tr>
                                                                   <td>13/01/2017</td>
