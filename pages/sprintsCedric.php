@@ -11,7 +11,7 @@
                     
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 36 heures 30</p>
+                    <p style="text-align:right"> Temps Total : 40 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de C&eacute;dric
@@ -28,7 +28,7 @@
                                         </h4>
                                     </div>
                                     <div id="sprint5" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 5 heures 30</p>
+                                        <p style="text-align:right"> Temps Sprint : 9 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -45,6 +45,16 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                            <tr>
+                                                                <td>13/01/2017</td>
+                                                                <td>1 heure 30</td>
+                                                                <td>Mise en place de l'architecture de tests unitaires</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>10/01/2017</td>
+                                                                <td>2 heures</td>
+                                                                <td>Tests sur la gestion des listes d'entités (couches 'présentation' et 'service')</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>04/01/2017</td>
                                                                 <td>3 heures 30</td>
