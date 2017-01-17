@@ -83,10 +83,22 @@
                                             <td >To Do</td>
                                         </tr>
 
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
                                         <tr>
                                             <td>1.2 - Mise à jour du profil étudiant</td>
                                             <td>1. En tant qu'étudiant je peux visualiser les données saisies concernant mon profil</td>
                                             <td>To Do</td>
+                                        </tr>
+
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
                                         </tr>
 
                                         <tr>
@@ -95,8 +107,20 @@
                                             <td>To Do</td>
                                         </tr>
 
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
                                         <tr>
                                             <td>1.3 - Publication de la candidature</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
                                             <td></td>
                                             <td></td>
                                         </tr>
@@ -107,8 +131,20 @@
                                             <td></td>
                                         </tr>
 
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
                                         <tr>
                                             <td>1.5 - Consultation des offres</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
                                             <td></td>
                                             <td></td>
                                         </tr>
@@ -119,8 +155,20 @@
                                             <td></td>
                                         </tr>
 
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
                                         <tr>
                                             <td>1.7 - Actualiser sa candidature après une nouvelle année scolaire</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
                                             <td></td>
                                             <td></td>
                                         </tr>
@@ -132,9 +180,15 @@
                                         </tr>
 
                                         <tr>
-                                            <td>2.1 - Création d'une offre</td>
+                                            <td></td>
                                             <td>2. En tant que référent, je peux créer une offre vierge</td>
                                             <td>To Do</td>
+                                        </tr>
+
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
                                         </tr>
 
                                         <tr>
@@ -144,12 +198,16 @@
                                         </tr>
 
                                         <tr>
-                                            <td>2.2 - Consultation de mes offres</td>
+                                            <td></td>
                                             <td>2. En tant que référent, je peux consulter mes offres passées</td>
                                             <td>To Do</td>
                                         </tr>
 
-                                        
+                                        <tr style="backgroud-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
                                          <!--<tr>
                                             <td> Réalisation du socle technique.</td>
                                             <td> Sprint n°2</td>
