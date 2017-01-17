@@ -83,7 +83,7 @@
                                             <td >To Do</td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -95,11 +95,7 @@
                                             <td>To Do</td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                        </tr>
+
 
                                         <tr>
                                             <td></td>
@@ -107,7 +103,7 @@
                                             <td>To Do</td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -119,7 +115,7 @@
                                             <td></td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -131,7 +127,7 @@
                                             <td></td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -143,7 +139,7 @@
                                             <td></td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -155,7 +151,7 @@
                                             <td></td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -167,7 +163,7 @@
                                             <td></td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -185,7 +181,7 @@
                                             <td>To Do</td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
@@ -203,7 +199,7 @@
                                             <td>To Do</td>
                                         </tr>
 
-                                        <tr style="backgroud-color:grey">
+                                        <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
                                             <td></td>
