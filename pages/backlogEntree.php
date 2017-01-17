@@ -29,10 +29,10 @@
                                     <tbody style="text-align:left">
 
 
-                                        <tr class="success">
+                                        <tr>
                                             <td>1.1 - Création du profil étudiant</td>
-                                            <td>1. En tant qu'&eacute;tudiant je peux ins&eacute;rer mes informations personnelles</td>
-                                            <td>Done</td>
+                                            <td class="success">1. En tant qu'&eacute;tudiant je peux ins&eacute;rer mes informations personnelles</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                          <tr>
@@ -49,32 +49,32 @@
 
                                         <tr>
                                             <td></td>
-                                            <td>4. En tant qu'étudiant je peux insérer mes informations diverses</td>
-                                            <td>Done</td>
+                                            <td class="success">4. En tant qu'étudiant je peux insérer mes informations diverses</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>5. En tant qu'étudiant je peux insérer les motivations de ma candidature</td>
-                                            <td>Done</td>
+                                            <td class="success">5. En tant qu'étudiant je peux insérer les motivations de ma candidature</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>6. En tant qu'étudiant je peux ajouter mes souhaits concernant les contrats</td>
-                                            <td>Done</td>
+                                            <td class="success">6. En tant qu'étudiant je peux ajouter mes souhaits concernant les contrats</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>7. En tant qu'étudiant je peux insérer mes disponibilités</td>
-                                            <td>Done</td>
+                                            <td class="success">7. En tant qu'étudiant je peux insérer mes disponibilités</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
-                                            <td>8. En tant qu'étudiant je peux déposer mon CV en ligne</td>
-                                            <td>Done</td>
+                                            <td class="success">8. En tant qu'étudiant je peux déposer mon CV en ligne</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
