@@ -26,6 +26,206 @@ include("header.php");
                 <div class="panel-body">
                   <div class="panel-group" id="accordion">
 
+                    <!-- Sprint 6 -->
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint6">Sprint - 6</a>
+                        </h4>
+                      </div>
+                      <div id="sprint6" class="panel-collapse collapse">
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                          </div>
+                          <!-- /.panel-heading -->
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux m'authentifier grâce au service SSO CAS de l'université</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire le controleur</td>
+                                    <td>6 heures</td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Sofiane Ouarab</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux insérer mes contrats</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire HTML/CSS</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Cedric Duhautois</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Faire la persistence</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Cedric Duhautois</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux insérer mes formations passées</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire HTML/CSS</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Alexandre Lefebvre</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Faire la persistence</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Alexandre Lefebvre</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux créer ma candiature</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire un validateur sur le formulaire</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Willy Pezant</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Faire un système de transaction</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Willy Pezant</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant que référent, je peux consulter mes offres en cours et passées</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire un formulaire HTML/CSS</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Clément Dilly</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'utilisateur, j'ai accès à une page d’accueil me permettant de naviguer sur le site.</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>T&acirc;che</th>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>Faire un formulaire HTML/CSS</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Clément Dilly</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Faire un controleur pour récupérer les informations/td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Clément Dilly</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
                     <!-- Sprint 5 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
