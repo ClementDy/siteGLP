@@ -28,7 +28,12 @@
                                     </thead>
                                     <tbody style="text-align:left">
 
-
+                                      <tr style="background-color:grey">
+                                          <td></td>
+                                          <td></td>
+                                          <td></td>
+                                      </tr>
+                                      
                                         <tr>
                                             <td>1.1 - Création du profil étudiant</td>
                                             <td class="success">1. En tant qu'&eacute;tudiant je peux ins&eacute;rer mes informations personnelles</td>
