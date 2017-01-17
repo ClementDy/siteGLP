@@ -78,19 +78,31 @@
                                         </tr>
 
                                         <tr>
+                                            <td></td>
+                                            <td >9. En tant qu'étudiant je peux m'authentifier sur le site grâce au service SSO CAS de l'univerisité</td>
+                                            <td >To Do</td>
+                                        </tr>
+
+                                        <tr>
                                             <td>1.2 - Mise à jour du profil étudiant</td>
+                                            <td>1. En tant qu'étudiant je peux visualiser les données saisies concernant mon profil</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>2. En tant qu'étudiant je peux modifier mes données saisies concernant mon profil</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>1.3 - Publication de la candidature</td>
                                             <td></td>
                                             <td></td>
                                         </tr>
 
                                         <tr>
-                                            <td>1.3 - Dépublication du profil étudiant</td>
-                                            <td></td>
-                                            <td></td>
-                                        </tr>
-
-                                        <tr>
-                                            <td>1.4 - Publication de la candidature</td>
+                                            <td>1.4 - Dépublication du profil étudiant</td>
                                             <td></td>
                                             <td></td>
                                         </tr>
@@ -113,9 +125,31 @@
                                             <td></td>
                                         </tr>
 
+                                        <tr>
+                                            <td>2.1 - Création d'une offre</td>
+                                            <td>1. En tant que référent, je peux créer une offre à partir d'une ancienne offre.</td>
+                                            <td>To Do</td>
+                                        </tr>
 
+                                        <tr>
+                                            <td>2.1 - Création d'une offre</td>
+                                            <td>2. En tant que référent, je peux créer une offre vierge</td>
+                                            <td>To Do</td>
+                                        </tr>
 
+                                        <tr>
+                                            <td>2.2 - Consultation de mes offres</td>
+                                            <td>1. En tant que référent, je peux consulter mes offres en cours </td>
+                                            <td>To Do</td>
+                                        </tr>
 
+                                        <tr>
+                                            <td>2.2 - Consultation de mes offres</td>
+                                            <td>2. En tant que référent, je peux consulter mes offres passées</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        
                                          <!--<tr>
                                             <td> Réalisation du socle technique.</td>
                                             <td> Sprint n°2</td>
