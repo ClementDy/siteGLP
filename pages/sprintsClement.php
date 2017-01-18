@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 71 heures</p>
+	                    <p style="text-align:right"> Temps Total : 72 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -32,7 +32,7 @@
 																																			</div>
 																																			<div id="sprint6" class="panel-collapse collapse">
 
-																																					<p style="text-align:right"> Temps Sprint : 4 heures</p>
+																																					<p style="text-align:right"> Temps Sprint : 5 heures</p>
 																																					<div class="panel panel-default">
 																																							<div class="panel-heading">
 																																									Relev&eacute; d'activit&eacute;s
@@ -49,6 +49,11 @@
 																																															</tr>
 																																													</thead>
 																																													<tbody>
+																																														<tr>
+																																															<td>18/01/2017</td>
+																																															<td>1 heure </td>
+																																															<td>2.1.2 - R&ealisation d'une premi&eagrave;re version html responsive pour la cr&eacute;ation d'une offre vierge.</td>
+																																														</tr>
 																																														<tr>
 																																															<td>17/01/2017</td>
 																																															<td>1 heure </td>
