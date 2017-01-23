@@ -11,7 +11,7 @@ include("header.php");
 
       <div class="row">
         <div class="col-lg-12">
-          <p style="text-align:right"> Temps Total : 41 heures</p>
+          <p style="text-align:right"> Temps Total : 45 heures</p>
           <div class="panel panel-default">
             <div class="panel-heading">
               Les sprints d'Alexandre
@@ -28,7 +28,7 @@ include("header.php");
                   </div>
                   <div id="sprint6" class="panel-collapse collapse">
 
-                    <p style="text-align:right"> Temps Sprint : 6 heures</p>
+                    <p style="text-align:right"> Temps Sprint : 10 heures</p>
                     <div class="panel panel-default">
                       <div class="panel-heading">
                         Relev&eacute; d'activit&eacute;s
