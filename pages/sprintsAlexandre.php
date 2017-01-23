@@ -23,7 +23,7 @@ include("header.php");
                 <div class="panel panel-default">
                   <div class="panel-heading">
                     <h4 class="panel-title">
-                      <a data-toggle="collapse" data-parent="#accordion" href="#sprint5">Sprint - 6</a>
+                      <a data-toggle="collapse" data-parent="#accordion" href="#sprint6">Sprint - 6</a>
                     </h4>
                   </div>
                   <div id="sprint6" class="panel-collapse collapse">
@@ -45,16 +45,19 @@ include("header.php");
                               </tr>
                             </thead>
                             <tbody>
-
-                                  <td>17/01/2017</td>
-                                  <td>1 heure 30</td>
-                                  <td> Création des maquettes pour les CU : "Création d'une offre" et "Consultation des offres"</td>
+				<tr>
+                                  <td>20/01/2017</td>
+                                  <td>2 heures 30</td>
+                                  <td>Implementation de la liste des formations précedentes </td>
                                 </tr>
 
-                                <td>17/01/2017</td>
-                                <td>2 heures 30</td>
-                                <td>Resolution du probleme apres l'appui sur le bouton enregistrer</td>
-                                <tr>
+				<tr>
+                                  <td>20/01/2017</td>
+                                  <td>1 heure 30</td>
+                                  <td>Recherche sur la persistance de listes avec Thymeleaf</td>
+                                </tr>
+
+				<tr>
                                   <td>19/01/2017</td>
                                   <td>1 heure 30</td>
                                   <td>Remise en forme de la page divers</td>
@@ -65,6 +68,15 @@ include("header.php");
                                   <td>30 minutes</td>
                                   <td>Tentative de resolution du probleme de perte des données en base</td>
                                 </tr>
+                                  <td>17/01/2017</td>
+                                  <td>1 heure 30</td>
+                                  <td> Création des maquettes pour les CU : "Création d'une offre" et "Consultation des offres"</td>
+                                </tr>
+
+                                <td>17/01/2017</td>
+                                <td>2 heures 30</td>
+                                <td>Resolution du probleme apres l'appui sur le bouton enregistrer</td>
+                                
 
                               </tbody>
                             </table>

@@ -112,16 +112,23 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>Faire HTML/CSS</td>
-                                    <td></td>
+                                    <td>Réaliser la page html des formations avec une liste dynamique</td>
+                                    <td>2h</td>
                                     <td></td>
                                     <td>En cours</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
                                   <tr>
-                                    <td>Faire la persistence</td>
+                                    <td>Realiser la persistance des données des formations </td>
+                                    <td>1h</td>
                                     <td></td>
-                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Alexandre Lefebvre</td>
+                                  </tr>
+ 				<tr>
+                                    <td>Recuperer les informations des formations avec le webService</td>
+                                    <td>1h</td>
+                                    <td>2h</td>
                                     <td>En cours</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
