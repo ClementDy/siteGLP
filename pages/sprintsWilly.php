@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 38 heures 30</p>
+                    <p style="text-align:right"> Temps Total : 44 heures 30</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -29,7 +29,7 @@
 	                                    </div>
 	                                    <div id="sprint6" class="panel-collapse collapse">
 
-	                                        <p style="text-align:right"> Temps Sprint : 2 heures</p>
+	                                        <p style="text-align:right"> Temps Sprint : 8 heures 30</p>
 	                                        <div class="panel panel-default">
 	                                            <div class="panel-heading">
 	                                                Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,21 @@
 	                                                            </tr>
 	                                                        </thead>
 	                                                        <tbody>
+																								<tr>
+																								<td>26/01/2017</td>
+																								<td>3 heures</td>
+																								<td>Travail sur la récupération et la modification de la candidature de l'etudiant</td>
+																								</tr>								
+																								<tr>
+																									<td>24/01/2017</td>
+																									<td>2 heures</td>
+																									<td>Recherche sur les validateurs avec SpringBoot</td>
+																								</tr>
+																								 <tr>
+																									<td>20/01/2017</td>
+																									<td>1 heure</td>
+																									<td>Refactoring global sur le projet</td>
+																								</tr>
 																								 <tr>
 																								  <td>19/01/2016</td>
 																								  <td>1 heure 30</td>
@@ -53,7 +68,7 @@
 																								</tr>
 																								 <tr>
 																								  <td>19/01/2016</td>
-																								  <td>30 heures</td>
+																								  <td>1 heure</td>
 																								  <td>recherche sur Bootstrap<td>
 																								</tr>
 																								
@@ -376,7 +391,7 @@
                                     </div>
                                     <div id="sprint0" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint :</p>
+                                        <p style="text-align:right"> Temps Sprint : 0</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
