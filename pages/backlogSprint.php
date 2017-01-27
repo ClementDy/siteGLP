@@ -114,14 +114,14 @@ include("header.php");
                                   <tr>
                                     <td>Réaliser la page html des formations avec une liste dynamique</td>
                                     <td>2h</td>
-                                    <td></td>
+                                    <td>6h30</td>
                                     <td>En cours</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
                                   <tr>
                                     <td>Realiser la persistance des données des formations </td>
                                     <td>1h</td>
-                                    <td></td>
+                                    <td>4h</td>
                                     <td>En cours</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
