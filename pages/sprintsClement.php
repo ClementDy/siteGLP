@@ -77,7 +77,7 @@
 																																														<tr>
 																																															<td>18/01/2017</td>
 																																															<td>1 heure </td>
-																																															<td>2.1.2 - Réalisation d'une premi&eagrave;re version html responsive pour la cr&eacute;ation d'une offre vierge.</td>
+																																															<td>2.1.2 - Réalisation d'une première version html responsive pour la création d'une offre vierge.</td>
 																																														</tr>
 																																														<tr>
 																																															<td>17/01/2017</td>
