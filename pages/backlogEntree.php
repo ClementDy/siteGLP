@@ -42,8 +42,8 @@
 
                                          <tr>
                                             <td></td>
-                                            <td>2. En tant qu'étudiant je peux insérer mes formations courantes et passées</td>
-                                            <td>Doing</td>
+                                            <td class="success">2. En tant qu'étudiant je peux insérer mes formations courantes et passées</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>

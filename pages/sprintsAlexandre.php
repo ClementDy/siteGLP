@@ -48,39 +48,39 @@
                                 <tr>
                                   <td>27/01/2017</td>
                                   <td>3 heures</td>
-                                  <td>Test d'implémentation de la persistance  </td>
+                                  <td>1.1.2 Test d'implémentation de la persistance des formations passées en dynamique </td>
                                 </tr>
                                 <tr>
                                   <td>25/01/2017</td>
                                   <td>2 heures</td>
-                                  <td>Recherche sur la persistance des objets dynamiques pour les formations</td>
+                                  <td>1.1.2 Recherche sur la persistance des objets dynamiques pour les formations</td>
                                 </tr>
                                 <tr>
                                   <td>24/01/2017</td>
                                   <td>4 heures</td>
-                                  <td>Implementation de la vue des formations précédentes avec boutons + et -</td>
+                                  <td>1.1.2 Implementation de la vue des formations précédentes avec boutons + et -</td>
                                 </tr>
                                 <tr>
                                   <td>23/01/2017</td>
                                   <td>2 heures </td>
-                                  <td>Recherche sur l'ajout dynamique de formations précédentes </td>
+                                  <td>1.1.2 Recherche sur l'ajout dynamique de formations précédentes </td>
                                 </tr>
                                 <tr>
                                   <td>20/01/2017</td>
                                   <td>2 heures 30</td>
-                                  <td>Implementation de la liste des formations précedentes </td>
+                                  <td>1.1.2 Implementation de la liste des formations précedentes </td>
                                 </tr>
 
                                 <tr>
                                   <td>20/01/2017</td>
                                   <td>1 heure 30</td>
-                                  <td>Recherche sur la persistance de listes avec Thymeleaf</td>
+                                  <td>1.1.2  Recherche sur la persistance de listes avec Thymeleaf</td>
                                 </tr>
 
                                 <tr>
                                   <td>19/01/2017</td>
                                   <td>1 heure 30</td>
-                                  <td>Remise en forme de la page divers</td>
+                                  <td>1.1.4 Remise en forme de la page divers</td>
                                 </tr>
 
                                 <tr>
