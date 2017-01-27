@@ -185,10 +185,10 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>Faire un formulaire HTML/CSS</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td>En cours</td>
+                                    <td>Réaliser une première version HTML/CSS</td>
+                                    <td>1 heure</td>
+                                    <td>1 heure 30</td>
+                                    <td>Fait</td>
                                     <td>Clément Dilly</td>
                                   </tr>
                                 </tbody>
@@ -212,14 +212,14 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>Faire un formulaire HTML/CSS</td>
-                                    <td></td>
+                                    <td>1 heure</td>
                                     <td></td>
                                     <td>En cours</td>
                                     <td>Clément Dilly</td>
                                   </tr>
                                   <tr>
                                     <td>Faire un controleur pour récupérer les informations/td>
-                                    <td></td>
+                                    <td>1 heure</td>
                                     <td></td>
                                     <td>En cours</td>
                                     <td>Clément Dilly</td>

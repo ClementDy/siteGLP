@@ -32,7 +32,7 @@
 																																			</div>
 																																			<div id="sprint6" class="panel-collapse collapse">
 
-																																					<p style="text-align:right"> Temps Sprint : 10 heures</p>
+																																					<p style="text-align:right"> Temps Sprint : 11 heures</p>
 																																					<div class="panel panel-default">
 																																							<div class="panel-heading">
 																																									Relev&eacute; d'activit&eacute;s
@@ -49,6 +49,11 @@
 																																															</tr>
 																																													</thead>
 																																													<tbody>
+																																														<tr>
+																																															<td>27/01/2017</td>
+																																															<td>1 heure </td>
+																																															<td>Modification concernant la barre de naviguation (Onglet actuel en active et nom et prénom affiché dans la navbar).</td>
+																																														</tr>
 																																														<tr>
 																																															<td>25/01/2017</td>
 																																															<td>1 heure </td>
