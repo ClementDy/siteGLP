@@ -13,7 +13,7 @@
                 <div class="col-lg-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            BackLog Produit
+                            Backlog d'Entrée
                         </div>
 
                         <div class="panel-body">
@@ -88,6 +88,12 @@
                                             <td >To Do</td>
                                         </tr>
 
+                                        <tr>
+                                            <td></td>
+                                            <td >10. En tant qu'étudiant, je peux enregistrer toutes mes informations</td>
+                                            <td >To Do</td>
+                                        </tr>
+
                                         <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
@@ -96,7 +102,7 @@
 
                                         <tr>
                                             <td>1.2 - Mise à jour du profil étudiant</td>
-                                            <td>1. En tant qu'étudiant je peux visualiser les données saisies concernant mon profil</td>
+                                            <td>1. En tant qu'étudiant je peux consulter mon profil</td>
                                             <td>To Do</td>
                                         </tr>
 
@@ -104,7 +110,7 @@
 
                                         <tr>
                                             <td></td>
-                                            <td>2. En tant qu'étudiant je peux modifier mes données saisies concernant mon profil</td>
+                                            <td>2. En tant qu'étudiant je peux modifier mes données saisies concernant mon profil après enregistrement</td>
                                             <td>To Do</td>
                                         </tr>
 
@@ -116,8 +122,8 @@
 
                                         <tr>
                                             <td>1.3 - Publication de la candidature</td>
-                                            <td></td>
-                                            <td></td>
+                                            <td>1. En tant qu'étudiant, je peux publier ma candidature</td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -175,14 +181,30 @@
                                         </tr>
 
                                         <tr>
+                                            <td>1.8 - Création d'une page d'accueil</td>
+                                            <td>1. En tant qu'étudiant, j'ai accés à une page d'accueil</td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr style="background-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
                                             <td>2.1 - Création d'une offre</td>
-                                            <td>1. En tant que référent, je peux créer une offre à partir d'une ancienne offre.</td>
+                                            <td>1. En tant que référent, je peux créer une offre standard</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
-                                            <td></td>
-                                            <td>2. En tant que référent, je peux créer une offre vierge</td>
+                                            <td>2. En tant que référent, je peux créer une offre générique</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>3. En tant que référent, je peux créer une offre à partir d'une ancienne offre</td>
                                             <td>To Do</td>
                                         </tr>
 
@@ -201,6 +223,18 @@
                                         <tr>
                                             <td></td>
                                             <td>2. En tant que référent, je peux consulter mes offres passées</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr style="background-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>3.1 - Aspects techiques</td>
+                                            <td>1. Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires </td>
                                             <td>To Do</td>
                                         </tr>
 
