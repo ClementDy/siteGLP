@@ -30,7 +30,7 @@ include("header.php");
                     <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint6">Sprint - 7</a>
+                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint7">Sprint - 7</a>
                         </h4>
                       </div>
                       <div id="sprint7" class="panel-collapse collapse">
