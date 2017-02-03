@@ -19,6 +19,58 @@
               <!-- .panel-heading -->
               <div class="panel-body">
                 <div class="panel-group" id="accordion">
+                  <!-- Sprint 7 -->
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#sprint7">Sprint - 7</a>
+                      </h4>
+                    </div>
+                    <div id="sprint7" class="panel-collapse collapse">
+
+                      <p style="text-align:right"> Temps Sprint : 21 heures</p>
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          Relev&eacute; d'activit&eacute;s
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>Date</th>
+                                  <th>Temps passé</th>
+                                  <th>T&acirc;che</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>03/02/2017</td>
+                                  <td>4 heures</td>
+                                  <td>1.2.1 Affichage de toutes les infos de l'étudiant sauf le CV</td>
+                                </tr>
+                                <tr>
+                                  <td>02/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>1.2.1 Premiere ebauche de la page html pour afficher proprement les informations</td>
+                                </tr>
+                                <tr>
+                                  <td>01/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>1.2.1 Creation de la page html et du controller pour afficher les infos de l'etudiant</td>
+                                </tr>
+
+
+                            </tbody>
+                          </table>
+                        </div>
+                        <!-- /.table-responsive -->
+                      </div>
+                      <!-- /.panel-body -->
+                    </div>
+                  </div>
+                </div>
                   <!-- Sprint 6 -->
                   <div class="panel panel-default">
                     <div class="panel-heading">
