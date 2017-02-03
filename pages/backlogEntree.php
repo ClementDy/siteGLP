@@ -199,11 +199,13 @@
                                         </tr>
 
                                         <tr>
+                                            <td></td>
                                             <td>2. En tant que référent, je peux créer une offre générique</td>
                                             <td>To Do</td>
                                         </tr>
 
                                         <tr>
+                                            <td></td>
                                             <td>3. En tant que référent, je peux créer une offre à partir d'une ancienne offre</td>
                                             <td>To Do</td>
                                         </tr>
