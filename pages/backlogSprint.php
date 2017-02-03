@@ -26,6 +26,262 @@ include("header.php");
                 <div class="panel-body">
                   <div class="panel-group" id="accordion">
 
+                    <!-- Sprint 7 -->
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint6">Sprint - 7</a>
+                        </h4>
+                      </div>
+                      <div id="sprint7" class="panel-collapse collapse">
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                          </div>
+                          <!-- /.panel-heading -->
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux enregistrer toutes mes informations</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>1 heure</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Cédric</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant, j'ai accés à une page d'accueil</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>1 heure</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant que référent, je peux créeer une offre standard</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Clément</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant, je peux publier ma candidature</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>2 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux consulter mon profil</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>2 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Alexandre</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant je peux modifier toutes les informations que j'ai enregistré</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>2 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Willy</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant qu'étudiant, je peux m'authentifier sur le site grâce au service SSO CAS de l'unviersité</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>6 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant que référent, je peux créer une offre générique</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Clément</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>En tant que référent, je peux m'authentifier sur le site</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>En cours</td>
+                                    <td>Sofiane</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
                     <!-- Sprint 6 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
