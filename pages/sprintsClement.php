@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 79 heures</p>
+	                    <p style="text-align:right"> Temps Total : 81 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -33,7 +33,7 @@
 																																																			</div>
 																																																			<div id="sprint6" class="panel-collapse collapse">
 
-																																																					<p style="text-align:right"> Temps Sprint : 2 heures</p>
+																																																					<p style="text-align:right"> Temps Sprint : 4 heures</p>
 																																																					<div class="panel panel-default">
 																																																							<div class="panel-heading">
 																																																									Relev&eacute; d'activit&eacute;s
@@ -50,6 +50,13 @@
 																																																															</tr>
 																																																													</thead>
 																																																													<tbody>
+
+																																																														<tr>
+																																																															<td>02/02/2017</td>
+																																																															<td>2 heures</td>
+																																																															<td>2.1.1 Cr&eacute;tion de la page HTML pour créer une offre standard.</td>
+																																																														</tr>
+
 
 																																																														<tr>
 																																																															<td>01/02/2017</td>
