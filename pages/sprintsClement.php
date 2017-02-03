@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 81 heures</p>
+	                    <p style="text-align:right"> Temps Total : 83 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -33,7 +33,7 @@
 																																																			</div>
 																																																			<div id="sprint6" class="panel-collapse collapse">
 
-																																																					<p style="text-align:right"> Temps Sprint : 4 heures</p>
+																																																					<p style="text-align:right"> Temps Sprint : 6 heures</p>
 																																																					<div class="panel panel-default">
 																																																							<div class="panel-heading">
 																																																									Relev&eacute; d'activit&eacute;s
@@ -50,7 +50,16 @@
 																																																															</tr>
 																																																													</thead>
 																																																													<tbody>
-
+																																																														<tr>
+																																																															<td>03/02/2017</td>
+																																																															<td>1 heure</td>
+																																																															<td>2.1.1 Résolution d'un problème concernant les th:ref sur firefox.</td>
+																																																														</tr>
+																																																														<tr>
+																																																															<td>03/02/2017</td>
+																																																															<td>1 heure</td>
+																																																															<td>1.1.7 Modification pour la saisie des dates en rangePicker pour la disponibilité.</td>
+																																																														</tr>
 																																																														<tr>
 																																																															<td>02/02/2017</td>
 																																																															<td>2 heures</td>
