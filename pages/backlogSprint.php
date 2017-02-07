@@ -39,7 +39,7 @@ include("header.php");
                           </div>
                           <!-- /.panel-heading -->
                           <div class="panel-body">
-                            <h4><b>En tant qu'étudiant je peux enregistrer toutes mes informations</b></h4>
+                            <h4><b>1.1.10 En tant qu'étudiant je peux enregistrer toutes mes informations</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -63,7 +63,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires</b></h4>
+                            <h4><b>3.1.1 Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -87,7 +87,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant qu'étudiant, j'ai accés à une page d'accueil</b></h4>
+                            <h4><b>1.8.1 En tant qu'étudiant, j'ai accés à une page d'accueil</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -111,7 +111,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant que référent, je peux créeer une offre standard</b></h4>
+                            <h4><b>2.1.1 En tant que référent, je peux créer une offre standard</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -135,7 +135,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant qu'étudiant, je peux publier ma candidature</b></h4>
+                            <h4><b>1.3.1 En tant qu'étudiant, je peux publier ma candidature</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -159,7 +159,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant qu'étudiant je peux consulter mon profil</b></h4>
+                            <h4><b>1.2.1 En tant qu'étudiant je peux consulter mon profil</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -183,7 +183,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant qu'étudiant je peux modifier toutes les informations que j'ai enregistré</b></h4>
+                            <h4><b>1.2.2 En tant qu'étudiant je peux modifier toutes les informations que j'ai enregistré</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -207,7 +207,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant qu'étudiant, je peux m'authentifier sur le site grâce au service SSO CAS de l'unviersité</b></h4>
+                            <h4><b>1.1.9 En tant qu'étudiant, je peux m'authentifier sur le site grâce au service SSO CAS de l'unviersité</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -231,7 +231,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant que référent, je peux créer une offre générique</b></h4>
+                            <h4><b>2.1.2 En tant que référent, je peux créer une offre générique</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -255,7 +255,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant que référent, je peux m'authentifier sur le site</b></h4>
+                            <h4><b>1.8.2 En tant que référent, je peux m'authentifier sur le site</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>

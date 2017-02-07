@@ -183,7 +183,10 @@
                                         <tr>
                                             <td>1.8 - Création d'une page d'accueil</td>
                                             <td>1. En tant qu'étudiant, j'ai accés à une page d'accueil</td>
+                                        <tr>
                                             <td></td>
+                                            <td>2. En tant que référent, je peux m'authentifier sur le site</td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
