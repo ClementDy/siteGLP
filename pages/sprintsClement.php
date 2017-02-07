@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 83 heures</p>
+	                    <p style="text-align:right"> Temps Total : 89 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -33,7 +33,7 @@
 																																																			</div>
 																																																			<div id="sprint6" class="panel-collapse collapse">
 
-																																																					<p style="text-align:right"> Temps Sprint : 6 heures</p>
+																																																					<p style="text-align:right"> Temps Sprint : 12 heures</p>
 																																																					<div class="panel panel-default">
 																																																							<div class="panel-heading">
 																																																									Relev&eacute; d'activit&eacute;s
@@ -51,6 +51,21 @@
 																																																													</thead>
 																																																													<tbody>
 																																																														<tr>
+																																																															<td>07/02/2017</td>
+																																																															<td>2 heures</td>
+																																																															<td>2.1.1 Modifications des entités concernant les offres génériques et création d'interface et classe abstraite pour gérer les offres génériques et standards.</td>
+																																																														</tr>
+																																																														<tr>
+																																																															<td>07/02/2017</td>
+																																																															<td>3 heures</td>
+																																																															<td>2.1.1 Modification de la page de cr&eacute;ation d'une offre générique ainsiq ue des entités pour gérer la persistence.</td>
+																																																														</tr>
+																																																														<tr>
+																																																															<td>06/02/2017</td>
+																																																															<td>1 heure</td>
+																																																															<td>1.1.7 Résolution d'un problème sur le javascript du rangePicker.</td>
+																																																														</tr>
+																																																														<tr>
 																																																															<td>03/02/2017</td>
 																																																															<td>1 heure</td>
 																																																															<td>2.1.1 Résolution d'un problème concernant les th:ref sur firefox.</td>
@@ -63,7 +78,7 @@
 																																																														<tr>
 																																																															<td>02/02/2017</td>
 																																																															<td>2 heures</td>
-																																																															<td>2.1.1 Cr&eacute;tion de la page HTML pour créer une offre standard.</td>
+																																																															<td>2.1.1 Cr&eacute;tion de la page HTML pour créer une offre g&eacute;n&eacute;rique.</td>
 																																																														</tr>
 
 
