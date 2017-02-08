@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 48 heures</p>
+                    <p style="text-align:right"> Temps Total : 53 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint7" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 1 heure</p>
+                                        <p style="text-align:right"> Temps Sprint : 6 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -47,7 +47,23 @@
                                                         </thead>
                                                         <tbody>
                                                           <tr>
-                                                            <td>03/01/2017</td>
+                                                            <td>08/02/2017</td>
+                                                            <td>2 heures </td>
+                                                            <td>Fin du développement de l'authentification en tant que référent</td>
+                                                          </tr>
+
+                                                          <tr>
+                                                            <td>07/02/2017</td>
+                                                            <td>2 heures </td>
+                                                            <td>Début du développement de récupération des informations référents, rencontre d'un probléme lié au conflit entre étudiant et référent lors de l'authentification</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>07/02/2017</td>
+                                                            <td>1 heure </td>
+                                                            <td>Ajout de l'interface de connexion en tant que referent</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>03/02/2017</td>
                                                             <td>1 heure </td>
                                                             <td>Planification des taches pour le nouveau sprint, estimation des taches. Mise à jour des backlogs (entrée et sprint) sur le site de communication</td>
                                                           </tr>
