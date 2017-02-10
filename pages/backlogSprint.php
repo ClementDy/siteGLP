@@ -172,8 +172,32 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>2 heures</td>
-                                    <td></td>
+                                    <td>10 heures</td>
+                                    <td>15 heures</td>
+                                    <td>A faire</td>
+                                    <td>Alexandre</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>1.2.10 En tant qu'étudiant, je peux enregistrer toutes mes informations</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>4 heures</td>
+                                    <td>3 heures</td>
                                     <td>A faire</td>
                                     <td>Alexandre</td>
                                   </tr>

@@ -45,6 +45,16 @@
                                 </tr>
                               </thead>
                               <tbody>
+                                <tr>
+                                    <td>10/02/2017</td>
+                                    <td>1 heure</td>
+                                    <td>1.1.10 Affichage différent selon la présence d'un CV ou non</td>
+                                  </tr>
+                                <tr>
+                                    <td>10/02/2017</td>
+                                    <td>1 heure</td>
+                                    <td>1.1.10 Enregistrement CV en base</td>
+                                  </tr>
                               <tr>
                                   <td>09/02/2017</td>
                                   <td>1 heure</td>
