@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 53 heures 30</p>
+                    <p style="text-align:right"> Temps Total : 58 heures 30</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -28,7 +28,7 @@
                               	                                    </div>
                               	                                    <div id="sprint7" class="panel-collapse collapse">
 
-                              	                                        <p style="text-align:right"> Temps Sprint : 9 heures</p>
+                              	                                        <p style="text-align:right"> Temps Sprint : 14 heures</p>
                               	                                        <div class="panel panel-default">
                               	                                            <div class="panel-heading">
                               	                                                Relev&eacute; d'activit&eacute;s
@@ -46,27 +46,37 @@
                               	                                                        </thead>
                               	                                                        <tbody>
                                                                               <tr>
-                                                                                    <td>07/01/2016</td>
+                                                                                  <td>09/02/2016</td>
+                                                                                  <td>2 heures</td>
+                                                                                  <td>Affichage message erreur , validateur / test </td>
+                                                                              </tr>
+                                                                              <tr>
+                                                                                  <td>08/02/2016</td>
+                                                                                  <td>3 heures</td>
+                                                                                  <td>Réalisation validateur pour le forumlaire de candidature</td>
+                                                                              </tr>
+                                                                              <tr>
+                                                                                    <td>07/02/2016</td>
                                                                                     <td>2 heure</td>
                                                                                     <td>Creation page d'accueil pour l'etudiant</td>
                                                                               </tr>
                                                                               <tr>
-                                                                                  <td>07/01/2016</td>
+                                                                                  <td>07/02/2016</td>
                                                                                   <td>2 heure</td>
                                                                                   <td>Travail sur la publication de la candidature (differenciation avec l'enregistrement)</td>
                                                                               </tr>
                               																								 <tr>
-                              																								  <td>03/01/2016</td>
+                              																								  <td>03/02/2016</td>
                               																								  <td>2 heure</td>
                               																								  <td>Affichage des souhaits enregistrer / JS</td>
                               																								</tr>
                                                                               <tr>
-                                                                              <td>02/01/2016</td>
+                                                                              <td>02/02/2016</td>
                                                                                <td>1 heure</td>
                                                                                <td>Travail sur la recupération du CV<td>
                                                                              </tr>
                               																								 <tr>
-                              																								  <td>02/01/2016</td>
+                              																								  <td>02/02/2016</td>
                               																								  <td>2 heure</td>
                               																								  <td>Correction bug affichage des missions<td>
                               																								</tr>

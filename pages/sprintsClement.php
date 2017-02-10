@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 89 heures</p>
+	                    <p style="text-align:right"> Temps Total : 99 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -33,7 +33,7 @@
 																																																			</div>
 																																																			<div id="sprint6" class="panel-collapse collapse">
 
-																																																					<p style="text-align:right"> Temps Sprint : 12 heures</p>
+																																																					<p style="text-align:right"> Temps Sprint : 22 heures</p>
 																																																					<div class="panel panel-default">
 																																																							<div class="panel-heading">
 																																																									Relev&eacute; d'activit&eacute;s
@@ -50,6 +50,21 @@
 																																																															</tr>
 																																																													</thead>
 																																																													<tbody>
+																																																														<tr>
+																																																															<td>10/02/2017</td>
+																																																															<td>4 heures</td>
+																																																															<td>2.2 Modification du controller (JAVA) et de la page WEB (thymeleaf,HTML) pour afficher les offres en attentes de validation d'un référent.</td>
+																																																														</tr>
+																																																														<tr>
+																																																															<td>09/02/2017</td>
+																																																															<td>1 heure</td>
+																																																															<td>2.2 Modification de l'entité referent pour l'accès en base de ses offres.</td>
+																																																														</tr>
+																																																														<tr>
+																																																															<td>08/02/2017</td>
+																																																															<td>5 heures</td>
+																																																															<td>2.1.1 Enregistrement d'une offre générique, modifications des entités et du controller afin de sauvegarder une offre générique, un référent et un responsable d'offre.</td>
+																																																														</tr>
 																																																														<tr>
 																																																															<td>07/02/2017</td>
 																																																															<td>2 heures</td>

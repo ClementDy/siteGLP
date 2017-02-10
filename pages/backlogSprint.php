@@ -231,7 +231,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>2.1.2 En tant que référent, je peux créer une offre générique</b></h4>
+                            <h4><b>2.1.1 En tant que référent, je peux créer une offre générique</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -245,8 +245,32 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>3 heures</td>
-                                    <td></td>
-                                    <td>En cours</td>
+                                    <td>13 heures</td>
+                                    <td>Termin&eacute;</td>
+                                    <td>Clément</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>2.2 En tant que référent, j'ai accès à une page d'accueil qui recense mes offres.</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td>7 heures</td>
+                                    <td>Termin&eacute;</td>
                                     <td>Clément</td>
                                   </tr>
                                 </tbody>
@@ -280,6 +304,19 @@ include("header.php");
                         </div>
                       </div>
                     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
                     <!-- Sprint 6 -->
@@ -427,7 +464,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>En tant que référent, je peux consulter mes offres en cours et passées</b></h4>
+                            <h4><b>2.2 En tant que référent, je peux consulter mes offres</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
