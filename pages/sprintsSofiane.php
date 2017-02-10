@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 53 heures</p>
+                    <p style="text-align:right"> Temps Total : 56 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint7" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 6 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 9 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,11 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                          <tr>
+                                                            <td>10/02/2017</td>
+                                                            <td>3 heures </td>
+                                                            <td>Dévut du développement de la modification du CV (mettre un autre CV à la place de l'ancien), problème rencontré (confflit entre l'ancien fichier et le nouveau)</td>
+                                                          </tr>
                                                           <tr>
                                                             <td>08/02/2017</td>
                                                             <td>2 heures </td>

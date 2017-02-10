@@ -55,7 +55,7 @@ include("header.php");
                                     <td>1 heure</td>
                                     <td></td>
                                     <td>A faire</td>
-                                    <td></td>
+                                    <td>Sofiane</td>
                                   </tr>
                                 </tbody>
                               </table>
@@ -269,8 +269,8 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>3 heures</td>
-                                    <td></td>
-                                    <td>En cours</td>
+                                    <td>4 heures</td>
+                                    <td>Fini</td>
                                     <td>Sofiane</td>
                                   </tr>
                                 </tbody>
