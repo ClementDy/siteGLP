@@ -267,7 +267,7 @@
                                         </tr>
 
                                         <tr>
-                                            <td>4.1 - </td>
+                                            <td>4.1 - Gestionnaire</td>
                                             <td>1. En tant que gestionnaire, je peux moderer les utlisateurs</td>
                                             <td>To Do</td>
                                         </tr>
