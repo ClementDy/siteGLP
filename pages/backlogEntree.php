@@ -90,8 +90,8 @@
 
                                         <tr>
                                             <td></td>
-                                            <td >10. En tant qu'étudiant, je peux enregistrer toutes mes informations</td>
-                                            <td >To Do</td>
+                                            <td>10. En tant qu'étudiant, je peux enregistrer toutes mes informations</td>
+                                            <td>To Do</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -189,6 +189,12 @@
                                             <td>To Do</td>
                                         </tr>
 
+                                        <tr>
+                                            <td></td>
+                                            <td>3. En tant que référent, j'ai accés à une page d'accueil</td>
+                                            <td>To Do</td>
+                                        </tr>
+
                                         <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
@@ -238,8 +244,19 @@
                                         </tr>
 
                                         <tr>
-                                            <td>3.1 - Aspects techiques</td>
-                                            <td>1. Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires </td>
+                                            <td>3.1 - Gestion du personnel Lille 1</td>
+                                            <td>1. En tant que personnel, je peux me connecter</td>
+                                            <td>To Do</td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td>2. En tant que personnel, je peux rechercher une candidature</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>3. En tant que personnel, je peux consulter les offres</td>
                                             <td>To Do</td>
                                         </tr>
 
@@ -248,6 +265,44 @@
                                             <td></td>
                                             <td></td>
                                         </tr>
+
+                                        <tr>
+                                            <td>4.1 - </td>
+                                            <td>1. En tant que gestionnaire, je peux moderer les utlisateurs</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>2. En tant que gestionnaire, je peux modérer les offres</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr style="background-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>10.1 - Aspects techiques</td>
+                                            <td>1. Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires </td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td></td>
+                                            <td>2. Mettre en place le validator sur les candidatures</td>
+                                            <td>To Do</td>
+                                        </tr>
+
+                                        <tr style="background-color:grey">
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+
+
                                          <!--<tr>
                                             <td> Réalisation du socle technique.</td>
                                             <td> Sprint n°2</td>
