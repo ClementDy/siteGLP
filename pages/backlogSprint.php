@@ -26,6 +26,237 @@ include("header.php");
                 <div class="panel-body">
                   <div class="panel-group" id="accordion">
 
+
+                    <!-- Sprint 8 -->
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 8</a>
+                        </h4>
+                      </div>
+                      <div id="sprint8" class="panel-collapse collapse">
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                          </div>
+                          <!-- /.panel-heading -->
+                          <div class="panel-body">
+                            <h4><b>1.1.10 En tant qu'étudiant je peux enregistrer toutes mes informations</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>1 heure</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Sofiane</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>3.1.1 Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Cédric</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>1.8.1 En tant qu'étudiant, j'ai accés à une page d'accueil</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>1 heure</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Willy</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>2.1.1 En tant que référent, je peux créer une offre standard</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Clément</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>1.3.1 En tant qu'étudiant, je peux publier ma candidature</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>2 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Willy</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>1.2.1 En tant qu'étudiant je peux consulter mon profil</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>10 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Alexandre</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>1.2.2 En tant qu'étudiant je peux modifier toutes les informations que j'ai enregistré</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>2 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Sofiane</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>1.1.9 En tant qu'étudiant, je peux m'authentifier sur le site grâce au service SSO CAS de l'unviersité</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>6 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Sofiane</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>2.1.1 En tant que référent, je peux créer une offre générique</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>3 heures</td>
+                                    <td></td>
+                                    <td>A faire</td>
+                                    <td>Clément</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+
+
                     <!-- Sprint 7 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
