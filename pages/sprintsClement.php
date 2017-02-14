@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 99 heures</p>
+	                    <p style="text-align:right"> Temps Total : 105 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -21,7 +21,7 @@
 	                            <div class="panel-group" id="accordion">
 
 
-																<!-- Sprint 7 -->
+																<!-- Sprint 8 -->
 																															<div class="panel panel-default">
 																																		<div class="panel-heading">
 																																				<h4 class="panel-title">
@@ -30,7 +30,7 @@
 																																		</div>
 																																		<div id="sprint8" class="panel-collapse collapse">
 
-																																				<p style="text-align:right"> Temps Sprint : 1 heures</p>
+																																				<p style="text-align:right"> Temps Sprint : 6 heures</p>
 																																				<div class="panel panel-default">
 																																						<div class="panel-heading">
 																																								Relev&eacute; d'activit&eacute;s
@@ -47,6 +47,21 @@
 																																														</tr>
 																																												</thead>
 																																												<tbody>
+																																													<tr>
+																																														<td>14/02/2017</td>
+																																														<td>2 heures</td>
+																																														<td>2.1.1 & 2.1.2 - Validation des input lors de la création d'une offre standard ou générique.</td>
+																																													</tr>
+																																													<tr>
+																																														<td>14/02/2017</td>
+																																														<td>2 heures</td>
+																																														<td>2.1.1 - Developpement de la création d'une offre standard (WEB,Persistence,Controller)</td>
+																																													</tr>
+																																													<tr>
+																																														<td>14/02/2017</td>
+																																														<td>1 heure</td>
+																																														<td>2.2 - Modification suite à la review (Ajout des offres refusées) gestion du status de l'offre</td>
+																																													</tr>
 																																													<tr>
 																																														<td>13/02/2017</td>
 																																														<td>1 heure</td>
