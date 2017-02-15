@@ -450,8 +450,6 @@ include("header.php");
                   </div>
                 </div>
               </div>
-            </div>
-
 
 
                     <!-- Sprint 7 -->
