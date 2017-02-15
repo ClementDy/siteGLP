@@ -40,7 +40,7 @@ include("header.php");
                           </div>
                           <!-- /.panel-heading -->
                           <div class="panel-body">
-                            <h4><b>1.1.10 En tant qu'étudiant je peux enregistrer toutes mes informations</b></h4>
+                            <h4><b>1.2.2 En tant qu'étudiant je peux modifier toutes mes informations</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -64,7 +64,31 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>3.1.1 Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires</b></h4>
+                            <h4><b>10.3 Récupération des webservices pour les services</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td>Fini</td>
+                                    <td>Alexandre</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>10.1.1 Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -127,7 +151,7 @@ include("header.php");
                                   <tr>
                                     <td>3 heures</td>
                                     <td></td>
-                                    <td>A faire</td>
+                                    <td>Fini</td>
                                     <td>Clément</td>
                                   </tr>
                                 </tbody>
@@ -175,7 +199,7 @@ include("header.php");
                                   <tr>
                                     <td>10 heures</td>
                                     <td></td>
-                                    <td>A faire</td>
+                                    <td>Fini</td>
                                     <td>Alexandre</td>
                                   </tr>
                                 </tbody>
@@ -183,29 +207,6 @@ include("header.php");
                             </div>
                           </div>
 
-                          <div class="panel-body">
-                            <h4><b>1.2.2 En tant qu'étudiant je peux modifier toutes les informations que j'ai enregistré</b></h4>
-                            <div class="table-responsive">
-                              <table class="table table-striped table-bordered table-hover">
-                                <thead>
-                                  <tr>
-                                    <th>Temps estim&eacute;</th>
-                                    <th>Temps mis</th>
-                                    <th>Avancement</th>
-                                    <th>Qui ?</th>
-                                  </tr>
-                                </thead>
-                                <tbody>
-                                  <tr>
-                                    <td>2 heures</td>
-                                    <td></td>
-                                    <td>A faire</td>
-                                    <td>Sofiane</td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                          </div>
 
                           <div class="panel-body">
                             <h4><b>1.1.9 En tant qu'étudiant, je peux m'authentifier sur le site grâce au service SSO CAS de l'unviersité</b></h4>
@@ -232,7 +233,7 @@ include("header.php");
                           </div>
 
                           <div class="panel-body">
-                            <h4><b>2.1.1 En tant que référent, je peux créer une offre générique</b></h4>
+                            <h4><b>2.1.2 En tant que référent, je peux créer une offre générique</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -247,7 +248,7 @@ include("header.php");
                                   <tr>
                                     <td>3 heures</td>
                                     <td></td>
-                                    <td>A faire</td>
+                                    <td>Fini</td>
                                     <td>Clément</td>
                                   </tr>
                                 </tbody>
@@ -255,6 +256,198 @@ include("header.php");
                             </div>
                           </div>
                         </div>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>1.1.10 En tant qu'étudiant je peux enregistrer mes données</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td>Cédric</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>10.1.2 Faire le validator pour la candidature/b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td>Willy</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>3.1.3 En tant que personnel Lille 1, je peux consulter les offres</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>3.1.2 En tant que personnel Lille 1, je peux rechercher une candidature</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>3.1.1 En tant que personnel Lille 1, je peux me connecter</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td>Clément</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>4.1.2 En tant que Gestionnaire, je peux modérer les offres</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>1.8.2 En tant que référent, j'ai accés à une page d'accueil</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
+                      <h4><b>4.1.1 En tant que Gestionnaire, je peux modérer les utilisateurs</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
                       </div>
                     </div>
 
