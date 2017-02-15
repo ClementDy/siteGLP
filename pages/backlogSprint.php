@@ -26,7 +26,6 @@ include("header.php");
                 <div class="panel-body">
                   <div class="panel-group" id="accordion">
 
-
                     <!-- Sprint 8 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
@@ -38,6 +37,7 @@ include("header.php");
                         <div class="panel panel-default">
                           <div class="panel-heading">
                           </div>
+                          <b></b>
                           <!-- /.panel-heading -->
                           <div class="panel-body">
                             <h4><b>1.2.2 En tant qu'étudiant je peux modifier toutes mes informations</b></h4>
