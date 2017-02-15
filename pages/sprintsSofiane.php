@@ -27,7 +27,7 @@
                                             <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 8</a>
                                         </h4>
                                     </div>
-                                    <div id="sprint7" class="panel-collapse collapse">
+                                    <div id="sprint8" class="panel-collapse collapse">
 
                                         <p style="text-align:right"> Temps Sprint : 4 heures</p>
                                         <div class="panel panel-default">
