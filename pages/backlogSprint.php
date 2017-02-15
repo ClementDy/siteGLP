@@ -23,9 +23,6 @@ include("header.php");
             <div class="panel-body">
               <div class="panel-group" id="accordion">
 
-                <div class="panel-body">
-                  <div class="panel-group" id="accordion">
-
                     <!-- Sprint 8 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
