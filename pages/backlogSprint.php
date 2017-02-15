@@ -255,7 +255,6 @@ include("header.php");
                               </table>
                             </div>
                           </div>
-                        </div>
 
                     <div class="panel-body">
                       <h4><b>1.1.10 En tant qu'étudiant je peux enregistrer mes données</b></h4>
@@ -732,18 +731,6 @@ include("header.php");
                         </div>
                       </div>
                     </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
