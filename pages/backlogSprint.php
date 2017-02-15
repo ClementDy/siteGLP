@@ -13,11 +13,8 @@ include("header.php");
         <div class="col-lg-12">
           <div class="panel panel-default">
             <div class="panel-heading">
-              Les sprints
+              Les Sprints
             </div>
-
-
-
 
             <!-- .panel-heading -->
             <div class="panel-body">
@@ -277,7 +274,7 @@ include("header.php");
                     </div>
 
                     <div class="panel-body">
-                      <h4><b>10.1.2 Faire le validator pour la candidature/b></h4>
+                      <h4><b>10.1.2 Faire le validator pour la candidature</b></h4>
                       <div class="table-responsive">
                         <table class="table table-striped table-bordered table-hover">
                           <thead>
