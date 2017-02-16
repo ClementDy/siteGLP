@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 60 heures 30</p>
+                    <p style="text-align:right"> Temps Total : 64 heures 30</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -28,7 +28,7 @@
                                                                     </div>
                                                                     <div id="sprint8" class="panel-collapse collapse">
 
-                                                                        <p style="text-align:right"> Temps Sprint : 1 heure</p>
+                                                                        <p style="text-align:right"> Temps Sprint : 5 heure</p>
                                                                         <div class="panel panel-default">
                                                                             <div class="panel-heading">
                                                                                 Relev&eacute; d'activit&eacute;s
@@ -45,8 +45,19 @@
                                                                                             </tr>
                                                                                         </thead>
                                                                                         <tbody>
+																				<tr>
+                                                                                  <td>16/02/2016</td>
+                                                                                  <td>2 heure</td>
+                                                                                  <td> Réalisation age d'affichage d'une offre (détaillé)</td>
+                                                                                </tr>
+																				 <tr>
+                                                                                  <td>15/02/2016</td>
+                                                                                  <td>2 heure</td>
+                                                                                  <td>1.8 page accueil de l'etudiant / ajout des dernières offres publiées</td>
+                                                                                </tr>
+
                                                                                 <tr>
-                                                                                  <td>10/02/2016</td>
+                                                                                  <td>13/02/2016</td>
                                                                                   <td>1 heure</td>
                                                                                   <td>1.8 Modification page accueil de l'etudiant</td>
                                                                                 </tr>
