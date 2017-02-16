@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 107 heures</p>
+	                    <p style="text-align:right"> Temps Total : 112 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -30,7 +30,7 @@
 																																		</div>
 																																		<div id="sprint8" class="panel-collapse collapse">
 
-																																				<p style="text-align:right"> Temps Sprint : 8 heures</p>
+																																				<p style="text-align:right"> Temps Sprint : 13 heures</p>
 																																				<div class="panel panel-default">
 																																						<div class="panel-heading">
 																																								Relev&eacute; d'activit&eacute;s
@@ -48,9 +48,19 @@
 																																												</thead>
 																																												<tbody>
 																																													<tr>
+																																														<td>16/02/2017</td>
+																																														<td>4 heures</td>
+																																														<td>3.1.1 - Développement JAVA sur la gestion des roles. Connexion d'un personnel Lille 1 (Administrateur,Moderateur ou Référent).</td>
+																																													</tr>
+																																													<tr>
+																																														<td>16/02/2017</td>
+																																														<td>1 heure</td>
+																																														<td>1.2.1 - Débug avec Alexandre sur la partie affichage du CV ainsi que sur la gestion d'exception si le NIP n'est pas connu.</td>
+																																													</tr>
+																																													<tr>
 																																														<td>15/02/2017</td>
 																																														<td>2 heures</td>
-																																														<td>3.1.1 Création des entités pour gérer les différents rôles concernant le personnel de Lille 1 (Moderateur,Administrateur..). Désormais, l'administrateur peut ajouter des modérateurs.</td>
+																																														<td>3.1.1 - Création des entités pour gérer les différents rôles concernant le personnel de Lille 1 (Moderateur,Administrateur..). Désormais, l'administrateur peut ajouter des modérateurs.</td>
 																																													</tr>
 																																													<tr>
 																																														<td>14/02/2017</td>
