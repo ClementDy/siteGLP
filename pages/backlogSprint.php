@@ -394,6 +394,30 @@ include("header.php");
                     </div>
 
                     <div class="panel-body">
+                      <h4><b>5.1 En tant qu'Administrateur, je peux gérer les moderateurs.</b></h4>
+                      <div class="table-responsive">
+                        <table class="table table-striped table-bordered table-hover">
+                          <thead>
+                            <tr>
+                              <th>Temps estim&eacute;</th>
+                              <th>Temps mis</th>
+                              <th>Avancement</th>
+                              <th>Qui ?</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>3 heures</td>
+                              <td></td>
+                              <td>A faire</td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+
+                    <div class="panel-body">
                       <h4><b>1.8.2 En tant que référent, j'ai accés à une page d'accueil</b></h4>
                       <div class="table-responsive">
                         <table class="table table-striped table-bordered table-hover">
