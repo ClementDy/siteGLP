@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 64 heures 30</p>
+                    <p style="text-align:right"> Temps Total : 69 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -28,7 +28,7 @@
                                                                     </div>
                                                                     <div id="sprint8" class="panel-collapse collapse">
 
-                                                                        <p style="text-align:right"> Temps Sprint : 5 heure</p>
+                                                                        <p style="text-align:right"> Temps Sprint : 9 heures 30</p>
                                                                         <div class="panel panel-default">
                                                                             <div class="panel-heading">
                                                                                 Relev&eacute; d'activit&eacute;s
@@ -46,9 +46,19 @@
                                                                                         </thead>
                                                                                         <tbody>
 																				<tr>
+                                                                                  <td>17/02/2016</td>
+                                                                                  <td>2 heure</td>
+                                                                                  <td>Travail sur la page de consultation des candidatures - CSS</td>
+                                                                                </tr>
+																				<tr>
+                                                                                  <td>17/02/2016</td>
+                                                                                  <td>2 heures 30</td>
+                                                                                  <td>3.1 Réalisation page d'affichage des offres</td>
+                                                                                </tr>
+																				<tr>
                                                                                   <td>16/02/2016</td>
                                                                                   <td>2 heure</td>
-                                                                                  <td> Réalisation age d'affichage d'une offre (détaillé)</td>
+                                                                                  <td>Réalisation page d'affichage d'une offre (détaillé)</td>
                                                                                 </tr>
 																				 <tr>
                                                                                   <td>15/02/2016</td>
