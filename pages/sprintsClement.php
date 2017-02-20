@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 112 heures</p>
+	                    <p style="text-align:right"> Temps Total : 116 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -30,7 +30,7 @@
 																																		</div>
 																																		<div id="sprint8" class="panel-collapse collapse">
 
-																																				<p style="text-align:right"> Temps Sprint : 13 heures</p>
+																																				<p style="text-align:right"> Temps Sprint : 17 heures</p>
 																																				<div class="panel panel-default">
 																																						<div class="panel-heading">
 																																								Relev&eacute; d'activit&eacute;s
@@ -47,6 +47,11 @@
 																																														</tr>
 																																												</thead>
 																																												<tbody>
+																																													<tr>
+																																														<td>16/02/2017</td>
+																																														<td>4 heures</td>
+																																														<td>5.1 - Développement JAVA et WEB pour permettre à l'administrateur de gérer les gestionnaires (Ajout,Affichage et suppression des gestionnaires)</td>
+																																													</tr>
 																																													<tr>
 																																														<td>16/02/2017</td>
 																																														<td>4 heures</td>
