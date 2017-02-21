@@ -11,7 +11,7 @@
                     
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 70 heures</p>
+                    <p style="text-align:right"> Temps Total : 83 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de C&eacute;dric
@@ -20,6 +20,71 @@
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
                                 
+                                <!-- Sprint 8 -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 8</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint8" class="panel-collapse collapse">
+                                        <p style="text-align:right"> Temps Sprint : 13 heures</p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                Relev&eacute; d'activit&eacute;s
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Date</th>
+                                                                <th>Temps pass&eacute;</th>
+                                                                <th>T&acirc;che</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>21/02/2017</td>
+                                                                <td>1 heure 30</td>
+                                                                <td>Correction des validateurs pour 'missions choisies' et 'motivations'</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>17/02/2017</td>
+                                                                <td>3 heures</td>
+                                                                <td>Maintien dans l'onglet courant lors de l'enregistrement du profil étudiant</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>17/02/2017</td>
+                                                                <td>1 heure 30</td>
+                                                                <td>Ajout des messages d'erreur paramétrables dans les validateurs</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>16/02/2017</td>
+                                                                <td>2 heures 30</td>
+                                                                <td>Redirection vers le premier onglet en erreur lors de la publication</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>14/02/2017</td>
+                                                                <td>3 heures 30</td>
+                                                                <td>Test redirection vers un onglet spécifique du formulaire de candidature depuis le contrôleur</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>13/02/2017</td>
+                                                                <td>1 heure</td>
+                                                                <td>Contrôle des champs 'téléphone' et 'code postal' dans "informations personnelles"</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <!-- Sprint 7 -->
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
