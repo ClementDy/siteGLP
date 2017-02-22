@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 69 heures</p>
+                    <p style="text-align:right"> Temps Total : 74 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -28,7 +28,7 @@
                                                                     </div>
                                                                     <div id="sprint8" class="panel-collapse collapse">
 
-                                                                        <p style="text-align:right"> Temps Sprint : 9 heures 30</p>
+                                                                        <p style="text-align:right"> Temps Sprint : 14 heures 30</p>
                                                                         <div class="panel panel-default">
                                                                             <div class="panel-heading">
                                                                                 Relev&eacute; d'activit&eacute;s
@@ -45,6 +45,16 @@
                                                                                             </tr>
                                                                                         </thead>
                                                                                         <tbody>
+																				<tr>
+                                                                                  <td>22/02/2016</td>
+                                                                                  <td>3 heures 30</td>
+                                                                                  <td>Travail sur la recherche pour les candidature</td>
+                                                                                </tr>
+																				<tr>
+                                                                                  <td>21/02/2016</td>
+                                                                                  <td>1 heure 30</td>
+                                                                                  <td>Travail sur la recherche pour les candidature (personnel lille 1)</td>
+                                                                                </tr>
 																				<tr>
                                                                                   <td>17/02/2016</td>
                                                                                   <td>2 heure</td>
