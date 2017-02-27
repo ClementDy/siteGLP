@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 118 heures</p>
+	                    <p style="text-align:right"> Temps Total : 120 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -30,7 +30,7 @@
 																																		</div>
 																																		<div id="sprint8" class="panel-collapse collapse">
 
-																																				<p style="text-align:right"> Temps Sprint : 19 heures</p>
+																																				<p style="text-align:right"> Temps Sprint : 21 heures</p>
 																																				<div class="panel panel-default">
 																																						<div class="panel-heading">
 																																								Relev&eacute; d'activit&eacute;s
@@ -47,6 +47,11 @@
 																																														</tr>
 																																												</thead>
 																																												<tbody>
+																																													<tr>
+																																														<td>27/02/2017</td>
+																																														<td>2 heures</td>
+																																														<td>Uniformisation du header et de la partie authentification afin de gérer les différents type d'utilisateurs sur le site</td>
+																																													</tr>
 																																													<tr>
 																																														<td>23/02/2017</td>
 																																														<td>1 heure</td>
