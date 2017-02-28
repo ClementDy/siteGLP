@@ -11,7 +11,7 @@
 
         <div class="row">
           <div class="col-lg-12">
-            <p style="text-align:right"> Temps Total : 74 heures</p>
+            <p style="text-align:right"> Temps Total : 100 heures</p>
             <div class="panel panel-default">
               <div class="panel-heading">
                 Les sprints d'Alexandre
@@ -19,6 +19,93 @@
               <!-- .panel-heading -->
               <div class="panel-body">
                 <div class="panel-group" id="accordion">
+                  <!-- Sprint 8 -->
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 8</a>
+                      </h4>
+                    </div>
+                    <div id="sprint8" class="panel-collapse collapse">
+
+                      <p style="text-align:right"> Temps Sprint : 20 heures</p>
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          Relev&eacute; d'activit&eacute;s
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>Date</th>
+                                  <th>Temps passé</th>
+                                  <th>T&acirc;che</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+
+                                <tr>
+                                  <td>27/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>1.1.9 Recherche sur la connexion SSO-CAS</td>
+                                </tr>
+                                <tr>
+                                  <td>21/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>2.1.3 Debug pour la création d'offre à partir d'anciennes (éviter que la date de validité soit vide lors de l'enregistrement)</td>
+                                </tr>
+                                <tr>
+                                  <td>17/02/2017</td>
+                                  <td>3 heures</td>
+                                  <td>2.1.3 Fin du développement et  Debug pour la création d'offre à partir d'anciennes (champs à null par défaut)</td>
+                                </tr>
+                                <tr>
+                                  <td>16/02/2017</td>
+                                  <td>3 heures</td>
+                                  <td>2.1.3 Fin du développement Debug pour la création d'offre à partir d'anciennes (champs à null par défaut)</td>
+                                </tr>
+                                <tr>
+                                  <td>15/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>2.1.3 Debut du developpement pour la création d'offres à partir d'anciennes</td>
+                                </tr>
+                                <tr>
+                                  <td>15/02/2017</td>
+                                  <td>1 heures</td>
+                                  <td>Utilisatiion des services avec Clément pour les offres</td>
+                                </tr>
+                                <tr>
+                                  <td>15/02/2017</td>
+                                  <td>1 heure</td>
+                                  <td>Insertion des services dans la base de données </td>
+                                </tr>
+                                <tr>
+                                  <td>14/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>Recuperation des services avec le webservice</td>
+                                </tr>
+                                <tr>
+                                  <td>14/02/2017</td>
+                                  <td>1 heure</td>
+                                  <td>1.1.8 Affichage du CV directmeent dans la page web de candidature</td>
+                                </tr>
+                                <tr>
+                                  <td>13/02/2017</td>
+                                  <td>2 heures</td>
+                                  <td>1.2.1 Affichage du CV directement dans la page web du profil</td>
+                                </tr>
+
+                            </tbody>
+                          </table>
+                        </div>
+                        <!-- /.table-responsive -->
+                      </div>
+                      <!-- /.panel-body -->
+                    </div>
+                  </div>
+                </div>
                   <!-- Sprint 7 -->
                   <div class="panel panel-default">
                     <div class="panel-heading">
@@ -260,7 +347,7 @@
                     </div>
                     <div id="sprint4" class="panel-collapse collapse">
 
-                      <p style="text-align:right"> Temps Sprint : 9 heures</p>
+                      <p style="text-align:right"> Temps Sprint : 15 heures</p>
                       <div class="panel panel-default">
                         <div class="panel-heading">
                           Relev&eacute; d'activit&eacute;s
@@ -278,6 +365,11 @@
                               </thead>
                               <tbody>
                                 <tr>
+                                  <td>15/12/2016</td>
+                                  <td>2 heures</td>
+                                  <td>Debug de l'entité étudiant avec Clément</td>
+                                </tr>
+                                <tr>
                                   <td>14/12/2016</td>
                                   <td>1 heure</td>
                                   <td>R&eacute;daction du dossier d'architecture</td>
@@ -286,6 +378,11 @@
                                   <td>14/12/2016</td>
                                   <td>3 heures</td>
                                   <td>D&eacute;veloppement de la persistence JPA de formulaire divers</td>
+                                </tr>
+                                <tr>
+                                  <td>13/12/2016</td>
+                                  <td>4 heures</td>
+                                  <td>Création de l'entité pour les formulaires divers avec les liens de l'entité Etudiant</td>
                                 </tr>
                                 <tr>
                                   <td>13/12/2016</td>

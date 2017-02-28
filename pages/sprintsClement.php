@@ -63,7 +63,7 @@
 																																														<td>5.1 - Développement JAVA et WEB pour permettre à un gestionnaire de gérer ses référents (Ajout et affichage des référents)</td>
 																																													</tr>
 																																													<tr>
-																																														<td>16/02/2017</td>
+																																														<td>17/02/2017</td>
 																																														<td>4 heures</td>
 																																														<td>5.1 - Développement JAVA et WEB pour permettre à l'administrateur de gérer les gestionnaires (Ajout,Affichage et suppression des gestionnaires)</td>
 																																													</tr>
