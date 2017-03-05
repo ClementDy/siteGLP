@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 79 heures</p>
+                    <p style="text-align:right"> Temps Total : 81 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -28,7 +28,7 @@
                                                                     </div>
                                                                     <div id="sprint8" class="panel-collapse collapse">
 
-                                                                        <p style="text-align:right"> Temps Sprint : 19 heures 30</p>
+                                                                        <p style="text-align:right"> Temps Sprint : 21 heures 30</p>
                                                                         <div class="panel panel-default">
                                                                             <div class="panel-heading">
                                                                                 Relev&eacute; d'activit&eacute;s
@@ -45,44 +45,49 @@
                                                                                             </tr>
                                                                                         </thead>
                                                                                         <tbody>
+																				<tr>
+                                                                                    <td>03/03/2017</td>
+                                                                                    <td>2 heures</td>
+                                                                                    <td>Recherche pour des offres / filtres</td>
+                                                                                </tr>
                                                                                 <tr>
-                                                                                    <td>28/02/2016</td>
+                                                                                    <td>28/02/2017</td>
                                                                                     <td>5 heures</td>
                                                                                     <td>Travail sur la recherche pour des offres</td>
                                                                                 </tr>
 																				                                        <tr>
-                                                                                  <td>22/02/2016</td>
+                                                                                  <td>22/02/2017</td>
                                                                                   <td>3 heures 30</td>
                                                                                   <td>Travail sur la recherche pour les candidature</td>
                                                                                 </tr>
 																				                                        <tr>
-                                                                                  <td>21/02/2016</td>
+                                                                                  <td>21/02/2017</td>
                                                                                   <td>1 heure 30</td>
                                                                                   <td>Travail sur la recherche pour les candidature (personnel lille 1)</td>
                                                                                 </tr>
 																				<tr>
-                                                                                  <td>17/02/2016</td>
+                                                                                  <td>17/02/2017</td>
                                                                                   <td>2 heure</td>
                                                                                   <td>Travail sur la page de consultation des candidatures - CSS</td>
                                                                                 </tr>
 																				<tr>
-                                                                                  <td>17/02/2016</td>
+                                                                                  <td>17/02/2017</td>
                                                                                   <td>2 heures 30</td>
                                                                                   <td>3.1 Réalisation page d'affichage des offres</td>
                                                                                 </tr>
 																				<tr>
-                                                                                  <td>16/02/2016</td>
+                                                                                  <td>16/02/2017</td>
                                                                                   <td>2 heure</td>
                                                                                   <td>Réalisation page d'affichage d'une offre (détaillé)</td>
                                                                                 </tr>
 																				 <tr>
-                                                                                  <td>15/02/2016</td>
+                                                                                  <td>15/02/2017</td>
                                                                                   <td>2 heure</td>
                                                                                   <td>1.8 page accueil de l'etudiant / ajout des dernières offres publiées</td>
                                                                                 </tr>
 
                                                                                 <tr>
-                                                                                  <td>13/02/2016</td>
+                                                                                  <td>13/02/2017</td>
                                                                                   <td>1 heure</td>
                                                                                   <td>1.8 Modification page accueil de l'etudiant</td>
                                                                                 </tr>
@@ -124,42 +129,42 @@
                               	                                                        </thead>
                               	                                                        <tbody>
 																				  <tr>
-                                                                                  <td>10/02/2016</td>
+                                                                                  <td>10/02/2017</td>
                                                                                   <td>2 heures</td>
                                                                                   <td>Realisation page de consultation des candidatures </td>
                                                                               </tr>
                                                                               <tr>
-                                                                                  <td>09/02/2016</td>
+                                                                                  <td>09/02/2017</td>
                                                                                   <td>2 heures</td>
                                                                                   <td>Affichage message erreur , validateur / test </td>
                                                                               </tr>
                                                                               <tr>
-                                                                                  <td>08/02/2016</td>
+                                                                                  <td>08/02/2017</td>
                                                                                   <td>3 heures</td>
                                                                                   <td>Réalisation validateur pour le forumlaire de candidature</td>
                                                                               </tr>
                                                                               <tr>
-                                                                                    <td>07/02/2016</td>
+                                                                                    <td>07/02/2017</td>
                                                                                     <td>2 heure</td>
                                                                                     <td>Creation page d'accueil pour l'etudiant</td>
                                                                               </tr>
                                                                               <tr>
-                                                                                  <td>07/02/2016</td>
+                                                                                  <td>07/02/2017</td>
                                                                                   <td>2 heure</td>
                                                                                   <td>Travail sur la publication de la candidature (differenciation avec l'enregistrement)</td>
                                                                               </tr>
                               																								 <tr>
-                              																								  <td>03/02/2016</td>
+                              																								  <td>03/02/2017</td>
                               																								  <td>2 heure</td>
                               																								  <td>Affichage des souhaits enregistrer / JS</td>
                               																								</tr>
                                                                               <tr>
-                                                                              <td>02/02/2016</td>
+                                                                              <td>02/02/2017</td>
                                                                                <td>1 heure</td>
                                                                                <td>Travail sur la recupération du CV<td>
                                                                              </tr>
                               																								 <tr>
-                              																								  <td>02/02/2016</td>
+                              																								  <td>02/02/2017</td>
                               																								  <td>2 heure</td>
                               																								  <td>Correction bug affichage des missions<td>
                               																								</tr>
@@ -215,12 +220,12 @@
 																									<td>Refactoring global sur le projet</td>
 																								</tr>
 																								 <tr>
-																								  <td>19/01/2016</td>
+																								  <td>19/01/2017</td>
 																								  <td>1 heure 30</td>
 																								  <td>Modification formulaire candidature - info pour le rendre responsive</td>
 																								</tr>
 																								 <tr>
-																								  <td>19/01/2016</td>
+																								  <td>19/01/2017</td>
 																								  <td>1 heure</td>
 																								  <td>recherche sur Bootstrap<td>
 																								</tr>
@@ -262,41 +267,41 @@
 	                                                        </thead>
 	                                                        <tbody>
 																								 <tr>
-																								  <td>13/01/2016</td>
+																								  <td>13/01/2017</td>
 																								  <td>2 heures</td>
 																								  <td>Modification CSS et JavaScript pour les missions souhaitées</td>
 																								</tr>
 																								 <tr>
-																								  <td>13/01/2016</td>
+																								  <td>13/01/2017</td>
 																								  <td>2 heures</td>
 																								  <td>Modification du formulaire des souhaits<td>
 																								</tr>
 																								<tr>
-																								  <td>06/01/2016</td>
+																								  <td>06/01/2017</td>
 																								  <td>1 heure</td>
 																								  <td>Travail sur le dossier d'architecture</td>
 																								</tr>
 																							  <tr>
-																								<td>06/01/2016</td>
+																								<td>06/01/2017</td>
 																								<td>1 heure</td>
 																								<td>Dévelopemment JAVA pour effectuer le dépot du CV sur le serveur.</td>
 																							  </tr>
 																								<tr>
-																								<td>06/01/2016</td>
+																								<td>06/01/2017</td>
 																								<td>2 heures</td>
 																								<td>Resolution d'un problème survenu sur la VM</td>
 																							  </tr>
                                   																<tr>
-                                  																	<td>03/01/2016</td>
+                                  																	<td>03/01/2017</td>
                                   																	<td>2 heures</td>
                                   																	<td>Travail sur la persistence pour la partie souhait</td>
                                   																</tr>
-                                  																	<td>03/01/2016</td>
+                                  																	<td>03/01/2017</td>
                                   																	<td>1 heure 30</td>
                                   																	<td>Refonte forumlaire souhaits, recuperation des missions en base</td>
                                   																</tr>
                                   																<tr>
-                                  																	<td>02/01/2016</td>
+                                  																	<td>02/01/2017</td>
                                   																	<td>1 heure </td>
                                   																	<td>Modèle de données - dossier architecture</td>
                                   																</tr>
