@@ -216,7 +216,7 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>4 heures</td>
-                                    <td>3</td>
+                                    <td>3 heures</td>
                                     <td>Terminé</td>
                                     <td>Alexandre</td>
                                   </tr>
