@@ -296,6 +296,11 @@
                                             <td>To Do</td>
                                         </tr>
 
+                                        <tr>
+                                            <td></td>
+                                            <td>3.Recuperation des services avec le webservice</td>
+                                            <td>To Do</td>
+                                        </tr>
                                         <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>

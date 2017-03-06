@@ -83,17 +83,17 @@
                                 <tr>
                                   <td>15/02/2017</td>
                                   <td>1 heures</td>
-                                  <td>Utilisation des services avec Clément pour les offres</td>
+                                  <td>10.1.3 Utilisation des services avec Clément pour les offres</td>
                                 </tr>
                                 <tr>
                                   <td>15/02/2017</td>
                                   <td>1 heure</td>
-                                  <td>Insertion des services dans la base de données </td>
+                                  <td>10.1.3 Insertion des services dans la base de données </td>
                                 </tr>
                                 <tr>
                                   <td>14/02/2017</td>
                                   <td>2 heures</td>
-                                  <td>Recuperation des services avec le webservice</td>
+                                  <td>10.1.3 Recuperation des services avec le webservice</td>
                                 </tr>
                                 <tr>
                                   <td>14/02/2017</td>
