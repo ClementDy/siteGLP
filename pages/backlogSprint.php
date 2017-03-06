@@ -47,8 +47,8 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>1 heure</td>
-                                    <td></td>
-                                    <td>En cours</td>
+                                    <td>5 heures</td>
+                                    <td>Fini</td>
                                     <td>Sofiane</td>
                                   </tr>
                                 </tbody>
