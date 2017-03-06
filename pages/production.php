@@ -1,14 +1,14 @@
-<?php 
+<?php
 
     include("header.php");
 
 ?>
-    
+
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12" style="text-align:center">
                     <h1 class="page-header">Livrables</h1>
-               
+
                     <div class="row">
                 <div class="col-lg-12">
                     <div class="panel panel-default">
@@ -18,6 +18,23 @@
                         <!-- .panel-heading -->
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
+
+                              <!-- Sprint 8 -->
+                                    <div class="panel panel-default">
+                                          <div class="panel-heading">
+                                              <h4 class="panel-title">
+                                                  <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 8</a>
+                                              </h4>
+                                          </div>
+                                          <div id="sprint5" class="panel-collapse collapse">
+                                              <div class="panel-body">
+                                                  <h4> Dossier d'architecture v2.1 </h4>
+                                                  <p><a href="../Dossierarchitecture_v2.1.pdf" download="DossierArchitecture">Télécharger le dossier d'architecture V(2.1)</a></p>
+                                                    <!-- /.panel-body -->
+                                              </div>
+                                          </div>
+                                      </div>
+
                         <!-- Sprint 5 -->
                               <div class="panel panel-default">
                                     <div class="panel-heading">
@@ -33,8 +50,8 @@
                                         </div>
                                     </div>
                                 </div>
-								
-								
+
+
                         <!-- /.panel-body -->
 						<!-- Sprint 4 -->
                               <div class="panel panel-default">
@@ -47,7 +64,7 @@
                                         <div class="panel-body">
                                             <h4> Dossier d'architecture </h4>
                                             <p><a href="../DossierArchitecture.pdf" download="DossierArchitecture">Télécharger le dossier d'architecture V(1.0)</a></p>
-                                            
+
                         <!-- /.panel-body -->
                                         </div>
                                     </div>
@@ -63,7 +80,7 @@
                                         <div class="panel-body">
                                             <h4> Dossier Expression des besoins. </h4>
                                             <p><a href="../Expressiondesbesoins_DigiTeam_v1.3.pdf" download="ExpressionBesoins_DigiTeam_V1.3">Télécharger le dossier d'expression des besoins (V1.3)</a></p>
-                                            
+
                         <!-- /.panel-body -->
                                         </div>
                                     </div>
@@ -81,7 +98,7 @@
                                         <div class="panel-body">
                                             <h4> Dossier Expression des besoins. </h4>
                                             <p><a href="../Expressiondesbesoins_DigiTeam_v1.2.pdf" download="ExpressionBesoins_DigiTeam_V1.2">Télécharger le dossier d'expression des besoins (V1.2)</a></p>
-                                            
+
                         <!-- /.panel-body -->
                                         </div>
                                     </div>
@@ -99,11 +116,11 @@
                                         <div class="panel-body">
                                             <h4> Dossier Expression des besoins. </h4>
                                             <p><a href="../Expressiondesbesoins.pdf" download="ExpressionBesoins_DigiTeam_V1">Télécharger le dossier d'expression des besoins</a></p>
-                                            
+
                         <!-- /.panel-body -->
                                         </div>
                                 </div>
-                                
+
 
                                 <!-- Sprint 0 -->
                                 <div class="panel panel-default">
