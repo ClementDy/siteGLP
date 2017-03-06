@@ -48,8 +48,32 @@ include("header.php");
                                   <tr>
                                     <td>1 heure</td>
                                     <td>5 heures</td>
-                                    <td>Fini</td>
+                                    <td>Terminé</td>
                                     <td>Sofiane</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+
+                          <div class="panel-body">
+                            <h4><b>2.1.3 En tant que référent, je peux créer une offre à partir d'une ancienne offre</b></h4>
+                            <div class="table-responsive">
+                              <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                  <tr>
+                                    <th>Temps estim&eacute;</th>
+                                    <th>Temps mis</th>
+                                    <th>Avancement</th>
+                                    <th>Qui ?</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <td>8 heures</td>
+                                    <td>10 heures</td>
+                                    <td>Terminé</td>
+                                    <td>Alexandre</td>
                                   </tr>
                                 </tbody>
                               </table>
@@ -70,9 +94,9 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td></td>
-                                    <td></td>
-                                    <td>Fini</td>
+                                    <td>2</td>
+                                    <td>1</td>
+                                    <td>Terminé</td>
                                     <td>Alexandre</td>
                                   </tr>
                                 </tbody>
@@ -190,8 +214,8 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>10 heures</td>
-                                    <td></td>
+                                    <td>4 heures</td>
+                                    <td>3</td>
                                     <td>Fini</td>
                                     <td>Alexandre</td>
                                   </tr>
@@ -216,9 +240,9 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>6 heures</td>
-                                    <td></td>
-                                    <td>A faire</td>
-                                    <td>Sofiane</td>
+                                    <td>5 heures</td>
+                                    <td>En cours</td>
+                                    <td>Alexandre</td>
                                   </tr>
                                 </tbody>
                               </table>

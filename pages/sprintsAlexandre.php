@@ -83,7 +83,7 @@
                                 <tr>
                                   <td>15/02/2017</td>
                                   <td>1 heures</td>
-                                  <td>Utilisatiion des services avec Clément pour les offres</td>
+                                  <td>Utilisation des services avec Clément pour les offres</td>
                                 </tr>
                                 <tr>
                                   <td>15/02/2017</td>
