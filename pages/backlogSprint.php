@@ -409,8 +409,8 @@ include("header.php");
                           <tbody>
                             <tr>
                               <td>3 heures</td>
-                              <td></td>
-                              <td>En cours</td>
+                              <td>5 heures</td>
+                              <td>Terminé</td>
                               <td>Clément</td>
                             </tr>
                           </tbody>
