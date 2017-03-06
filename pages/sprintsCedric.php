@@ -11,7 +11,7 @@
                     
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 83 heures</p>
+                    <p style="text-align:right"> Temps Total : 95 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de C&eacute;dric
@@ -28,7 +28,7 @@
                                         </h4>
                                     </div>
                                     <div id="sprint8" class="panel-collapse collapse">
-                                        <p style="text-align:right"> Temps Sprint : 13 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 25 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -45,6 +45,31 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                            <tr>
+                                                                <td>03/03/2017</td>
+                                                                <td>2 heures</td>
+                                                                <td>Corrections graphiques et fonctionnelles dans le formulaire de candidature</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>03/03/2017</td>
+                                                                <td>2 heures</td>
+                                                                <td>Affichage d'onglets multiples en erreur</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>02/03/2017</td>
+                                                                <td>2 heures</td>
+                                                                <td>Test d'affichage d'onglets multiples en erreur</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>28/02/2017</td>
+                                                                <td>2 heures 30</td>
+                                                                <td>Uniformation de l'affichage des champs en erreurs (candidature)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>26/02/2017</td>
+                                                                <td>3 heures 30</td>
+                                                                <td>Test des possibilités d'affichage des champs en erreurs (candidature)</td>
+                                                            </tr>
                                                             <tr>
                                                                 <td>21/02/2017</td>
                                                                 <td>1 heure 30</td>

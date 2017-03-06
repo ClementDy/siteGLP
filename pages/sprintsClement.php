@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 125 heures</p>
+	                    <p style="text-align:right"> Temps Total : 128 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -30,7 +30,7 @@
 																																		</div>
 																																		<div id="sprint8" class="panel-collapse collapse">
 
-																																				<p style="text-align:right"> Temps Sprint : 26 heures</p>
+																																				<p style="text-align:right"> Temps Sprint : 29 heures</p>
 																																				<div class="panel panel-default">
 																																						<div class="panel-heading">
 																																								Relev&eacute; d'activit&eacute;s
@@ -47,6 +47,16 @@
 																																														</tr>
 																																												</thead>
 																																												<tbody>
+																																													<tr>
+																																														<td>04/03/2017</td>
+																																														<td>1 heure</td>
+																																														<td>1.8.2 Création de la page d'accueil pour le référent.</td>
+																																													</tr>
+																																													<tr>
+																																														<td>03/03/2017</td>
+																																														<td>2 heures</td>
+																																														<td>4.1.2 Développement pour permettre au gestionnaire de gérer les offres non validées et modification style sur différentes pages.</td>
+																																													</tr>
 																																													<tr>
 																																														<td>28/02/2017</td>
 																																														<td>1 heure</td>

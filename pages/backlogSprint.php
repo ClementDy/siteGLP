@@ -142,8 +142,8 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>3 heures</td>
-                                    <td></td>
+                                    <td>5 heures</td>
+                                    <td>12 heures</td>
                                     <td>Fini</td>
                                     <td>Clément</td>
                                   </tr>
@@ -240,7 +240,7 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>3 heures</td>
-                                    <td></td>
+                                    <td>3 heures</td>
                                     <td>Fini</td>
                                     <td>Clément</td>
                                   </tr>
@@ -359,8 +359,8 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
+                              <td>4 heures</td>
+                              <td>6 heures</td>
                               <td>A faire</td>
                               <td>Clément</td>
                             </tr>
@@ -386,7 +386,7 @@ include("header.php");
                               <td></td>
                               <td></td>
                               <td>A faire</td>
-                              <td></td>
+                              <td>Clément</td>
                             </tr>
                           </tbody>
                         </table>
@@ -408,8 +408,8 @@ include("header.php");
                           <tbody>
                             <tr>
                               <td>3 heures</td>
-                              <td></td>
-                              <td>A faire</td>
+                              <td>5 heures</td>
+                              <td>Terminé</td>
                               <td></td>
                             </tr>
                           </tbody>
@@ -431,10 +431,10 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
-                              <td></td>
+                              <td>1 heure</td>
+                              <td>1 heure</td>
+                              <td>Terminé</td>
+                              <td>Clément</td>
                             </tr>
                           </tbody>
                         </table>
@@ -455,10 +455,10 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
-                              <td></td>
+                              <td>2 heures</td>
+                              <td>3 heures</td>
+                              <td>Terminé</td>
+                              <td>Clément</td>
                             </tr>
                           </tbody>
                         </table>
