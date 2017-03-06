@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 65 heures</p>
+                    <p style="text-align:right"> Temps Total : 67 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint8" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 9 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 11 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,18 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+
+                                                          <tr>
+                                                            <td>06/03/2017</td>
+                                                            <td>1 heure</td>
+                                                            <td>Présentation du sprint 8</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>06/03/2017</td>
+                                                            <td>1 heure</td>
+                                                            <td>Remplissage du backlog de sprint global et sprints personels</td>
+                                                          </tr>
+
                                                           <tr>
                                                             <td>03/03/2017</td>
                                                             <td>3 heures</td>

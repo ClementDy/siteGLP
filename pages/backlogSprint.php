@@ -94,8 +94,8 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>2</td>
-                                    <td>1</td>
+                                    <td>3 heures</td>
+                                    <td>4 heures</td>
                                     <td>Terminé</td>
                                     <td>Alexandre</td>
                                   </tr>
@@ -119,8 +119,8 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>3 heures</td>
-                                    <td></td>
-                                    <td>A faire</td>
+                                    <td>7 heures</td>
+                                    <td>En cours</td>
                                     <td>Cédric</td>
                                   </tr>
                                 </tbody>
@@ -143,8 +143,8 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>1 heure</td>
-                                    <td></td>
-                                    <td>A faire</td>
+                                    <td>2 heures</td>
+                                    <td>Terminé</td>
                                     <td>Willy</td>
                                   </tr>
                                 </tbody>
@@ -168,7 +168,7 @@ include("header.php");
                                   <tr>
                                     <td>5 heures</td>
                                     <td>12 heures</td>
-                                    <td>Fini</td>
+                                    <td>Terminé</td>
                                     <td>Clément</td>
                                   </tr>
                                 </tbody>
@@ -176,8 +176,9 @@ include("header.php");
                             </div>
                           </div>
 
+
                           <div class="panel-body">
-                            <h4><b>1.3.1 En tant qu'étudiant, je peux publier ma candidature</b></h4>
+                            <h4><b>1.5 En tant qu'utilisateur identifié, je peux consulter les offres publiées</b></h4>
                             <div class="table-responsive">
                               <table class="table table-striped table-bordered table-hover">
                                 <thead>
@@ -190,9 +191,9 @@ include("header.php");
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>2 heures</td>
-                                    <td></td>
-                                    <td>A faire</td>
+                                    <td>5 heures</td>
+                                    <td>7 heures</td>
+                                    <td>Terminé</td>
                                     <td>Willy</td>
                                   </tr>
                                 </tbody>
@@ -215,8 +216,8 @@ include("header.php");
                                 <tbody>
                                   <tr>
                                     <td>4 heures</td>
-                                    <td>3</td>
-                                    <td>Fini</td>
+                                    <td>3 heures</td>
+                                    <td>Terminé</td>
                                     <td>Alexandre</td>
                                   </tr>
                                 </tbody>
@@ -265,7 +266,7 @@ include("header.php");
                                   <tr>
                                     <td>3 heures</td>
                                     <td>3 heures</td>
-                                    <td>Fini</td>
+                                    <td>Terminé</td>
                                     <td>Clément</td>
                                   </tr>
                                 </tbody>
@@ -287,9 +288,9 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
+                              <td>8 heures</td>
+                              <td>15 heures</td>
+                              <td>En cours</td>
                               <td>Cédric</td>
                             </tr>
                           </tbody>
@@ -311,10 +312,10 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
-                              <td>Willy</td>
+                              <td>4 heures</td>
+                              <td>3 heures</td>
+                              <td>Terminé</td>
+                              <td>Cédric</td>
                             </tr>
                           </tbody>
                         </table>
@@ -335,10 +336,10 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
-                              <td></td>
+                              <td>2 heures</td>
+                              <td>2 heures</td>
+                              <td>Terminé</td>
+                              <td>Willy</td>
                             </tr>
                           </tbody>
                         </table>
@@ -359,10 +360,10 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
-                              <td></td>
+                              <td>7 heures</td>
+                              <td>5 heures 30</td>
+                              <td>Terminé</td>
+                              <td>Willy</td>
                             </tr>
                           </tbody>
                         </table>
@@ -385,7 +386,7 @@ include("header.php");
                             <tr>
                               <td>4 heures</td>
                               <td>6 heures</td>
-                              <td>A faire</td>
+                              <td>Terminé</td>
                               <td>Clément</td>
                             </tr>
                           </tbody>
@@ -407,9 +408,9 @@ include("header.php");
                           </thead>
                           <tbody>
                             <tr>
-                              <td></td>
-                              <td></td>
-                              <td>A faire</td>
+                              <td>3 heures</td>
+                              <td>5 heures</td>
+                              <td>Terminé</td>
                               <td>Clément</td>
                             </tr>
                           </tbody>
@@ -418,7 +419,7 @@ include("header.php");
                     </div>
 
                     <div class="panel-body">
-                      <h4><b>5.1 En tant qu'Administrateur, je peux gérer les moderateurs.</b></h4>
+                      <h4><b>5.1 En tant qu'Administrateur, je peux gérer les moderateurs</b></h4>
                       <div class="table-responsive">
                         <table class="table table-striped table-bordered table-hover">
                           <thead>
@@ -434,7 +435,7 @@ include("header.php");
                               <td>3 heures</td>
                               <td>5 heures</td>
                               <td>Terminé</td>
-                              <td></td>
+                              <td>Clément</td>
                             </tr>
                           </tbody>
                         </table>
