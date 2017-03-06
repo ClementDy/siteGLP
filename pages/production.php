@@ -26,7 +26,7 @@
                                                   <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 8</a>
                                               </h4>
                                           </div>
-                                          <div id="sprint5" class="panel-collapse collapse">
+                                          <div id="sprint8" class="panel-collapse collapse">
                                               <div class="panel-body">
                                                   <h4> Dossier d'architecture v2.1 </h4>
                                                   <p><a href="../Dossierarchitecture_v2.1.pdf" download="DossierArchitecture">Télécharger le dossier d'architecture V(2.1)</a></p>
