@@ -49,6 +49,11 @@
 																																																												</thead>
 																																																												<tbody>
 																																																													<tr>
+																																																														<td>08/03/2017</td>
+																																																														<td>2 heures</td>
+																																																														<td>10.1.4 Suppression de l'entité responsible et modification des controleurs et pages web.</td>
+																																																													</tr>
+																																																													<tr>
 																																																														<td>07/03/2017</td>
 																																																														<td>2 heures</td>
 																																																														<td>Gestion des pages d'erreurs (page 404,500).</td>
