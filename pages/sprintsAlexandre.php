@@ -11,7 +11,7 @@
 
         <div class="row">
           <div class="col-lg-12">
-            <p style="text-align:right"> Temps Total : 103 heures</p>
+            <p style="text-align:right"> Temps Total : 112 heures</p>
             <div class="panel panel-default">
               <div class="panel-heading">
                 Les sprints d'Alexandre
@@ -19,6 +19,67 @@
               <!-- .panel-heading -->
               <div class="panel-body">
                 <div class="panel-group" id="accordion">
+                  <!-- Sprint 9 -->
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#sprint9">Sprint - 9</a>
+                      </h4>
+                    </div>
+                    <div id="sprint9" class="panel-collapse collapse">
+
+                      <p style="text-align:right"> Temps Sprint : 9 heures</p>
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          Relev&eacute; d'activit&eacute;s
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                          <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                              <thead>
+                                <tr>
+                                  <th>Date</th>
+                                  <th>Temps passé</th>
+                                  <th>T&acirc;che</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>09/03/2017</td>
+                                  <td>1 heure</td>
+                                  <td>Correction probleme de suppression CV automatique</td>
+                                </tr>
+                                <tr>
+                                  <td>09/03/2017</td>
+                                  <td>1 heure</td>
+                                  <td>10.1.4 Suppression de l'entité responsible et modification des controleurs et pages web avec Clément</td>
+                                </tr>
+                                <tr>
+                                  <td>09/03/2017</td>
+                                  <td>3 heures</td>
+                                  <td>Fin de redirection vers la page homeStudent et redirection vers la page Staff Lille 1</td>
+                                </tr>
+                                <tr>
+                                  <td>08/03/2017</td>
+                                  <td>2 heures</td>
+                                  <td>Suppression de la page anterieurer d'authentication pour rediriger vers la page home Student</td>
+                                </tr>
+                                <tr>
+                                  <td>07/03/2017</td>
+                                  <td>2 heures</td>
+                                  <td>Connexion SSO-CAS sur le serveur avec redirection</td>
+                                </tr>
+
+                            </tbody>
+                          </table>
+                        </div>
+                        <!-- /.table-responsive -->
+                      </div>
+                      <!-- /.panel-body -->
+                    </div>
+                  </div>
+                </div>
                   <!-- Sprint 8 -->
                   <div class="panel panel-default">
                     <div class="panel-heading">
