@@ -11,7 +11,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 135 heures</p>
+	                    <p style="text-align:right"> Temps Total : 139 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -31,7 +31,7 @@
 																																																		</div>
 																																																		<div id="sprint9" class="panel-collapse collapse">
 
-																																																				<p style="text-align:right"> Temps Sprint : 4 heures</p>
+																																																				<p style="text-align:right"> Temps Sprint : 8 heures</p>
 																																																				<div class="panel panel-default">
 																																																						<div class="panel-heading">
 																																																								Relev&eacute; d'activit&eacute;s
@@ -48,6 +48,21 @@
 																																																														</tr>
 																																																												</thead>
 																																																												<tbody>
+																																																													<tr>
+																																																														<td>09/03/2017</td>
+																																																														<td>1 heure</td>
+																																																														<td>4.1.2 Le gestionnaire peut désormais modérer une offre en ajoutant un message de refus ou de validation.</td>
+																																																													</tr>
+																																																													<tr>
+																																																														<td>09/03/2017</td>
+																																																														<td>1 heure</td>
+																																																														<td>2.3.2 Le référent peut désormais modifier une offre qui a été refusée.</td>
+																																																													</tr>
+																																																													<tr>
+																																																														<td>09/03/2017</td>
+																																																														<td>2 heures</td>
+																																																														<td>10.1.4 Gestion des rôles (Referent, Gestionnaire et Administrateur) terminé.</td>
+																																																													</tr>
 																																																													<tr>
 																																																														<td>08/03/2017</td>
 																																																														<td>2 heures</td>
