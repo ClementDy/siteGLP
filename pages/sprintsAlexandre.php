@@ -48,7 +48,7 @@
                                 <tr>
                                   <td>09/03/2017</td>
                                   <td>1 heure</td>
-                                  <td>Correction probleme de suppression CV automatique</td>
+                                  <td>3.1.1Correction probleme de suppression CV automatique</td>
                                 </tr>
                                 <tr>
                                   <td>09/03/2017</td>
@@ -58,17 +58,17 @@
                                 <tr>
                                   <td>09/03/2017</td>
                                   <td>3 heures</td>
-                                  <td>Fin de redirection vers la page homeStudent et redirection vers la page Staff Lille 1</td>
+                                  <td>1.1.9 Fin de redirection vers la page homeStudent et redirection vers la page Staff Lille 1</td>
                                 </tr>
                                 <tr>
                                   <td>08/03/2017</td>
                                   <td>2 heures</td>
-                                  <td>Suppression de la page anterieurer d'authentication pour rediriger vers la page home Student</td>
+                                  <td>1.1.9 Suppression de la page anterieurer d'authentication pour rediriger vers la page home Student</td>
                                 </tr>
                                 <tr>
                                   <td>07/03/2017</td>
                                   <td>2 heures</td>
-                                  <td>Connexion SSO-CAS sur le serveur avec redirection</td>
+                                  <td>1.1.9 &#38; 3.1.1 Connexion SSO-CAS sur le serveur avec redirection</td>
                                 </tr>
 
                             </tbody>
