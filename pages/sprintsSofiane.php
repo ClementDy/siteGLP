@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 67 heures</p>
+                    <p style="text-align:right"> Temps Total : 71 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -19,6 +19,48 @@
                         <!-- .panel-heading -->
                         <div class="panel-body">
                             <div class="panel-group" id="accordion">
+
+                              <!--Sprint 9 -->
+                              <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#sprint9">Sprint - 9</a>
+                                        </h4>
+                                    </div>
+                                    <div id="sprint9" class="panel-collapse collapse">
+
+                                        <p style="text-align:right"> Temps Sprint : 4 heures</p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                Relev&eacute; d'activit&eacute;s
+                                            </div>
+                                            <!-- /.panel-heading -->
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Date</th>
+                                                                <th>Temps passé</th>
+                                                                <th>T&acirc;che</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+
+                                                          <tr>
+                                                            <td>10/03/2017</td>
+                                                            <td>4 heures</td>
+                                                            <td>Recherche et tentative de résolution sur le beug d'affichage du CV avec la Iframe, non résolu pour le moment</td>
+                                                          </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!-- /.table-responsive -->
+                                            </div>
+                                            <!-- /.panel-body -->
+                                        </div>
+                                    </div>
+                                </div>
 
                               <!--Sprint 8 -->
                               <div class="panel panel-default">
