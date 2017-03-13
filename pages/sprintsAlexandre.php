@@ -11,7 +11,7 @@
 
         <div class="row">
           <div class="col-lg-12">
-            <p style="text-align:right"> Temps Total : 112 heures</p>
+            <p style="text-align:right"> Temps Total : 117 heures</p>
             <div class="panel panel-default">
               <div class="panel-heading">
                 Les sprints d'Alexandre
@@ -28,7 +28,7 @@
                     </div>
                     <div id="sprint9" class="panel-collapse collapse">
 
-                      <p style="text-align:right"> Temps Sprint : 9 heures</p>
+                      <p style="text-align:right"> Temps Sprint : 14 heures</p>
                       <div class="panel panel-default">
                         <div class="panel-heading">
                           Relev&eacute; d'activit&eacute;s

@@ -193,8 +193,8 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>1 heure</td>
+                                                    <td>2 heures</td>
                                                     <td>Terminé</td>
                                                     <td>Alexandre</td>
                                                   </tr>
@@ -218,8 +218,8 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>5 heures</td>
+                                                    <td>4 heures</td>
                                                     <td>Terminé</td>
                                                     <td>Alexandre</td>
                                                   </tr>
@@ -243,8 +243,8 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>2 heures</td>
+                                                    <td>3 heures</td>
                                                     <td>Terminé</td>
                                                     <td>Alexandre</td>
                                                   </tr>
@@ -413,8 +413,8 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>3 heures</td>
+                                                    <td>4 heures</td>
                                                     <td>Terminé</td>
                                                     <td>Alexandre</td>
                                                   </tr>
