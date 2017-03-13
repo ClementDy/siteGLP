@@ -317,7 +317,7 @@ include("header.php");
                                                   <tr>
                                                     <td></td>
                                                     <td></td>
-                                                    <td></td>
+                                                    <td>En cours</td>
                                                     <td>Clément</td>
                                                   </tr>
                                                 </tbody>
@@ -415,7 +415,7 @@ include("header.php");
                                                   <tr>
                                                     <td></td>
                                                     <td></td>
-                                                    <td>En cours</td>
+                                                    <td>Terminé</td>
                                                     <td>Alexandre</td>
                                                   </tr>
                                                 </tbody>

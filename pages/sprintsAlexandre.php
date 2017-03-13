@@ -46,6 +46,21 @@
                               </thead>
                               <tbody>
                                 <tr>
+                                  <td>13/03/2017</td>
+                                  <td>3 heures</td>
+                                  <td>3.1.2 Developpement sur la recherche de candidatures par mission </td>
+                                </tr>
+                                <tr>
+                                  <td>10/03/2017</td>
+                                  <td>1 heure</td>
+                                  <td>3.1.2 Debut du developpement sur la recherche de candidatures par mission</td>
+                                </tr>
+                                <tr>
+                                  <td>10/03/2017</td>
+                                  <td>1 heure</td>
+                                  <td>1.2.1 Mise en forme des informations divers et augmentation nombre de caractères autorisés dans la BDD</td>
+                                </tr>
+                                <tr>
                                   <td>09/03/2017</td>
                                   <td>1 heure</td>
                                   <td>3.1.1Correction probleme de suppression CV automatique</td>
