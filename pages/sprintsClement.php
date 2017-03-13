@@ -50,6 +50,11 @@ l
 																																																												</thead>
 																																																												<tbody>
 																																																													<tr>
+																																																														<td>13/03/2017</td>
+																																																														<td>1 heure</td>
+																																																														<td>Modification du site de communication et du trello.</td>
+																																																													</tr>
+																																																													<tr>
 																																																														<td>10/03/2017</td>
 																																																														<td>2 heures</td>
 																																																														<td>1.9 Recherche sur l'envoi de mail.</td>
