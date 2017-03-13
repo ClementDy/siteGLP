@@ -26,7 +26,7 @@ include("header.php");
                                     <div class="panel panel-default">
                                       <div class="panel-heading">
                                         <h4 class="panel-title">
-                                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint8">Sprint - 9</a>
+                                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint9">Sprint - 9</a>
                                         </h4>
                                       </div>
                                       <div id="sprint9" class="panel-collapse collapse">
