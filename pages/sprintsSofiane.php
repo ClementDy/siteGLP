@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 71 heures</p>
+                    <p style="text-align:right"> Temps Total : 74 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint9" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 4 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 7 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -46,6 +46,11 @@
                                                             </tr>
                                                         </thead>
                                                         <tbody>
+                                                          <tr>
+                                                            <td>13/03/2017</td>
+                                                            <td>3 heures</td>
+                                                            <td>A la place de l'Iframe, j'ai essayé l'attribut Object de Html mais le résultat est le même, il y a un problème avec la variable ${pathCV} qui necessite un reload avant d'afficher le CV</td>
+                                                          </tr>
 
                                                           <tr>
                                                             <td>10/03/2017</td>
