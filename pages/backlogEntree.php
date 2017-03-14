@@ -237,6 +237,12 @@
                                             <td>To Do</td>
                                         </tr>
 
+                                        <tr>
+                                            <td>2.3 - Saisie des contrats</td>
+                                            <td>1. En tant que référent, je peux saisir une demande de rédaction de contrat </td>
+                                            <td>To Do</td>
+                                        </tr>
+
                                         <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>
@@ -299,6 +305,11 @@
                                         <tr>
                                             <td></td>
                                             <td>3.Recuperation des services avec le webservice</td>
+                                            <td>To Do</td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td>4 Modifier la gestion des rôles des utilisateurs Lille1</td>
                                             <td>To Do</td>
                                         </tr>
                                         <tr style="background-color:grey">

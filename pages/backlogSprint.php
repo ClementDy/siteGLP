@@ -20,6 +20,445 @@ include("header.php");
             <div class="panel-body">
               <div class="panel-group" id="accordion">
 
+
+
+                                    <!-- Sprint 9 -->
+                                    <div class="panel panel-default">
+                                      <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                          <a data-toggle="collapse" data-parent="#accordion" href="#sprint9">Sprint - 9</a>
+                                        </h4>
+                                      </div>
+                                      <div id="sprint9" class="panel-collapse collapse">
+                                        <div class="panel panel-default">
+                                          <div class="panel-heading">
+                                          </div>
+                                          <!-- /.panel-heading -->
+                                          <div class="panel-body">
+                                            <h4><b>2.3.1 En tant que Référent, je peux dépublier une offre</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>Terminé</td>
+                                                    <td>Willy</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>2.1.2 En tant que Référent, je peux créer une offre générique</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>15 minutes</td>
+                                                    <td>30 minutes</td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+
+                                          <div class="panel-body">
+                                            <h4><b>2.1.1 En tant que Référent, je peux créer une offre standard</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>15 minutes</td>
+                                                    <td>30 minutes</td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>2.3.3 En tant que Référent, je peux supprimer une offre refusée</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>Terminé</td>
+                                                    <td>Willy</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>3.1.3 En tant que Personnel Lille1 je peux consulter une Offre</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>2.3.2 En tant que Référent, je peux modifier une offre refusée</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>1 heure 30</td>
+                                                    <td>1 heure</td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>1.2.1 En tant qu'étudiant je peux consulter mon profil</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>1 heure</td>
+                                                    <td>2 heures</td>
+                                                    <td>Terminé</td>
+                                                    <td>Alexandre</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+
+                                          <div class="panel-body">
+                                            <h4><b>1.1.9. En tant qu'étudiant je peux m'authentifier sur le site grâce au service SSO CAS de l'université</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>5 heures</td>
+                                                    <td>4 heures</td>
+                                                    <td>Terminé</td>
+                                                    <td>Alexandre</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+
+                                          <div class="panel-body">
+                                            <h4><b>3.1.1 En tant que personnel je peux m'authentifier sur le site grâce au service SSO CAS de l'univeristé</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>2 heures</td>
+                                                    <td>3 heures</td>
+                                                    <td>Terminé</td>
+                                                    <td>Alexandre</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>Modifier les pages d'erreurs</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>4.1.2 En tant que Gestionnaire je peux modérer les offres</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>10.1.4 Modifier la gestion des rôles des utilisateurs Lille1</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>En cours</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>10.1.4 Modifier la gestion des rôles des utilisateurs Lille1</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>En cours</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+
+                                          <div class="panel-body">
+                                            <h4><b>1.4 En tant qu'étudiant, je peux dépublier ma candidature</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>En cours</td>
+                                                    <td>Cédric</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>1.1.8 En tant qu'étudiant, je peux renseigner et visualiser mon CV</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>En cours</td>
+                                                    <td>Sofiane</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+
+                                          <div class="panel-body">
+                                            <h4><b>3.1.2 En tant que Personnel Lille1 je peux rechercher une candidature</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>3 heures</td>
+                                                    <td>4 heures</td>
+                                                    <td>Terminé</td>
+                                                    <td>Alexandre</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
+                                            <h4><b>2.3.1 En tant que Référent je peux saisir une demande de rédaction de contrat</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>En cours</td>
+                                                    <td>Willy</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+
+
+
+                                  </div>
+                                </div>
+                              </div>
+
+
+
+
+
+
                     <!-- Sprint 8 -->
                     <div class="panel panel-default">
                       <div class="panel-heading">
