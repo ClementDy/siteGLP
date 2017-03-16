@@ -12,7 +12,7 @@ l
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 150 heures</p>
+	                    <p style="text-align:right"> Temps Total : 151 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
