@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 101 heures</p>
+                    <p style="text-align:right"> Temps Total : 107 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -30,7 +30,7 @@
                                                                     </div>
                                                                     <div id="sprint9" class="panel-collapse collapse">
 
-                                                                        <p style="text-align:right"> Temps Sprint : 18 heures</p>
+                                                                        <p style="text-align:right"> Temps Sprint : 24 heures</p>
                                                                         <div class="panel panel-default">
                                                                             <div class="panel-heading">
                                                                                 Relev&eacute; d'activit&eacute;s
@@ -47,6 +47,16 @@
                                                                                             </tr>
                                                                                         </thead>
                                                                                         <tbody>
+											  <tr>
+                                                                                            <td>16/03/2017</td>
+                                                                                            <td>4 heures</td>
+                                                                                            <td>Affichage des contracts saisie par le référent</td>
+                                                                                          </tr>
+											<tr>
+                                                                                            <td>15/03/2017</td>
+                                                                                            <td>2 heures</td>
+                                                                                            <td>Affichage des contrats lille 1 de l'étudiant</td>
+                                                                                          </tr>
  											  <tr>
                                                                                             <td>14/03/2017</td>
                                                                                             <td>2 heures</td>
