@@ -11,7 +11,7 @@
 
         <div class="row">
           <div class="col-lg-12">
-            <p style="text-align:right"> Temps Total : 117 heures</p>
+            <p style="text-align:right"> Temps Total : 123 heures</p>
             <div class="panel panel-default">
               <div class="panel-heading">
                 Les sprints d'Alexandre
@@ -28,7 +28,7 @@
                     </div>
                     <div id="sprint9" class="panel-collapse collapse">
 
-                      <p style="text-align:right"> Temps Sprint : 14 heures</p>
+                      <p style="text-align:right"> Temps Sprint : 20 heures</p>
                       <div class="panel panel-default">
                         <div class="panel-heading">
                           Relev&eacute; d'activit&eacute;s
@@ -45,6 +45,16 @@
                                 </tr>
                               </thead>
                               <tbody>
+                                <tr>
+                                  <td>16/03/2017</td>
+                                  <td>4 heures</td>
+                                  <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
+                                </tr>
+                                <tr>
+                                  <td>14/03/2017</td>
+                                  <td>2 heures</td>
+                                  <td>3.1.2 Fin du developpement sur la recherche de candidatures par mission </td>
+                                </tr>
                                 <tr>
                                   <td>13/03/2017</td>
                                   <td>3 heures</td>
