@@ -12,7 +12,7 @@ l
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 142 heures</p>
+	                    <p style="text-align:right"> Temps Total : 150 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -32,7 +32,7 @@ l
 																																																		</div>
 																																																		<div id="sprint9" class="panel-collapse collapse">
 
-																																																				<p style="text-align:right"> Temps Sprint : 10 heures</p>
+																																																				<p style="text-align:right"> Temps Sprint : 19 heures</p>
 																																																				<div class="panel panel-default">
 																																																						<div class="panel-heading">
 																																																								Relev&eacute; d'activit&eacute;s
@@ -49,6 +49,16 @@ l
 																																																														</tr>
 																																																												</thead>
 																																																												<tbody>
+																																																													<tr>
+																																																														<td>16/03/2017</td>
+																																																														<td>6 heures</td>
+																																																														<td>1.6 Développement de l'envoie de mail automatique (L'étudiant reçois désormais un mail lorsqu'une offre est publiée (s'il est abonné)) || Recherche pour effectuer un template de mail avec thymeleaf || Le responsable de l'offre reçoit aussi un mail quand son offre est modérée.</td>
+																																																													</tr>
+																																																													<tr>
+																																																														<td>14/03/2017</td>
+																																																														<td>2 heures</td>
+																																																														<td>2.2.1 Modification des offres (Affichage des dates, infos accessible pour l'utilisateur) </td>
+																																																													</tr>
 																																																													<tr>
 																																																														<td>13/03/2017</td>
 																																																														<td>1 heure</td>
