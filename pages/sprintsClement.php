@@ -1,4 +1,4 @@
-l
+/l
 	<?php
 
 	    include("header.php");
@@ -12,7 +12,7 @@ l
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 151 heures</p>
+	                    <p style="text-align:right"> Temps Total : 153 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -32,7 +32,7 @@ l
 																																																		</div>
 																																																		<div id="sprint9" class="panel-collapse collapse">
 
-																																																				<p style="text-align:right"> Temps Sprint : 19 heures</p>
+																																																				<p style="text-align:right"> Temps Sprint : 21 heures</p>
 																																																				<div class="panel panel-default">
 																																																						<div class="panel-heading">
 																																																								Relev&eacute; d'activit&eacute;s
@@ -49,6 +49,11 @@ l
 																																																														</tr>
 																																																												</thead>
 																																																												<tbody>
+																																																													<tr>
+																																																														<td>17/03/2017</td>
+																																																														<td>2 heures</td>
+																																																														<td>4.1.1 Le gestionnaire peut désormais effectuer une recherche par service sur les réferents. Modification du header pour les étudiants, correction de légers bugs.</td>
+																																																													</tr>
 																																																													<tr>
 																																																														<td>16/03/2017</td>
 																																																														<td>6 heures</td>
