@@ -12,7 +12,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 153 heures</p>
+	                    <p style="text-align:right"> Temps Total : 154.5 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -32,7 +32,7 @@
 																																																		</div>
 																																																		<div id="sprint9" class="panel-collapse collapse">
 
-																																																				<p style="text-align:right"> Temps Sprint : 21 heures</p>
+																																																				<p style="text-align:right"> Temps Sprint : 22 heures 30</p>
 																																																				<div class="panel panel-default">
 																																																						<div class="panel-heading">
 																																																								Relev&eacute; d'activit&eacute;s
@@ -49,6 +49,11 @@
 																																																														</tr>
 																																																												</thead>
 																																																												<tbody>
+																																																													<tr>
+																																																														<td>17/03/2017</td>
+																																																														<td>1 heure 30</td>
+																																																														<td>4.1.2 Modification de la gestion des offres, si le gestionnaire modifie l'offre avant de l'accepter, ses modifications sont enregistrées.</td>
+																																																													</tr>
 																																																													<tr>
 																																																														<td>17/03/2017</td>
 																																																														<td>2 heures</td>
