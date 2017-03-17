@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 82 heures</p>
+                    <p style="text-align:right"> Temps Total : 88 heures</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Sofiane
@@ -29,7 +29,7 @@
                                     </div>
                                     <div id="sprint9" class="panel-collapse collapse">
 
-                                        <p style="text-align:right"> Temps Sprint : 15 heures</p>
+                                        <p style="text-align:right"> Temps Sprint : 21 heures</p>
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
                                                 Relev&eacute; d'activit&eacute;s
@@ -48,7 +48,19 @@
                                                         <tbody>
 
                                                           <tr>
-                                                            <td>14/03/2017</td>
+                                                            <td>17/03/2017</td>
+                                                            <td>3 heures</td>
+                                                            <td>Début du développement de la fonction "passage à l'année suivante", création d'une nouvelle page pour l'administrateur, lien avec le controlleur et récupération de la liste d'étudiants</td>
+                                                          </tr>
+
+                                                          <tr>
+                                                            <td>17/03/2017</td>
+                                                            <td>3 heures</td>
+                                                            <td>Correction de beugs concernant l'affichage du profile en tant qu'administrateur</td>
+                                                          </tr>
+
+                                                          <tr>
+                                                            <td>16/03/2017</td>
                                                             <td>5 heures</td>
                                                             <td>Suite à la demande du client, j'ai revu la gestion du CV, possibilité de le visualiser et de le télécharger en tant qu'étudiant mais aussi en tant que reférent dans le profile de l'étudiant</td>
                                                           </tr>
