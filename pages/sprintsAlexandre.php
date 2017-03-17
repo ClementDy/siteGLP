@@ -11,7 +11,7 @@
 
         <div class="row">
           <div class="col-lg-12">
-            <p style="text-align:right"> Temps Total : 127 heures</p>
+            <p style="text-align:right"> Temps Total : 131 heures</p>
             <div class="panel panel-default">
               <div class="panel-heading">
                 Les sprints d'Alexandre
@@ -28,7 +28,7 @@
                     </div>
                     <div id="sprint9" class="panel-collapse collapse">
 
-                      <p style="text-align:right"> Temps Sprint : 20 heures</p>
+                      <p style="text-align:right"> Temps Sprint : 24 heures</p>
                       <div class="panel panel-default">
                         <div class="panel-heading">
                           Relev&eacute; d'activit&eacute;s
@@ -47,13 +47,23 @@
                               <tbody>
                                 <tr>
                                   <td>17/03/2017</td>
-                                  <td>4 heures</td>
-                                  <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
+                                  <td>0.5 heure</td>
+                                  <td>Ajout d'un tooltip pour les offres</td>
                                 </tr>
                                 <tr>
                                   <td>17/03/2017</td>
-                                  <td>4 heures</td>
-                                  <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
+                                  <td>0.5  heure</td>
+                                  <td>Sur la page profil, en cliquant sur l'adresse mail , on pourra directement envoyé un message</td>
+                                </tr>
+                                <tr>
+                                  <td>17/03/2017</td>
+                                  <td>2 heures</td>
+                                  <td>Récuperation des infos du responsable pré-rempli pour la création d'offres</td>
+                                </tr>
+                                <tr>
+                                  <td>17/03/2017</td>
+                                  <td>1 heures</td>
+                                  <td>Recherche d'offres par type et non plus par numero d'offres</td>
                                 </tr>
                                 <tr>
                                   <td>16/03/2017</td>
