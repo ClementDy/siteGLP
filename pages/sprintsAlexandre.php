@@ -46,6 +46,16 @@
                               </thead>
                               <tbody>
                                 <tr>
+                                  <td>17/03/2017</td>
+                                  <td>4 heures</td>
+                                  <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
+                                </tr>
+                                <tr>
+                                  <td>17/03/2017</td>
+                                  <td>4 heures</td>
+                                  <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
+                                </tr>
+                                <tr>
                                   <td>16/03/2017</td>
                                   <td>4 heures</td>
                                   <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
