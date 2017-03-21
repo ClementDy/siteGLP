@@ -284,6 +284,12 @@
                                             <td>To Do</td>
                                         </tr>
 
+                                        <tr>
+                                            <td></td>
+                                            <td>3. En tant que gestionnaire, je peux consulter les statistiques</td>
+                                            <td>To Do</td>
+                                        </tr>
+
                                         <tr style="background-color:grey">
                                             <td></td>
                                             <td></td>

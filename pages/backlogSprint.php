@@ -156,6 +156,30 @@ include("header.php");
                                           </div>
 
                                           <div class="panel-body">
+                                            <h4><b>4.1.3 En tant que Gestionnaire, je peux consulter les statistiques</b></h4>
+                                            <div class="table-responsive">
+                                              <table class="table table-striped table-bordered table-hover">
+                                                <thead>
+                                                  <tr>
+                                                    <th>Temps estim&eacute;</th>
+                                                    <th>Temps mis</th>
+                                                    <th>Avancement</th>
+                                                    <th>Qui ?</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody>
+                                                  <tr>
+                                                    <td>3 heures</td>
+                                                    <td>4 heures 30</td>
+                                                    <td>Terminé</td>
+                                                    <td>Clément</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </div>
+                                          </div>
+
+                                          <div class="panel-body">
                                             <h4><b>2.3.2 En tant que Référent, je peux modifier une offre refusée</b></h4>
                                             <div class="table-responsive">
                                               <table class="table table-striped table-bordered table-hover">

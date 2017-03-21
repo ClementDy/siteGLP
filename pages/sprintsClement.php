@@ -12,7 +12,7 @@
 
 	                    <div class="row">
 	                <div class="col-lg-12">
-	                    <p style="text-align:right"> Temps Total : 154.5 heures</p>
+	                    <p style="text-align:right"> Temps Total : 161 heures</p>
 	                    <div class="panel panel-default">
 	                        <div class="panel-heading">
 	                            Les sprints de Cl&eacute;ment
@@ -32,7 +32,7 @@
 																																																		</div>
 																																																		<div id="sprint9" class="panel-collapse collapse">
 
-																																																				<p style="text-align:right"> Temps Sprint : 22 heures 30</p>
+																																																				<p style="text-align:right"> Temps Sprint : 29 heures</p>
 																																																				<div class="panel panel-default">
 																																																						<div class="panel-heading">
 																																																								Relev&eacute; d'activit&eacute;s
@@ -49,6 +49,16 @@
 																																																														</tr>
 																																																												</thead>
 																																																												<tbody>
+																																																													<tr>
+																																																														<td>17/03/2017</td>
+																																																														<td>2 heures</td>
+																																																														<td>Correction de différents bugs fonctionnels et graphiques.</td>
+																																																													</tr>
+																																																													<tr>
+																																																														<td>17/03/2017</td>
+																																																														<td>4 heures 30</td>
+																																																														<td>4.1.3 Création de la page consulter les statistiques (Controleur, Récupération des données et affichage des données sous forme de "donuts").</td>
+																																																													</tr>
 																																																													<tr>
 																																																														<td>17/03/2017</td>
 																																																														<td>1 heure 30</td>
