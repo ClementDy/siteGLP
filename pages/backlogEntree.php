@@ -49,7 +49,7 @@
                                         <tr>
                                             <td></td>
                                             <td>3. En tant qu'étudiant je peux insérer mes contrats courants et passés</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
@@ -91,7 +91,7 @@
                                         <tr>
                                             <td></td>
                                             <td>10. En tant qu'étudiant, je peux enregistrer toutes mes informations</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -103,7 +103,7 @@
                                         <tr>
                                             <td>1.2 - Mise à jour du profil étudiant</td>
                                             <td>1. En tant qu'étudiant je peux consulter mon profil</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
 
@@ -111,7 +111,7 @@
                                         <tr>
                                             <td></td>
                                             <td>2. En tant qu'étudiant je peux modifier mes données saisies concernant mon profil après enregistrement</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -123,7 +123,7 @@
                                         <tr>
                                             <td>1.3 - Publication de la candidature</td>
                                             <td>1. En tant qu'étudiant, je peux publier ma candidature</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -186,13 +186,13 @@
                                         <tr>
                                             <td></td>
                                             <td>2. En tant que référent, je peux m'authentifier sur le site</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>3. En tant que référent, j'ai accés à une page d'accueil</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -204,19 +204,19 @@
                                         <tr>
                                             <td>2.1 - Création d'une offre</td>
                                             <td>1. En tant que référent, je peux créer une offre standard</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>2. En tant que référent, je peux créer une offre générique</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>3. En tant que référent, je peux créer une offre à partir d'une ancienne offre</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -228,19 +228,19 @@
                                         <tr>
                                             <td>2.2 - Consultation de mes offres</td>
                                             <td>1. En tant que référent, je peux consulter mes offres en cours </td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>2. En tant que référent, je peux consulter mes offres passées</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td>2.3 - Saisie des contrats</td>
                                             <td>1. En tant que référent, je peux saisir une demande de rédaction de contrat </td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -252,18 +252,18 @@
                                         <tr>
                                             <td>3.1 - Gestion du personnel Lille 1</td>
                                             <td>1. En tant que personnel, je peux me connecter</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
                                         <tr>
                                             <td></td>
                                             <td>2. En tant que personnel, je peux rechercher une candidature</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>3. En tant que personnel, je peux consulter les offres</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr style="background-color:grey">
@@ -275,13 +275,13 @@
                                         <tr>
                                             <td>4.1 - Gestionnaire</td>
                                             <td>1. En tant que gestionnaire, je peux moderer les utlisateurs</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>2. En tant que gestionnaire, je peux modérer les offres</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
@@ -299,24 +299,24 @@
                                         <tr>
                                             <td>10.1 - Aspects techiques</td>
                                             <td>1. Mettre en place les validateurs et ajouter les étoiles aux champs obligatoires </td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>2. Mettre en place le validator sur les candidatures</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
 
                                         <tr>
                                             <td></td>
                                             <td>3.Recuperation des services avec le webservice</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
                                         <tr>
                                             <td></td>
                                             <td>4 Modifier la gestion des rôles des utilisateurs Lille1</td>
-                                            <tdclass="success">Done</td>
+                                            <td class="success">Done</td>
                                         </tr>
                                         <tr style="background-color:grey">
                                             <td></td>
