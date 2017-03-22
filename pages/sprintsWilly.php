@@ -11,7 +11,7 @@
 
                     <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:right"> Temps Total : 110 heures 30</p>
+                    <p style="text-align:right"> Temps Total : 118 heures 30</p>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             Les sprints de Willy
@@ -30,7 +30,7 @@
                                                                     </div>
                                                                     <div id="sprint9" class="panel-collapse collapse">
 
-                                                                        <p style="text-align:right"> Temps Sprint : 26 heures</p>
+                                                                        <p style="text-align:right"> Temps Sprint : 34 heures</p>
                                                                         <div class="panel panel-default">
                                                                             <div class="panel-heading">
                                                                                 Relev&eacute; d'activit&eacute;s
@@ -47,7 +47,36 @@
                                                                                             </tr>
                                                                                         </thead>
                                                                                         <tbody>
+
+											 <tr>
+                                                                                            <td>22/03/2017</td>
+                                                                                            <td>1 heure</td>
+                                                                                            <td>Changement des taux des contrats par une liste de taux </td>
+                                                                                          </tr>
  											<tr>
+                                                                                            <td>22/03/2017</td>
+                                                                                            <td>1 heure</td>
+                                                                                            <td>Préparation pour la revue final</td>
+                                                                                          </tr>
+ 											 <tr>
+                                                                                            <td>21/03/2017</td>
+                                                                                            <td>2 heure</td>
+                                                                                            <td>Correction divers problème</td>
+                                                                                          </tr>
+
+											  <tr>
+                                                                                            <td>21/03/2017</td>
+                                                                                            <td>2 heure</td>
+                                                                                            <td>Page consultation d'un contrat</td>
+                                                                                          </tr>
+
+ 											  <tr>
+                                                                                            <td>20/03/2017</td>
+                                                                                            <td>1 heure</td>
+                                                                                            <td>Correction controller offer  / controles des parametres et des roles</td>
+                                                                                          </tr>
+
+ 											   <tr>
                                                                                             <td>17/03/2017</td>
                                                                                             <td>1 heure</td>
                                                                                             <td>Affichage des contracts de l'etudiant avec le nombre d'heure total lors de la saisie d'un contrat </td>
