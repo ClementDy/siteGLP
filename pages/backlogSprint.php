@@ -48,8 +48,8 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>1 heure</td>
+                                                    <td>1 heure</td>
                                                     <td>Terminé</td>
                                                     <td>Willy</td>
                                                   </tr>
@@ -121,8 +121,8 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>1 heure</td>
+                                                    <td>1 heure</td>
                                                     <td>Terminé</td>
                                                     <td>Willy</td>
                                                   </tr>
@@ -145,10 +145,10 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
+                                                    <td>1 heure</td>
+                                                    <td>2 heures</td>
                                                     <td>Terminé</td>
-                                                    <td>Clément</td>
+                                                    <td>Willy</td>
                                                   </tr>
                                                 </tbody>
                                               </table>
@@ -341,7 +341,7 @@ include("header.php");
                                                   <tr>
                                                     <td></td>
                                                     <td></td>
-                                                    <td>En cours</td>
+                                                    <td>Terminé</td>
                                                     <td>Clément</td>
                                                   </tr>
                                                 </tbody>
@@ -365,7 +365,7 @@ include("header.php");
                                                   <tr>
                                                     <td></td>
                                                     <td></td>
-                                                    <td>En cours</td>
+                                                    <td>Terminé</td>
                                                     <td>Clément</td>
                                                   </tr>
                                                 </tbody>
@@ -388,9 +388,9 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td>En cours</td>
+                                                    <td>2 heures</td>
+                                                    <td>2 heures</td>
+                                                    <td>Terminé</td>
                                                     <td>Cédric</td>
                                                   </tr>
                                                 </tbody>
@@ -414,7 +414,7 @@ include("header.php");
                                                   <tr>
                                                     <td></td>
                                                     <td></td>
-                                                    <td>En cours</td>
+                                                    <td>Terminé</td>
                                                     <td>Sofiane</td>
                                                   </tr>
                                                 </tbody>
@@ -461,9 +461,9 @@ include("header.php");
                                                 </thead>
                                                 <tbody>
                                                   <tr>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td>En cours</td>
+                                                    <td>6 heures</td>
+                                                    <td>13 heures</td>
+                                                    <td>Terminé</td>
                                                     <td>Willy</td>
                                                   </tr>
                                                 </tbody>
@@ -583,7 +583,7 @@ include("header.php");
                                   <tr>
                                     <td>3 heures</td>
                                     <td>7 heures</td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Cédric</td>
                                   </tr>
                                 </tbody>
@@ -705,7 +705,7 @@ include("header.php");
                                   <tr>
                                     <td>6 heures</td>
                                     <td>5 heures</td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Alexandre</td>
                                   </tr>
                                 </tbody>
@@ -753,7 +753,7 @@ include("header.php");
                             <tr>
                               <td>8 heures</td>
                               <td>15 heures</td>
-                              <td>En cours</td>
+                              <td>Terminé</td>
                               <td>Cédric</td>
                             </tr>
                           </tbody>
@@ -1269,7 +1269,7 @@ include("header.php");
                                     <td>Faire le controleur</td>
                                     <td>6 heures</td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Sofiane Ouarab</td>
                                   </tr>
                                 </tbody>
@@ -1295,14 +1295,14 @@ include("header.php");
                                     <td>Faire HTML/CSS</td>
                                     <td></td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Cedric Duhautois</td>
                                   </tr>
                                   <tr>
                                     <td>Faire la persistence</td>
                                     <td></td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Cedric Duhautois</td>
                                   </tr>
                                 </tbody>
@@ -1328,21 +1328,21 @@ include("header.php");
                                     <td>Réaliser la page html des formations avec une liste dynamique</td>
                                     <td>2h</td>
                                     <td>6h30</td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
                                   <tr>
                                     <td>Realiser la persistance des données des formations </td>
                                     <td>1h</td>
                                     <td>4h</td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
  				<tr>
                                     <td>Recuperer les informations des formations avec le webService</td>
                                     <td>1h</td>
                                     <td>2h</td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Alexandre Lefebvre</td>
                                   </tr>
                                 </tbody>
@@ -1368,14 +1368,14 @@ include("header.php");
                                     <td>Faire un validateur sur le formulaire</td>
                                     <td></td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Willy Pezant</td>
                                   </tr>
                                   <tr>
                                     <td>Faire un système de transaction</td>
                                     <td></td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Willy Pezant</td>
                                   </tr>
                                 </tbody>
@@ -1427,14 +1427,14 @@ include("header.php");
                                     <td>Faire un formulaire HTML/CSS</td>
                                     <td>1 heure</td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Clément Dilly</td>
                                   </tr>
                                   <tr>
                                     <td>Faire un controleur pour récupérer les informations/td>
                                     <td>1 heure</td>
                                     <td></td>
-                                    <td>En cours</td>
+                                    <td>Terminé</td>
                                     <td>Clément Dilly</td>
                                   </tr>
                                 </tbody>
@@ -1509,21 +1509,21 @@ include("header.php");
                                   <td>Faire le HTML/CSS</td>
                                   <td>2 heures</td>
                                   <td>1 heure</td>
-                                  <td>En cours</td>
+                                  <td>Terminé</td>
                                   <td>Alexandre Lefebvre</td>
                                 </tr>
                                 <tr>
                                   <td>Sauvegarde des formations précedentes avec la persistance</td>
                                   <td>3 heures</td>
                                   <td>2 heures</td>
-                                  <td>En cours</td>
+                                  <td>Terminé</td>
                                   <td>Alexandre Lefebvre</td>
                                 </tr>
                                 <tr>
                                 <td>Recuperation des données de formation LDAP </td>
                                 <td>4 heures</td>
                                 <td>3 heures</td>
-                                <td>En cours</td>
+                                <td>Terminé</td>
                                 <td>Alexandre Lefebvre</td>
                                 </tr>
                               </tbody>
@@ -1549,7 +1549,7 @@ include("header.php");
                                   <td>Faire HTML/CSS</td>
                                   <td>1 heure</td>
                                   <td></td>
-                                  <td>En cours</td>
+                                  <td>Terminé</td>
                                   <td>C&eacute;dric Duhautois</td>
                                 </tr>
                               </tbody>
@@ -1796,7 +1796,7 @@ include("header.php");
                                   <td>Faire le HTML/CSS</td>
                                   <td>2 heures</td>
                                   <td>1.5 heures</td>
-                                  <td>En cours</td>
+                                  <td>Terminé</td>
                                   <td>Alexandre Lefebvre</td>
                                 </tr>
                                 <tr>
@@ -1809,13 +1809,13 @@ include("header.php");
                                 <td>D&eacute;veloppement de la persistence JPA de formulaire divers</td>
                                 <td>2 heures</td>
                                 <td>3 heures </td>
-                                <td>En cours</td>
+                                <td>Terminé</td>
                                 <td>Alexandre Lefebvre</td>
                                 <tr>
                                   <td>Faire le controller pour la page de formulaire divers</td>
                                   <td>30 minutes</td>
                                   <td>2.5 heures</td>
-                                  <td>En cours</td>
+                                  <td>Terminé</td>
                                   <td>Alexandre Lefebvre</td>
                                 </tr>
                               </tbody>
@@ -1928,7 +1928,7 @@ include("header.php");
                                   <td>Faire la liaison avec la BD</td>
                                   <td>30 minutes</td>
                                   <td>1 heure</td>
-                                  <td>En cours</td>
+                                  <td>Terminé</td>
                                   <td>Clément Dilly</td>
                                 </tr>
                               </tbody>

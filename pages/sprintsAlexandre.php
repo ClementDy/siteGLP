@@ -11,7 +11,7 @@
 
         <div class="row">
           <div class="col-lg-12">
-            <p style="text-align:right"> Temps Total : 131 heures</p>
+            <p style="text-align:right"> Temps Total : 134 heures</p>
             <div class="panel panel-default">
               <div class="panel-heading">
                 Les sprints d'Alexandre
@@ -28,7 +28,7 @@
                     </div>
                     <div id="sprint9" class="panel-collapse collapse">
 
-                      <p style="text-align:right"> Temps Sprint : 24 heures</p>
+                      <p style="text-align:right"> Temps Sprint : 27 heures</p>
                       <div class="panel panel-default">
                         <div class="panel-heading">
                           Relev&eacute; d'activit&eacute;s
@@ -46,29 +46,39 @@
                               </thead>
                               <tbody>
                                 <tr>
+                                  <td>21/03/2017</td>
+                                  <td>2 heures</td>
+                                  <td>4.1.4 Passage à la nouvelle année</td>
+                                </tr>
+                                <tr>
+                                  <td>21/03/2017</td>
+                                  <td>1 heure</td>
+                                  <td>1.4.1 Correction du bug de dépublication</td>
+                                </tr>
+                                <tr>
                                   <td>17/03/2017</td>
                                   <td>0.5 heure</td>
-                                  <td>Ajout d'un tooltip pour les offres</td>
+                                  <td> 10.5 Ajout d'un tooltip pour les offres</td>
                                 </tr>
                                 <tr>
                                   <td>17/03/2017</td>
                                   <td>0.5  heure</td>
-                                  <td>Sur la page profil, en cliquant sur l'adresse mail , on pourra directement envoyé un message</td>
+                                  <td>1.2.1 Sur la page profil, en cliquant sur l'adresse mail , on pourra directement envoyé un message</td>
                                 </tr>
                                 <tr>
                                   <td>17/03/2017</td>
                                   <td>2 heures</td>
-                                  <td>Récuperation des infos du responsable pré-rempli pour la création d'offres</td>
+                                  <td>2.1.1 Récuperation des infos du responsable pré-rempli pour la création d'offres</td>
                                 </tr>
                                 <tr>
                                   <td>17/03/2017</td>
                                   <td>1 heures</td>
-                                  <td>Recherche d'offres par type et non plus par numero d'offres</td>
+                                  <td>2.2.1 Recherche d'offres par type et non plus par numero d'offres</td>
                                 </tr>
                                 <tr>
                                   <td>16/03/2017</td>
                                   <td>4 heures</td>
-                                  <td>Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
+                                  <td>1.1.11 Un etudiant aura la possibilté de recevoir un mail à chaque offre avec un type de mission souhaité</td>
                                 </tr>
                                 <tr>
                                   <td>14/03/2017</td>
